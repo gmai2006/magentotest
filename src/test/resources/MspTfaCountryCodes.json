@@ -1,0 +1,62 @@
+[
+  {
+    "code": "0",
+    "dialCode": "0",
+    "name": "",
+    "mspTfaCountryCodesId": 2141684989
+  },
+  {
+    "code": "1",
+    "dialCode": "1",
+    "name": "",
+    "mspTfaCountryCodesId": 1947136924
+  },
+  {
+    "code": "2",
+    "dialCode": "2",
+    "name": "",
+    "mspTfaCountryCodesId": 964735754
+  },
+  {
+    "code": "3",
+    "dialCode": "3",
+    "name": "",
+    "mspTfaCountryCodesId": 2022794133
+  },
+  {
+    "code": "4",
+    "dialCode": "4",
+    "name": "",
+    "mspTfaCountryCodesId": 1838689447
+  },
+  {
+    "code": "5",
+    "dialCode": "5",
+    "name": "",
+    "mspTfaCountryCodesId": 567841716
+  },
+  {
+    "code": "6",
+    "dialCode": "6",
+    "name": "",
+    "mspTfaCountryCodesId": 441750154
+  },
+  {
+    "code": "7",
+    "dialCode": "7",
+    "name": "",
+    "mspTfaCountryCodesId": 819019916
+  },
+  {
+    "code": "8",
+    "dialCode": "8",
+    "name": "",
+    "mspTfaCountryCodesId": 249424631
+  },
+  {
+    "code": "9",
+    "dialCode": "9",
+    "name": "",
+    "mspTfaCountryCodesId": 611968071
+  }
+]

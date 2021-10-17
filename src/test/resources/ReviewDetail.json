@@ -1,0 +1,92 @@
+[
+  {
+    "nickname": "Marcille",
+    "customerId": 0,
+    "detail": "0",
+    "storeId": 0,
+    "title": "Lorem ipsum dolor si0",
+    "reviewId": "0",
+    "detailId": "1534337906"
+  },
+  {
+    "nickname": "Hendrika",
+    "customerId": 1,
+    "detail": "1",
+    "storeId": 1,
+    "title": "Lorem ipsum dolor si1",
+    "reviewId": "1",
+    "detailId": "987847011"
+  },
+  {
+    "nickname": "Martha",
+    "customerId": 2,
+    "detail": "2",
+    "storeId": 2,
+    "title": "Lorem ipsum dolor si2",
+    "reviewId": "2",
+    "detailId": "674432762"
+  },
+  {
+    "nickname": "Emmi",
+    "customerId": 3,
+    "detail": "3",
+    "storeId": 3,
+    "title": "Lorem ipsum dolor si3",
+    "reviewId": "3",
+    "detailId": "1574442056"
+  },
+  {
+    "nickname": "Windy",
+    "customerId": 4,
+    "detail": "4",
+    "storeId": 4,
+    "title": "Lorem ipsum dolor si4",
+    "reviewId": "4",
+    "detailId": "1035927734"
+  },
+  {
+    "nickname": "Riane",
+    "customerId": 5,
+    "detail": "5",
+    "storeId": 5,
+    "title": "Lorem ipsum dolor si5",
+    "reviewId": "5",
+    "detailId": "605049630"
+  },
+  {
+    "nickname": "Clotilda",
+    "customerId": 6,
+    "detail": "6",
+    "storeId": 6,
+    "title": "Lorem ipsum dolor si6",
+    "reviewId": "6",
+    "detailId": "308042730"
+  },
+  {
+    "nickname": "Shay",
+    "customerId": 7,
+    "detail": "7",
+    "storeId": 7,
+    "title": "Lorem ipsum dolor si7",
+    "reviewId": "7",
+    "detailId": "2091777119"
+  },
+  {
+    "nickname": "Maxie",
+    "customerId": 8,
+    "detail": "8",
+    "storeId": 8,
+    "title": "Lorem ipsum dolor si8",
+    "reviewId": "8",
+    "detailId": "259355929"
+  },
+  {
+    "nickname": "Jonie",
+    "customerId": 9,
+    "detail": "9",
+    "storeId": 9,
+    "title": "Lorem ipsum dolor si9",
+    "reviewId": "9",
+    "detailId": "673768717"
+  }
+]

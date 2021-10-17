@@ -1,0 +1,112 @@
+[
+  {
+    "createdAt": "2059-10-17T00:08:08.000-0700",
+    "path": "Lorem ipsum dolor si0",
+    "level": 0,
+    "attributeSetId": 0,
+    "position": 0,
+    "parentId": 0,
+    "updatedAt": "2024-10-17T00:08:08.000-0700",
+    "childrenCount": 0,
+    "entityId": 1515475079
+  },
+  {
+    "createdAt": "1941-10-16T23:08:14.000-0800",
+    "path": "Lorem ipsum dolor si1",
+    "level": 1,
+    "attributeSetId": 1,
+    "position": 1,
+    "parentId": 1,
+    "updatedAt": "2079-10-17T00:08:14.000-0700",
+    "childrenCount": 1,
+    "entityId": 877560707
+  },
+  {
+    "createdAt": "2026-10-17T00:08:14.000-0700",
+    "path": "Lorem ipsum dolor si2",
+    "level": 2,
+    "attributeSetId": 2,
+    "position": 2,
+    "parentId": 2,
+    "updatedAt": "1909-10-16T23:08:14.000-0800",
+    "childrenCount": 2,
+    "entityId": 1419951200
+  },
+  {
+    "createdAt": "2089-10-17T00:08:14.000-0700",
+    "path": "Lorem ipsum dolor si3",
+    "level": 3,
+    "attributeSetId": 3,
+    "position": 3,
+    "parentId": 3,
+    "updatedAt": "1962-10-17T00:08:14.000-0700",
+    "childrenCount": 3,
+    "entityId": 1601456017
+  },
+  {
+    "createdAt": "1912-10-16T23:08:14.000-0800",
+    "path": "Lorem ipsum dolor si4",
+    "level": 4,
+    "attributeSetId": 4,
+    "position": 4,
+    "parentId": 4,
+    "updatedAt": "2014-10-17T00:08:14.000-0700",
+    "childrenCount": 4,
+    "entityId": 521950715
+  },
+  {
+    "createdAt": "2045-10-17T00:08:14.000-0700",
+    "path": "Lorem ipsum dolor si5",
+    "level": 5,
+    "attributeSetId": 5,
+    "position": 5,
+    "parentId": 5,
+    "updatedAt": "2001-10-17T00:08:14.000-0700",
+    "childrenCount": 5,
+    "entityId": 396870940
+  },
+  {
+    "createdAt": "2087-10-17T00:08:14.000-0700",
+    "path": "Lorem ipsum dolor si6",
+    "level": 6,
+    "attributeSetId": 6,
+    "position": 6,
+    "parentId": 6,
+    "updatedAt": "2008-10-17T00:08:14.000-0700",
+    "childrenCount": 6,
+    "entityId": 447487823
+  },
+  {
+    "createdAt": "1970-10-17T00:08:14.000-0700",
+    "path": "Lorem ipsum dolor si7",
+    "level": 7,
+    "attributeSetId": 7,
+    "position": 7,
+    "parentId": 7,
+    "updatedAt": "2057-10-17T00:08:14.000-0700",
+    "childrenCount": 7,
+    "entityId": 613991023
+  },
+  {
+    "createdAt": "2063-10-17T00:08:14.000-0700",
+    "path": "Lorem ipsum dolor si8",
+    "level": 8,
+    "attributeSetId": 8,
+    "position": 8,
+    "parentId": 8,
+    "updatedAt": "1967-10-17T00:08:14.000-0700",
+    "childrenCount": 8,
+    "entityId": 117612024
+  },
+  {
+    "createdAt": "1960-10-16T23:08:14.000-0800",
+    "path": "Lorem ipsum dolor si9",
+    "level": 9,
+    "attributeSetId": 9,
+    "position": 9,
+    "parentId": 9,
+    "updatedAt": "1933-10-16T23:08:14.000-0800",
+    "childrenCount": 9,
+    "entityId": 1823911133
+  }
+]

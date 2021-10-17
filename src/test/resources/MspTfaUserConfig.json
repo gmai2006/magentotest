@@ -1,0 +1,72 @@
+[
+  {
+    "encodedProviders": "0",
+    "encodedConfig": "0",
+    "userId": 0,
+    "defaultProvider": "0",
+    "mspTfaUserConfigId": 542181486
+  },
+  {
+    "encodedProviders": "1",
+    "encodedConfig": "1",
+    "userId": 1,
+    "defaultProvider": "1",
+    "mspTfaUserConfigId": 2075314429
+  },
+  {
+    "encodedProviders": "2",
+    "encodedConfig": "2",
+    "userId": 2,
+    "defaultProvider": "2",
+    "mspTfaUserConfigId": 559415816
+  },
+  {
+    "encodedProviders": "3",
+    "encodedConfig": "3",
+    "userId": 3,
+    "defaultProvider": "3",
+    "mspTfaUserConfigId": 1885174795
+  },
+  {
+    "encodedProviders": "4",
+    "encodedConfig": "4",
+    "userId": 4,
+    "defaultProvider": "4",
+    "mspTfaUserConfigId": 1129539484
+  },
+  {
+    "encodedProviders": "5",
+    "encodedConfig": "5",
+    "userId": 5,
+    "defaultProvider": "5",
+    "mspTfaUserConfigId": 979201196
+  },
+  {
+    "encodedProviders": "6",
+    "encodedConfig": "6",
+    "userId": 6,
+    "defaultProvider": "6",
+    "mspTfaUserConfigId": 331178175
+  },
+  {
+    "encodedProviders": "7",
+    "encodedConfig": "7",
+    "userId": 7,
+    "defaultProvider": "7",
+    "mspTfaUserConfigId": 2133766742
+  },
+  {
+    "encodedProviders": "8",
+    "encodedConfig": "8",
+    "userId": 8,
+    "defaultProvider": "8",
+    "mspTfaUserConfigId": 257466537
+  },
+  {
+    "encodedProviders": "9",
+    "encodedConfig": "9",
+    "userId": 9,
+    "defaultProvider": "9",
+    "mspTfaUserConfigId": 945804310
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "addedAt": "2048-10-17T00:08:09.000-0700",
+    "storeId": 0,
+    "customerId": 1395017522,
+    "indexId": "504604553",
+    "productId": 676185358,
+    "visitorId": 544033179
+  },
+  {
+    "addedAt": "1964-10-17T00:08:15.000-0700",
+    "storeId": 1,
+    "customerId": 925103599,
+    "indexId": "1642606930",
+    "productId": 1208084795,
+    "visitorId": 815011649
+  },
+  {
+    "addedAt": "2066-10-17T00:08:15.000-0700",
+    "storeId": 2,
+    "customerId": 228705250,
+    "indexId": "1895549022",
+    "productId": 1945691615,
+    "visitorId": 1159320707
+  },
+  {
+    "addedAt": "1942-10-17T00:08:15.000-0700",
+    "storeId": 3,
+    "customerId": 506834847,
+    "indexId": "285168845",
+    "productId": 961263435,
+    "visitorId": 506391708
+  },
+  {
+    "addedAt": "2018-10-17T00:08:15.000-0700",
+    "storeId": 4,
+    "customerId": 1294815191,
+    "indexId": "786939370",
+    "productId": 464904204,
+    "visitorId": 1158672139
+  },
+  {
+    "addedAt": "1971-10-17T00:08:15.000-0700",
+    "storeId": 5,
+    "customerId": 1343276192,
+    "indexId": "145233560",
+    "productId": 885251832,
+    "visitorId": 1897164670
+  },
+  {
+    "addedAt": "1921-10-16T23:08:15.000-0800",
+    "storeId": 6,
+    "customerId": 1779780036,
+    "indexId": "312477912",
+    "productId": 2084706907,
+    "visitorId": 877663772
+  },
+  {
+    "addedAt": "2007-10-17T00:08:15.000-0700",
+    "storeId": 7,
+    "customerId": 1904235718,
+    "indexId": "372127591",
+    "productId": 1803160649,
+    "visitorId": 1778920046
+  },
+  {
+    "addedAt": "1941-10-16T23:08:15.000-0800",
+    "storeId": 8,
+    "customerId": 1347704946,
+    "indexId": "561764228",
+    "productId": 1137484307,
+    "visitorId": 1363583723
+  },
+  {
+    "addedAt": "1995-10-17T00:08:15.000-0700",
+    "storeId": 9,
+    "customerId": 1624762400,
+    "indexId": "493413583",
+    "productId": 1844830420,
+    "visitorId": 890921758
+  }
+]

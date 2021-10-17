@@ -1,0 +1,82 @@
+[
+  {
+    "websiteId": 0,
+    "name": "Alyssa",
+    "rootCategoryId": 0,
+    "defaultStoreId": 0,
+    "code": "7f9d2414-0f11-4f1d-b95c-87616511c112",
+    "groupId": 1803911041
+  },
+  {
+    "websiteId": 1,
+    "name": "Carmelle",
+    "rootCategoryId": 1,
+    "defaultStoreId": 1,
+    "code": "b1e0a137-9877-4d1e-a47f-a4e9c9130b5d",
+    "groupId": 218801059
+  },
+  {
+    "websiteId": 2,
+    "name": "Loree",
+    "rootCategoryId": 2,
+    "defaultStoreId": 2,
+    "code": "d46dbdc4-b864-43c7-976a-8e96ea065582",
+    "groupId": 331746056
+  },
+  {
+    "websiteId": 3,
+    "name": "Gabbey",
+    "rootCategoryId": 3,
+    "defaultStoreId": 3,
+    "code": "56a58fa4-e223-4dda-b468-b33bc90fa574",
+    "groupId": 1893982477
+  },
+  {
+    "websiteId": 4,
+    "name": "Binnie",
+    "rootCategoryId": 4,
+    "defaultStoreId": 4,
+    "code": "0678d670-9dd5-43ad-9055-0e7a30fa4d66",
+    "groupId": 1568430896
+  },
+  {
+    "websiteId": 5,
+    "name": "Fleur",
+    "rootCategoryId": 5,
+    "defaultStoreId": 5,
+    "code": "fcdba147-4f15-4a37-bc4f-481ed875cf43",
+    "groupId": 1868662844
+  },
+  {
+    "websiteId": 6,
+    "name": "Yvette",
+    "rootCategoryId": 6,
+    "defaultStoreId": 6,
+    "code": "9904ea0b-4d7c-446d-aa0a-7ceae197b24b",
+    "groupId": 1334833835
+  },
+  {
+    "websiteId": 7,
+    "name": "Corliss",
+    "rootCategoryId": 7,
+    "defaultStoreId": 7,
+    "code": "0519eaa4-6cf6-4ce9-be9f-7b364108a416",
+    "groupId": 2141605433
+  },
+  {
+    "websiteId": 8,
+    "name": "Beatrice",
+    "rootCategoryId": 8,
+    "defaultStoreId": 8,
+    "code": "c2cbb27e-9219-4f50-af32-623da6d5c184",
+    "groupId": 1643778589
+  },
+  {
+    "websiteId": 9,
+    "name": "Lorine",
+    "rootCategoryId": 9,
+    "defaultStoreId": 9,
+    "code": "50c1d51d-8ac2-4cdb-b943-644949813ad9",
+    "groupId": 1815714742
+  }
+]

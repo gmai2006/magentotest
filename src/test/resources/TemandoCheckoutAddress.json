@@ -1,0 +1,52 @@
+[
+  {
+    "serviceSelection": "0",
+    "shippingAddressId": 0,
+    "entityId": 671797120
+  },
+  {
+    "serviceSelection": "1",
+    "shippingAddressId": 1,
+    "entityId": 1505625597
+  },
+  {
+    "serviceSelection": "2",
+    "shippingAddressId": 2,
+    "entityId": 906570896
+  },
+  {
+    "serviceSelection": "3",
+    "shippingAddressId": 3,
+    "entityId": 822409185
+  },
+  {
+    "serviceSelection": "4",
+    "shippingAddressId": 4,
+    "entityId": 421691563
+  },
+  {
+    "serviceSelection": "5",
+    "shippingAddressId": 5,
+    "entityId": 522418625
+  },
+  {
+    "serviceSelection": "6",
+    "shippingAddressId": 6,
+    "entityId": 293101815
+  },
+  {
+    "serviceSelection": "7",
+    "shippingAddressId": 7,
+    "entityId": 1050727637
+  },
+  {
+    "serviceSelection": "8",
+    "shippingAddressId": 8,
+    "entityId": 191349344
+  },
+  {
+    "serviceSelection": "9",
+    "shippingAddressId": 9,
+    "entityId": 629384604
+  }
+]

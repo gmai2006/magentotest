@@ -1,0 +1,92 @@
+[
+  {
+    "attributeId": 0,
+    "country": "Mo",
+    "websiteId": 0,
+    "entityId": 0,
+    "state": 0,
+    "value": 0,
+    "valueId": 1609469336
+  },
+  {
+    "attributeId": 1,
+    "country": "Ca",
+    "websiteId": 1,
+    "entityId": 1,
+    "state": 1,
+    "value": 1,
+    "valueId": 1380775919
+  },
+  {
+    "attributeId": 2,
+    "country": "Co",
+    "websiteId": 2,
+    "entityId": 2,
+    "state": 2,
+    "value": 2,
+    "valueId": 58974492
+  },
+  {
+    "attributeId": 3,
+    "country": "Fi",
+    "websiteId": 3,
+    "entityId": 3,
+    "state": 3,
+    "value": 3,
+    "valueId": 213024030
+  },
+  {
+    "attributeId": 4,
+    "country": "Li",
+    "websiteId": 4,
+    "entityId": 4,
+    "state": 4,
+    "value": 4,
+    "valueId": 1283962395
+  },
+  {
+    "attributeId": 5,
+    "country": "Pi",
+    "websiteId": 5,
+    "entityId": 5,
+    "state": 5,
+    "value": 5,
+    "valueId": 170851027
+  },
+  {
+    "attributeId": 6,
+    "country": "Th",
+    "websiteId": 6,
+    "entityId": 6,
+    "state": 6,
+    "value": 6,
+    "valueId": 1901949165
+  },
+  {
+    "attributeId": 7,
+    "country": "Bo",
+    "websiteId": 7,
+    "entityId": 7,
+    "state": 7,
+    "value": 7,
+    "valueId": 1266962420
+  },
+  {
+    "attributeId": 8,
+    "country": "Co",
+    "websiteId": 8,
+    "entityId": 8,
+    "state": 8,
+    "value": 8,
+    "valueId": 2125705511
+  },
+  {
+    "attributeId": 9,
+    "country": "Vi",
+    "websiteId": 9,
+    "entityId": 9,
+    "state": 9,
+    "value": 9,
+    "valueId": 1905311685
+  }
+]

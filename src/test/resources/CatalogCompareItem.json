@@ -1,0 +1,72 @@
+[
+  {
+    "productId": 0,
+    "customerId": 0,
+    "storeId": 0,
+    "visitorId": 0,
+    "catalogCompareItemId": 938893143
+  },
+  {
+    "productId": 1,
+    "customerId": 1,
+    "storeId": 1,
+    "visitorId": 1,
+    "catalogCompareItemId": 915450129
+  },
+  {
+    "productId": 2,
+    "customerId": 2,
+    "storeId": 2,
+    "visitorId": 2,
+    "catalogCompareItemId": 1502622099
+  },
+  {
+    "productId": 3,
+    "customerId": 3,
+    "storeId": 3,
+    "visitorId": 3,
+    "catalogCompareItemId": 1309422211
+  },
+  {
+    "productId": 4,
+    "customerId": 4,
+    "storeId": 4,
+    "visitorId": 4,
+    "catalogCompareItemId": 715558331
+  },
+  {
+    "productId": 5,
+    "customerId": 5,
+    "storeId": 5,
+    "visitorId": 5,
+    "catalogCompareItemId": 1583851251
+  },
+  {
+    "productId": 6,
+    "customerId": 6,
+    "storeId": 6,
+    "visitorId": 6,
+    "catalogCompareItemId": 755205814
+  },
+  {
+    "productId": 7,
+    "customerId": 7,
+    "storeId": 7,
+    "visitorId": 7,
+    "catalogCompareItemId": 525292530
+  },
+  {
+    "productId": 8,
+    "customerId": 8,
+    "storeId": 8,
+    "visitorId": 8,
+    "catalogCompareItemId": 1426792806
+  },
+  {
+    "productId": 9,
+    "customerId": 9,
+    "storeId": 9,
+    "visitorId": 9,
+    "catalogCompareItemId": 91501193
+  }
+]

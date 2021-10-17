@@ -1,0 +1,122 @@
+[
+  {
+    "remoteIp": "Lorem ipsum dol0",
+    "ratingId": 0,
+    "customerId": 0,
+    "entityPkValue": "0",
+    "optionId": 0,
+    "remoteIpLong": "0",
+    "reviewId": "0",
+    "percent": 0,
+    "value": 0,
+    "voteId": "545745930"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol1",
+    "ratingId": 1,
+    "customerId": 1,
+    "entityPkValue": "1",
+    "optionId": 1,
+    "remoteIpLong": "1",
+    "reviewId": "1",
+    "percent": 1,
+    "value": 1,
+    "voteId": "214252107"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol2",
+    "ratingId": 2,
+    "customerId": 2,
+    "entityPkValue": "2",
+    "optionId": 2,
+    "remoteIpLong": "2",
+    "reviewId": "2",
+    "percent": 2,
+    "value": 2,
+    "voteId": "2064261637"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol3",
+    "ratingId": 3,
+    "customerId": 3,
+    "entityPkValue": "3",
+    "optionId": 3,
+    "remoteIpLong": "3",
+    "reviewId": "3",
+    "percent": 3,
+    "value": 3,
+    "voteId": "255210886"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol4",
+    "ratingId": 4,
+    "customerId": 4,
+    "entityPkValue": "4",
+    "optionId": 4,
+    "remoteIpLong": "4",
+    "reviewId": "4",
+    "percent": 4,
+    "value": 4,
+    "voteId": "1261923246"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol5",
+    "ratingId": 5,
+    "customerId": 5,
+    "entityPkValue": "5",
+    "optionId": 5,
+    "remoteIpLong": "5",
+    "reviewId": "5",
+    "percent": 5,
+    "value": 5,
+    "voteId": "759157814"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol6",
+    "ratingId": 6,
+    "customerId": 6,
+    "entityPkValue": "6",
+    "optionId": 6,
+    "remoteIpLong": "6",
+    "reviewId": "6",
+    "percent": 6,
+    "value": 6,
+    "voteId": "1975351949"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol7",
+    "ratingId": 7,
+    "customerId": 7,
+    "entityPkValue": "7",
+    "optionId": 7,
+    "remoteIpLong": "7",
+    "reviewId": "7",
+    "percent": 7,
+    "value": 7,
+    "voteId": "1643341684"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol8",
+    "ratingId": 8,
+    "customerId": 8,
+    "entityPkValue": "8",
+    "optionId": 8,
+    "remoteIpLong": "8",
+    "reviewId": "8",
+    "percent": 8,
+    "value": 8,
+    "voteId": "803966181"
+  },
+  {
+    "remoteIp": "Lorem ipsum dol9",
+    "ratingId": 9,
+    "customerId": 9,
+    "entityPkValue": "9",
+    "optionId": 9,
+    "remoteIpLong": "9",
+    "reviewId": "9",
+    "percent": 9,
+    "value": 9,
+    "voteId": "637501825"
+  }
+]

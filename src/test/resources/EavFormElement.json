@@ -1,0 +1,72 @@
+[
+  {
+    "fieldsetId": 0,
+    "sortOrder": 0,
+    "attributeId": 1740944502,
+    "elementId": 1573123924,
+    "typeId": 1669033985
+  },
+  {
+    "fieldsetId": 1,
+    "sortOrder": 1,
+    "attributeId": 1578505442,
+    "elementId": 1885848716,
+    "typeId": 1605886258
+  },
+  {
+    "fieldsetId": 2,
+    "sortOrder": 2,
+    "attributeId": 1036807914,
+    "elementId": 1944499139,
+    "typeId": 650416291
+  },
+  {
+    "fieldsetId": 3,
+    "sortOrder": 3,
+    "attributeId": 533742429,
+    "elementId": 755977592,
+    "typeId": 1619380493
+  },
+  {
+    "fieldsetId": 4,
+    "sortOrder": 4,
+    "attributeId": 1791857492,
+    "elementId": 675954103,
+    "typeId": 1826372082
+  },
+  {
+    "fieldsetId": 5,
+    "sortOrder": 5,
+    "attributeId": 1336484764,
+    "elementId": 1420409229,
+    "typeId": 1746351724
+  },
+  {
+    "fieldsetId": 6,
+    "sortOrder": 6,
+    "attributeId": 392180417,
+    "elementId": 1423834155,
+    "typeId": 747303888
+  },
+  {
+    "fieldsetId": 7,
+    "sortOrder": 7,
+    "attributeId": 1551068538,
+    "elementId": 1183119128,
+    "typeId": 7888902
+  },
+  {
+    "fieldsetId": 8,
+    "sortOrder": 8,
+    "attributeId": 1080861763,
+    "elementId": 1278347494,
+    "typeId": 571535964
+  },
+  {
+    "fieldsetId": 9,
+    "sortOrder": 9,
+    "attributeId": 1911313407,
+    "elementId": 1129998126,
+    "typeId": 2141356569
+  }
+]

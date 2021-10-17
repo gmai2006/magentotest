@@ -1,0 +1,52 @@
+[
+  {
+    "websiteId": 0,
+    "stockName": "Victoria",
+    "stockId": 67287433
+  },
+  {
+    "websiteId": 1,
+    "stockName": "Bette",
+    "stockId": 526333303
+  },
+  {
+    "websiteId": 2,
+    "stockName": "Korella",
+    "stockId": 1249358501
+  },
+  {
+    "websiteId": 3,
+    "stockName": "Gloria",
+    "stockId": 1921635993
+  },
+  {
+    "websiteId": 4,
+    "stockName": "Selinda",
+    "stockId": 1733704212
+  },
+  {
+    "websiteId": 5,
+    "stockName": "Lizabeth",
+    "stockId": 1974120852
+  },
+  {
+    "websiteId": 6,
+    "stockName": "Domeniga",
+    "stockId": 1753924475
+  },
+  {
+    "websiteId": 7,
+    "stockName": "Heloise",
+    "stockId": 163234927
+  },
+  {
+    "websiteId": 8,
+    "stockName": "Kaile",
+    "stockId": 1387685841
+  },
+  {
+    "websiteId": 9,
+    "stockName": "Pearline",
+    "stockId": 1540623105
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "addedAt": "1979-10-17T00:08:09.000-0700",
+    "productId": 0,
+    "qty": 0,
+    "description": "0",
+    "storeId": 0,
+    "wishlistId": 0,
+    "wishlistItemId": 1892889383
+  },
+  {
+    "addedAt": "2058-10-17T00:08:16.000-0700",
+    "productId": 1,
+    "qty": 1,
+    "description": "1",
+    "storeId": 1,
+    "wishlistId": 1,
+    "wishlistItemId": 608935316
+  },
+  {
+    "addedAt": "2098-10-17T00:08:16.000-0700",
+    "productId": 2,
+    "qty": 2,
+    "description": "2",
+    "storeId": 2,
+    "wishlistId": 2,
+    "wishlistItemId": 1104998284
+  },
+  {
+    "addedAt": "1983-10-17T00:08:16.000-0700",
+    "productId": 3,
+    "qty": 3,
+    "description": "3",
+    "storeId": 3,
+    "wishlistId": 3,
+    "wishlistItemId": 212224453
+  },
+  {
+    "addedAt": "2024-10-17T00:08:16.000-0700",
+    "productId": 4,
+    "qty": 4,
+    "description": "4",
+    "storeId": 4,
+    "wishlistId": 4,
+    "wishlistItemId": 2006799304
+  },
+  {
+    "addedAt": "1930-10-16T23:08:16.000-0800",
+    "productId": 5,
+    "qty": 5,
+    "description": "5",
+    "storeId": 5,
+    "wishlistId": 5,
+    "wishlistItemId": 1232798150
+  },
+  {
+    "addedAt": "2001-10-17T00:08:16.000-0700",
+    "productId": 6,
+    "qty": 6,
+    "description": "6",
+    "storeId": 6,
+    "wishlistId": 6,
+    "wishlistItemId": 32973112
+  },
+  {
+    "addedAt": "1931-10-16T23:08:16.000-0800",
+    "productId": 7,
+    "qty": 7,
+    "description": "7",
+    "storeId": 7,
+    "wishlistId": 7,
+    "wishlistItemId": 1773646645
+  },
+  {
+    "addedAt": "2003-10-17T00:08:16.000-0700",
+    "productId": 8,
+    "qty": 8,
+    "description": "8",
+    "storeId": 8,
+    "wishlistId": 8,
+    "wishlistItemId": 125829890
+  },
+  {
+    "addedAt": "2083-10-17T00:08:16.000-0700",
+    "productId": 9,
+    "qty": 9,
+    "description": "9",
+    "storeId": 9,
+    "wishlistId": 9,
+    "wishlistItemId": 1916723617
+  }
+]

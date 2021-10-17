@@ -1,0 +1,72 @@
+[
+  {
+    "value": "0",
+    "path": "d97aa5aa-478f-471e-b326-9521bf2d956a",
+    "scopeId": 667772190,
+    "configId": 752639715,
+    "scope": "7b4e17cc-a08d-48bd-8428-f72e1a495c76"
+  },
+  {
+    "value": "1",
+    "path": "df3c5cd4-3a0c-4d57-acdb-5125d0595a45",
+    "scopeId": 781444420,
+    "configId": 1052819198,
+    "scope": "e87cea25-f8cb-41fc-9598-2aa435ac5f33"
+  },
+  {
+    "value": "2",
+    "path": "1c94dff4-4694-4d1e-a297-8db5b20c5a05",
+    "scopeId": 106227550,
+    "configId": 2075175944,
+    "scope": "bcc716e1-0485-4c9e-b1fd-97d2342d9e93"
+  },
+  {
+    "value": "3",
+    "path": "1f38f165-4a52-40d6-ad0b-9105c30792fc",
+    "scopeId": 90017753,
+    "configId": 1033207592,
+    "scope": "1764fec9-5dcd-4e23-af3c-77b477c82373"
+  },
+  {
+    "value": "4",
+    "path": "08b6d9fa-57a5-48b7-b593-016bc5f2d8ed",
+    "scopeId": 1424118824,
+    "configId": 1788854276,
+    "scope": "50400a0e-ea7d-4d4d-a5a4-dbcae4cb6800"
+  },
+  {
+    "value": "5",
+    "path": "4c067a73-73b2-4e21-b34a-62881ce3da80",
+    "scopeId": 426282179,
+    "configId": 1113168656,
+    "scope": "c5f2a6c7-9e66-4ebf-97a2-5f0459db5e33"
+  },
+  {
+    "value": "6",
+    "path": "30a9d40b-a5ef-45fa-af45-3250edd2f07f",
+    "scopeId": 1908308452,
+    "configId": 689862239,
+    "scope": "b5885e73-f8f9-4c78-a098-4c0499ba6c1e"
+  },
+  {
+    "value": "7",
+    "path": "9cfd2048-86e8-45d2-a7ff-a82eb293677c",
+    "scopeId": 91937635,
+    "configId": 1462070346,
+    "scope": "22d5e096-260b-4578-b70d-3258a104641f"
+  },
+  {
+    "value": "8",
+    "path": "c64c133b-faf9-4cf4-b81d-1f4b457e496d",
+    "scopeId": 1724290075,
+    "configId": 309724150,
+    "scope": "5e391e6d-2678-45e7-8ed5-2315f3df6ff3"
+  },
+  {
+    "value": "9",
+    "path": "d2efed3a-fdcc-404d-8e8d-56dbce659039",
+    "scopeId": 745074457,
+    "configId": 394989547,
+    "scope": "8e88236b-b9af-4671-b71a-ff71ce692bf1"
+  }
+]

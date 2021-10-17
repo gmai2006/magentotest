@@ -1,0 +1,82 @@
+[
+  {
+    "failuresNum": 0,
+    "lastAttemptDate": "1966-10-16",
+    "storeId": 0,
+    "firstAttemptDate": "2055-10-16",
+    "url": "Lorem ipsum dolor si0",
+    "id": 862591805
+  },
+  {
+    "failuresNum": 1,
+    "lastAttemptDate": "1976-10-16",
+    "storeId": 1,
+    "firstAttemptDate": "1990-10-16",
+    "url": "Lorem ipsum dolor si1",
+    "id": 60943474
+  },
+  {
+    "failuresNum": 2,
+    "lastAttemptDate": "1900-10-16",
+    "storeId": 2,
+    "firstAttemptDate": "1998-10-16",
+    "url": "Lorem ipsum dolor si2",
+    "id": 224627682
+  },
+  {
+    "failuresNum": 3,
+    "lastAttemptDate": "2076-10-16",
+    "storeId": 3,
+    "firstAttemptDate": "1929-10-16",
+    "url": "Lorem ipsum dolor si3",
+    "id": 1370489090
+  },
+  {
+    "failuresNum": 4,
+    "lastAttemptDate": "2017-10-16",
+    "storeId": 4,
+    "firstAttemptDate": "1917-10-16",
+    "url": "Lorem ipsum dolor si4",
+    "id": 1852911721
+  },
+  {
+    "failuresNum": 5,
+    "lastAttemptDate": "1945-10-16",
+    "storeId": 5,
+    "firstAttemptDate": "2077-10-16",
+    "url": "Lorem ipsum dolor si5",
+    "id": 701138142
+  },
+  {
+    "failuresNum": 6,
+    "lastAttemptDate": "1906-10-16",
+    "storeId": 6,
+    "firstAttemptDate": "1948-10-16",
+    "url": "Lorem ipsum dolor si6",
+    "id": 1658753061
+  },
+  {
+    "failuresNum": 7,
+    "lastAttemptDate": "2083-10-16",
+    "storeId": 7,
+    "firstAttemptDate": "2048-10-16",
+    "url": "Lorem ipsum dolor si7",
+    "id": 1893753704
+  },
+  {
+    "failuresNum": 8,
+    "lastAttemptDate": "2086-10-16",
+    "storeId": 8,
+    "firstAttemptDate": "1970-10-16",
+    "url": "Lorem ipsum dolor si8",
+    "id": 961302886
+  },
+  {
+    "failuresNum": 9,
+    "lastAttemptDate": "1960-10-16",
+    "storeId": 9,
+    "firstAttemptDate": "2008-10-16",
+    "url": "Lorem ipsum dolor si9",
+    "id": 1216283704
+  }
+]

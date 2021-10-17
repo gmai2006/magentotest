@@ -1,0 +1,72 @@
+[
+  {
+    "privileges": "Lorem ipsum dolor s0",
+    "resourceId": "Lorem ipsum dolor si0",
+    "roleId": 0,
+    "permission": "Lorem ips0",
+    "ruleId": 1920080969
+  },
+  {
+    "privileges": "Lorem ipsum dolor s1",
+    "resourceId": "Lorem ipsum dolor si1",
+    "roleId": 1,
+    "permission": "Lorem ips1",
+    "ruleId": 242779440
+  },
+  {
+    "privileges": "Lorem ipsum dolor s2",
+    "resourceId": "Lorem ipsum dolor si2",
+    "roleId": 2,
+    "permission": "Lorem ips2",
+    "ruleId": 1436880290
+  },
+  {
+    "privileges": "Lorem ipsum dolor s3",
+    "resourceId": "Lorem ipsum dolor si3",
+    "roleId": 3,
+    "permission": "Lorem ips3",
+    "ruleId": 2067415000
+  },
+  {
+    "privileges": "Lorem ipsum dolor s4",
+    "resourceId": "Lorem ipsum dolor si4",
+    "roleId": 4,
+    "permission": "Lorem ips4",
+    "ruleId": 507311301
+  },
+  {
+    "privileges": "Lorem ipsum dolor s5",
+    "resourceId": "Lorem ipsum dolor si5",
+    "roleId": 5,
+    "permission": "Lorem ips5",
+    "ruleId": 2032382558
+  },
+  {
+    "privileges": "Lorem ipsum dolor s6",
+    "resourceId": "Lorem ipsum dolor si6",
+    "roleId": 6,
+    "permission": "Lorem ips6",
+    "ruleId": 1555650459
+  },
+  {
+    "privileges": "Lorem ipsum dolor s7",
+    "resourceId": "Lorem ipsum dolor si7",
+    "roleId": 7,
+    "permission": "Lorem ips7",
+    "ruleId": 934692543
+  },
+  {
+    "privileges": "Lorem ipsum dolor s8",
+    "resourceId": "Lorem ipsum dolor si8",
+    "roleId": 8,
+    "permission": "Lorem ips8",
+    "ruleId": 655896427
+  },
+  {
+    "privileges": "Lorem ipsum dolor s9",
+    "resourceId": "Lorem ipsum dolor si9",
+    "roleId": 9,
+    "permission": "Lorem ips9",
+    "ruleId": 1696389272
+  }
+]

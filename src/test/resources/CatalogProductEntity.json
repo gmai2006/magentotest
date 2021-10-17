@@ -1,0 +1,102 @@
+[
+  {
+    "createdAt": "1957-10-16T23:08:08.000-0800",
+    "attributeSetId": 0,
+    "typeId": "Lorem ipsum dolor si0",
+    "sku": "Lorem ipsum dolor si0",
+    "requiredOptions": 0,
+    "hasOptions": 0,
+    "updatedAt": "2069-10-17T00:08:08.000-0700",
+    "entityId": 851193226
+  },
+  {
+    "createdAt": "2094-10-17T00:08:14.000-0700",
+    "attributeSetId": 1,
+    "typeId": "Lorem ipsum dolor si1",
+    "sku": "Lorem ipsum dolor si1",
+    "requiredOptions": 1,
+    "hasOptions": 1,
+    "updatedAt": "2067-10-17T00:08:14.000-0700",
+    "entityId": 499078972
+  },
+  {
+    "createdAt": "2089-10-17T00:08:14.000-0700",
+    "attributeSetId": 2,
+    "typeId": "Lorem ipsum dolor si2",
+    "sku": "Lorem ipsum dolor si2",
+    "requiredOptions": 2,
+    "hasOptions": 2,
+    "updatedAt": "1958-10-16T23:08:14.000-0800",
+    "entityId": 1425823981
+  },
+  {
+    "createdAt": "1914-10-16T23:08:14.000-0800",
+    "attributeSetId": 3,
+    "typeId": "Lorem ipsum dolor si3",
+    "sku": "Lorem ipsum dolor si3",
+    "requiredOptions": 3,
+    "hasOptions": 3,
+    "updatedAt": "2089-10-17T00:08:14.000-0700",
+    "entityId": 1122553101
+  },
+  {
+    "createdAt": "2065-10-17T00:08:14.000-0700",
+    "attributeSetId": 4,
+    "typeId": "Lorem ipsum dolor si4",
+    "sku": "Lorem ipsum dolor si4",
+    "requiredOptions": 4,
+    "hasOptions": 4,
+    "updatedAt": "1973-10-17T00:08:14.000-0700",
+    "entityId": 1648450322
+  },
+  {
+    "createdAt": "2087-10-17T00:08:14.000-0700",
+    "attributeSetId": 5,
+    "typeId": "Lorem ipsum dolor si5",
+    "sku": "Lorem ipsum dolor si5",
+    "requiredOptions": 5,
+    "hasOptions": 5,
+    "updatedAt": "1989-10-17T00:08:14.000-0700",
+    "entityId": 616237250
+  },
+  {
+    "createdAt": "1956-10-16T23:08:14.000-0800",
+    "attributeSetId": 6,
+    "typeId": "Lorem ipsum dolor si6",
+    "sku": "Lorem ipsum dolor si6",
+    "requiredOptions": 6,
+    "hasOptions": 6,
+    "updatedAt": "1922-10-16T23:08:14.000-0800",
+    "entityId": 923452029
+  },
+  {
+    "createdAt": "1908-10-16T23:08:14.000-0800",
+    "attributeSetId": 7,
+    "typeId": "Lorem ipsum dolor si7",
+    "sku": "Lorem ipsum dolor si7",
+    "requiredOptions": 7,
+    "hasOptions": 7,
+    "updatedAt": "1997-10-17T00:08:14.000-0700",
+    "entityId": 1965635487
+  },
+  {
+    "createdAt": "1982-10-17T00:08:14.000-0700",
+    "attributeSetId": 8,
+    "typeId": "Lorem ipsum dolor si8",
+    "sku": "Lorem ipsum dolor si8",
+    "requiredOptions": 8,
+    "hasOptions": 8,
+    "updatedAt": "2051-10-17T00:08:14.000-0700",
+    "entityId": 1065622497
+  },
+  {
+    "createdAt": "1923-10-16T23:08:14.000-0800",
+    "attributeSetId": 9,
+    "typeId": "Lorem ipsum dolor si9",
+    "sku": "Lorem ipsum dolor si9",
+    "requiredOptions": 9,
+    "hasOptions": 9,
+    "updatedAt": "1975-10-17T00:08:14.000-0700",
+    "entityId": 734515834
+  }
+]

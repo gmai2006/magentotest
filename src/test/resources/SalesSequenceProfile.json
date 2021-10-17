@@ -1,0 +1,112 @@
+[
+  {
+    "maxValue": 0,
+    "warningValue": 0,
+    "step": 0,
+    "startValue": 0,
+    "isActive": 0,
+    "suffix": "74846a5a-5b08-44d9-a0d7-e3dd65c9e6ec",
+    "metaId": 632904819,
+    "profileId": 234404242,
+    "prefix": "91a86b4a-ab1b-4132-993e-21e03ebb1619"
+  },
+  {
+    "maxValue": 1,
+    "warningValue": 1,
+    "step": 1,
+    "startValue": 1,
+    "isActive": 1,
+    "suffix": "b5120e0c-d700-4911-938a-598d4c45fce1",
+    "metaId": 175540039,
+    "profileId": 1490908045,
+    "prefix": "661e19af-3412-4182-9fdb-9ccab350e14a"
+  },
+  {
+    "maxValue": 2,
+    "warningValue": 2,
+    "step": 2,
+    "startValue": 2,
+    "isActive": 2,
+    "suffix": "549e4d8f-dbaf-45fc-ab3e-01c36230f442",
+    "metaId": 572226557,
+    "profileId": 764508277,
+    "prefix": "1aa02417-14ca-473e-bbd6-22863dbfdc5b"
+  },
+  {
+    "maxValue": 3,
+    "warningValue": 3,
+    "step": 3,
+    "startValue": 3,
+    "isActive": 3,
+    "suffix": "0cd43835-be72-4016-95c2-c1f81ded3a56",
+    "metaId": 1820890743,
+    "profileId": 79107923,
+    "prefix": "a2acc3a9-f313-45aa-a137-6b178b9d78fe"
+  },
+  {
+    "maxValue": 4,
+    "warningValue": 4,
+    "step": 4,
+    "startValue": 4,
+    "isActive": 4,
+    "suffix": "f739e0c9-9ece-44ce-a727-3473fae1511a",
+    "metaId": 2118836811,
+    "profileId": 644668370,
+    "prefix": "d66d11d3-bd4d-4844-8976-8854a5f80642"
+  },
+  {
+    "maxValue": 5,
+    "warningValue": 5,
+    "step": 5,
+    "startValue": 5,
+    "isActive": 5,
+    "suffix": "797e88da-4785-4ba0-86bd-b8d7435ca662",
+    "metaId": 1206651703,
+    "profileId": 265616314,
+    "prefix": "de271771-161f-4e6d-80cf-0b0402d3e187"
+  },
+  {
+    "maxValue": 6,
+    "warningValue": 6,
+    "step": 6,
+    "startValue": 6,
+    "isActive": 6,
+    "suffix": "f5316cb3-38eb-43d8-b9c8-cde8b3bb8e7c",
+    "metaId": 1143921427,
+    "profileId": 116276741,
+    "prefix": "d59277b5-183f-48da-a96a-ebe91f4a9487"
+  },
+  {
+    "maxValue": 7,
+    "warningValue": 7,
+    "step": 7,
+    "startValue": 7,
+    "isActive": 7,
+    "suffix": "b1db1fe8-60a3-4641-a1fe-545e5ba007b1",
+    "metaId": 1505762678,
+    "profileId": 760201570,
+    "prefix": "81ea76ca-11cc-4ebe-8efb-a8ff44b8a9d3"
+  },
+  {
+    "maxValue": 8,
+    "warningValue": 8,
+    "step": 8,
+    "startValue": 8,
+    "isActive": 8,
+    "suffix": "ab3552c3-27d2-4ac5-b9af-d6adced293df",
+    "metaId": 730760664,
+    "profileId": 1004304792,
+    "prefix": "114e8cc1-6786-49ec-af0e-72de94fea37b"
+  },
+  {
+    "maxValue": 9,
+    "warningValue": 9,
+    "step": 9,
+    "startValue": 9,
+    "isActive": 9,
+    "suffix": "2dea075e-f530-4eb2-954f-c5f186d71a69",
+    "metaId": 858492065,
+    "profileId": 1441090126,
+    "prefix": "5c22def8-d7fc-4d8b-8215-f898ba4065a9"
+  }
+]

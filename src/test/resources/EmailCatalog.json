@@ -1,0 +1,82 @@
+[
+  {
+    "createdAt": "1978-10-17T00:08:09.000-0700",
+    "productId": 0,
+    "imported": 0,
+    "modified": 0,
+    "updatedAt": "2049-10-17T00:08:09.000-0700",
+    "id": 546938164
+  },
+  {
+    "createdAt": "2056-10-17T00:08:14.000-0700",
+    "productId": 1,
+    "imported": 1,
+    "modified": 1,
+    "updatedAt": "1973-10-17T00:08:14.000-0700",
+    "id": 2060139358
+  },
+  {
+    "createdAt": "1988-10-17T00:08:14.000-0700",
+    "productId": 2,
+    "imported": 2,
+    "modified": 2,
+    "updatedAt": "1913-10-16T23:08:14.000-0800",
+    "id": 143880187
+  },
+  {
+    "createdAt": "1976-10-17T00:08:14.000-0700",
+    "productId": 3,
+    "imported": 3,
+    "modified": 3,
+    "updatedAt": "2010-10-17T00:08:14.000-0700",
+    "id": 1278239797
+  },
+  {
+    "createdAt": "1987-10-17T00:08:14.000-0700",
+    "productId": 4,
+    "imported": 4,
+    "modified": 4,
+    "updatedAt": "1993-10-17T00:08:14.000-0700",
+    "id": 1779924121
+  },
+  {
+    "createdAt": "1921-10-16T23:08:14.000-0800",
+    "productId": 5,
+    "imported": 5,
+    "modified": 5,
+    "updatedAt": "2004-10-17T00:08:14.000-0700",
+    "id": 996473750
+  },
+  {
+    "createdAt": "1977-10-17T00:08:14.000-0700",
+    "productId": 6,
+    "imported": 6,
+    "modified": 6,
+    "updatedAt": "1909-10-16T23:08:14.000-0800",
+    "id": 2125969183
+  },
+  {
+    "createdAt": "2037-10-17T00:08:14.000-0700",
+    "productId": 7,
+    "imported": 7,
+    "modified": 7,
+    "updatedAt": "2067-10-17T00:08:14.000-0700",
+    "id": 1471905287
+  },
+  {
+    "createdAt": "1939-10-16T23:08:14.000-0800",
+    "productId": 8,
+    "imported": 8,
+    "modified": 8,
+    "updatedAt": "2056-10-17T00:08:14.000-0700",
+    "id": 94734470
+  },
+  {
+    "createdAt": "1936-10-16T23:08:14.000-0800",
+    "productId": 9,
+    "imported": 9,
+    "modified": 9,
+    "updatedAt": "2052-10-17T00:08:14.000-0700",
+    "id": 693694927
+  }
+]

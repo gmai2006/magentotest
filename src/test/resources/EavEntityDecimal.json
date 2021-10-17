@@ -1,0 +1,82 @@
+[
+  {
+    "entityTypeId": 0,
+    "value": 0,
+    "attributeId": 1338247437,
+    "valueId": 733048229,
+    "entityId": 541078153,
+    "storeId": 1328746353
+  },
+  {
+    "entityTypeId": 1,
+    "value": 1,
+    "attributeId": 364546577,
+    "valueId": 1798151250,
+    "entityId": 2072519767,
+    "storeId": 1270651728
+  },
+  {
+    "entityTypeId": 2,
+    "value": 2,
+    "attributeId": 1997396492,
+    "valueId": 325433346,
+    "entityId": 2088329550,
+    "storeId": 1120311958
+  },
+  {
+    "entityTypeId": 3,
+    "value": 3,
+    "attributeId": 1583605898,
+    "valueId": 1801535314,
+    "entityId": 1411503306,
+    "storeId": 1548789754
+  },
+  {
+    "entityTypeId": 4,
+    "value": 4,
+    "attributeId": 1852628060,
+    "valueId": 319414342,
+    "entityId": 1227448815,
+    "storeId": 600464882
+  },
+  {
+    "entityTypeId": 5,
+    "value": 5,
+    "attributeId": 768477936,
+    "valueId": 785943674,
+    "entityId": 1746277261,
+    "storeId": 844174293
+  },
+  {
+    "entityTypeId": 6,
+    "value": 6,
+    "attributeId": 95667031,
+    "valueId": 562817123,
+    "entityId": 1254541113,
+    "storeId": 2134161099
+  },
+  {
+    "entityTypeId": 7,
+    "value": 7,
+    "attributeId": 1334870001,
+    "valueId": 1642540205,
+    "entityId": 1536110601,
+    "storeId": 1290010596
+  },
+  {
+    "entityTypeId": 8,
+    "value": 8,
+    "attributeId": 1098205367,
+    "valueId": 1289386948,
+    "entityId": 487525099,
+    "storeId": 902084934
+  },
+  {
+    "entityTypeId": 9,
+    "value": 9,
+    "attributeId": 924954661,
+    "valueId": 843304303,
+    "entityId": 560070306,
+    "storeId": 1792402558
+  }
+]

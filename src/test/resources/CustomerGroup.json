@@ -1,0 +1,52 @@
+[
+  {
+    "taxClassId": 0,
+    "customerGroupCode": "Lorem ipsum dolor si0",
+    "customerGroupId": 368257262
+  },
+  {
+    "taxClassId": 1,
+    "customerGroupCode": "Lorem ipsum dolor si1",
+    "customerGroupId": 398633586
+  },
+  {
+    "taxClassId": 2,
+    "customerGroupCode": "Lorem ipsum dolor si2",
+    "customerGroupId": 559778413
+  },
+  {
+    "taxClassId": 3,
+    "customerGroupCode": "Lorem ipsum dolor si3",
+    "customerGroupId": 959118022
+  },
+  {
+    "taxClassId": 4,
+    "customerGroupCode": "Lorem ipsum dolor si4",
+    "customerGroupId": 136730119
+  },
+  {
+    "taxClassId": 5,
+    "customerGroupCode": "Lorem ipsum dolor si5",
+    "customerGroupId": 1272817841
+  },
+  {
+    "taxClassId": 6,
+    "customerGroupCode": "Lorem ipsum dolor si6",
+    "customerGroupId": 1290392668
+  },
+  {
+    "taxClassId": 7,
+    "customerGroupCode": "Lorem ipsum dolor si7",
+    "customerGroupId": 176550703
+  },
+  {
+    "taxClassId": 8,
+    "customerGroupCode": "Lorem ipsum dolor si8",
+    "customerGroupId": 860316255
+  },
+  {
+    "taxClassId": 9,
+    "customerGroupCode": "Lorem ipsum dolor si9",
+    "customerGroupId": 251341527
+  }
+]

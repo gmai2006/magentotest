@@ -1,0 +1,82 @@
+[
+  {
+    "isRequired": 0,
+    "defaultValue": "0",
+    "multilineCount": 0,
+    "isVisible": 0,
+    "attributeId": 233578028,
+    "websiteId": 2014688511
+  },
+  {
+    "isRequired": 1,
+    "defaultValue": "1",
+    "multilineCount": 1,
+    "isVisible": 1,
+    "attributeId": 657507114,
+    "websiteId": 1134882631
+  },
+  {
+    "isRequired": 2,
+    "defaultValue": "2",
+    "multilineCount": 2,
+    "isVisible": 2,
+    "attributeId": 1154284145,
+    "websiteId": 542052376
+  },
+  {
+    "isRequired": 3,
+    "defaultValue": "3",
+    "multilineCount": 3,
+    "isVisible": 3,
+    "attributeId": 1363554789,
+    "websiteId": 1970491129
+  },
+  {
+    "isRequired": 4,
+    "defaultValue": "4",
+    "multilineCount": 4,
+    "isVisible": 4,
+    "attributeId": 1466790782,
+    "websiteId": 76142439
+  },
+  {
+    "isRequired": 5,
+    "defaultValue": "5",
+    "multilineCount": 5,
+    "isVisible": 5,
+    "attributeId": 1945825034,
+    "websiteId": 702376042
+  },
+  {
+    "isRequired": 6,
+    "defaultValue": "6",
+    "multilineCount": 6,
+    "isVisible": 6,
+    "attributeId": 455640271,
+    "websiteId": 679777779
+  },
+  {
+    "isRequired": 7,
+    "defaultValue": "7",
+    "multilineCount": 7,
+    "isVisible": 7,
+    "attributeId": 1024256417,
+    "websiteId": 1453394893
+  },
+  {
+    "isRequired": 8,
+    "defaultValue": "8",
+    "multilineCount": 8,
+    "isVisible": 8,
+    "attributeId": 1118062783,
+    "websiteId": 1045791213
+  },
+  {
+    "isRequired": 9,
+    "defaultValue": "9",
+    "multilineCount": 9,
+    "isVisible": 9,
+    "attributeId": 1444631024,
+    "websiteId": 906502539
+  }
+]

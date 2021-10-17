@@ -1,0 +1,72 @@
+[
+  {
+    "design": "Lorem ipsum dolor si0",
+    "dateTo": "1946-10-16",
+    "storeId": 0,
+    "dateFrom": "1976-10-16",
+    "designChangeId": 2052406369
+  },
+  {
+    "design": "Lorem ipsum dolor si1",
+    "dateTo": "2087-10-16",
+    "storeId": 1,
+    "dateFrom": "1984-10-16",
+    "designChangeId": 475771533
+  },
+  {
+    "design": "Lorem ipsum dolor si2",
+    "dateTo": "2067-10-16",
+    "storeId": 2,
+    "dateFrom": "1946-10-16",
+    "designChangeId": 393300393
+  },
+  {
+    "design": "Lorem ipsum dolor si3",
+    "dateTo": "2072-10-16",
+    "storeId": 3,
+    "dateFrom": "1933-10-16",
+    "designChangeId": 83964767
+  },
+  {
+    "design": "Lorem ipsum dolor si4",
+    "dateTo": "1993-10-16",
+    "storeId": 4,
+    "dateFrom": "1959-10-16",
+    "designChangeId": 1460717134
+  },
+  {
+    "design": "Lorem ipsum dolor si5",
+    "dateTo": "2082-10-16",
+    "storeId": 5,
+    "dateFrom": "1993-10-16",
+    "designChangeId": 575484585
+  },
+  {
+    "design": "Lorem ipsum dolor si6",
+    "dateTo": "2067-10-16",
+    "storeId": 6,
+    "dateFrom": "1961-10-16",
+    "designChangeId": 1231642866
+  },
+  {
+    "design": "Lorem ipsum dolor si7",
+    "dateTo": "2049-10-16",
+    "storeId": 7,
+    "dateFrom": "1914-10-16",
+    "designChangeId": 1745586926
+  },
+  {
+    "design": "Lorem ipsum dolor si8",
+    "dateTo": "1901-10-16",
+    "storeId": 8,
+    "dateFrom": "1926-10-16",
+    "designChangeId": 932733694
+  },
+  {
+    "design": "Lorem ipsum dolor si9",
+    "dateTo": "2054-10-16",
+    "storeId": 9,
+    "dateFrom": "1932-10-16",
+    "designChangeId": 1210324018
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "lockExpiresAt": "2005-10-17T00:08:09.000-0700",
+    "failuresCount": 0,
+    "logId": 1631884362,
+    "userType": 2065359301,
+    "userName": "26256e5e-8fe1-4b4d-85db-e56f9f23d482"
+  },
+  {
+    "lockExpiresAt": "2066-10-17T00:08:15.000-0700",
+    "failuresCount": 1,
+    "logId": 961540051,
+    "userType": 1206929824,
+    "userName": "e6fe414e-0c13-4fd1-85b8-7c8cc9b6fe37"
+  },
+  {
+    "lockExpiresAt": "1952-10-16T23:08:15.000-0800",
+    "failuresCount": 2,
+    "logId": 664369099,
+    "userType": 471865979,
+    "userName": "77aa6d9e-a1e2-4356-af0c-a2b08709e5fa"
+  },
+  {
+    "lockExpiresAt": "2001-10-17T00:08:15.000-0700",
+    "failuresCount": 3,
+    "logId": 1176423018,
+    "userType": 449870278,
+    "userName": "e9ffb9fe-42f2-4145-89d1-f191d6b7520a"
+  },
+  {
+    "lockExpiresAt": "1908-10-16T23:08:15.000-0800",
+    "failuresCount": 4,
+    "logId": 884681992,
+    "userType": 1090298550,
+    "userName": "03c7d5b7-d15b-49fc-8b75-78842d267ba5"
+  },
+  {
+    "lockExpiresAt": "2039-10-17T00:08:15.000-0700",
+    "failuresCount": 5,
+    "logId": 1630551196,
+    "userType": 2005548595,
+    "userName": "a13f722f-7209-4fcb-a908-a362fd980221"
+  },
+  {
+    "lockExpiresAt": "2041-10-17T00:08:15.000-0700",
+    "failuresCount": 6,
+    "logId": 922779229,
+    "userType": 980598524,
+    "userName": "eaeb99ba-6481-46c1-bf32-5b09608c5503"
+  },
+  {
+    "lockExpiresAt": "2072-10-17T00:08:15.000-0700",
+    "failuresCount": 7,
+    "logId": 1041822882,
+    "userType": 1180270654,
+    "userName": "458a9636-282d-4bf8-b3dd-a3b7666a76be"
+  },
+  {
+    "lockExpiresAt": "1999-10-17T00:08:15.000-0700",
+    "failuresCount": 8,
+    "logId": 884864826,
+    "userType": 1724270537,
+    "userName": "a66c9cee-5c30-4cdb-8d4d-f9f19b71df0f"
+  },
+  {
+    "lockExpiresAt": "1941-10-16T23:08:15.000-0800",
+    "failuresCount": 9,
+    "logId": 241255299,
+    "userType": 262187936,
+    "userName": "369aafbd-58e1-4a44-a44f-63c058c5c0be"
+  }
+]

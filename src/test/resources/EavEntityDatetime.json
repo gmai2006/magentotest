@@ -1,0 +1,82 @@
+[
+  {
+    "entityTypeId": 0,
+    "value": "2050-10-16",
+    "attributeId": 194928830,
+    "valueId": 2102258893,
+    "entityId": 855667677,
+    "storeId": 1434578154
+  },
+  {
+    "entityTypeId": 1,
+    "value": "2064-10-16",
+    "attributeId": 1211664428,
+    "valueId": 1448736363,
+    "entityId": 2025228164,
+    "storeId": 2010509012
+  },
+  {
+    "entityTypeId": 2,
+    "value": "2011-10-16",
+    "attributeId": 1332102871,
+    "valueId": 1504430198,
+    "entityId": 395896190,
+    "storeId": 1290653329
+  },
+  {
+    "entityTypeId": 3,
+    "value": "2031-10-16",
+    "attributeId": 1487438780,
+    "valueId": 1408373159,
+    "entityId": 1359054720,
+    "storeId": 199901384
+  },
+  {
+    "entityTypeId": 4,
+    "value": "1931-10-16",
+    "attributeId": 583369694,
+    "valueId": 525540792,
+    "entityId": 205302549,
+    "storeId": 1397008108
+  },
+  {
+    "entityTypeId": 5,
+    "value": "2029-10-16",
+    "attributeId": 39309221,
+    "valueId": 498219078,
+    "entityId": 604239534,
+    "storeId": 1706296178
+  },
+  {
+    "entityTypeId": 6,
+    "value": "1932-10-16",
+    "attributeId": 1661912128,
+    "valueId": 1032508146,
+    "entityId": 2137539093,
+    "storeId": 1887385247
+  },
+  {
+    "entityTypeId": 7,
+    "value": "1925-10-16",
+    "attributeId": 388403634,
+    "valueId": 2071767976,
+    "entityId": 632630412,
+    "storeId": 1302132348
+  },
+  {
+    "entityTypeId": 8,
+    "value": "2050-10-16",
+    "attributeId": 1969082240,
+    "valueId": 1076155644,
+    "entityId": 1740225154,
+    "storeId": 1617826791
+  },
+  {
+    "entityTypeId": 9,
+    "value": "2075-10-16",
+    "attributeId": 195523062,
+    "valueId": 612082352,
+    "entityId": 572183793,
+    "storeId": 450215620
+  }
+]

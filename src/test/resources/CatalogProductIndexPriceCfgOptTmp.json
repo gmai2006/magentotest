@@ -1,0 +1,82 @@
+[
+  {
+    "minPrice": 0,
+    "maxPrice": 0,
+    "tierPrice": 0,
+    "customerGroupId": 1488493187,
+    "websiteId": 1510007037,
+    "entityId": 1030586672
+  },
+  {
+    "minPrice": 1,
+    "maxPrice": 1,
+    "tierPrice": 1,
+    "customerGroupId": 1164742819,
+    "websiteId": 1971489460,
+    "entityId": 1161743403
+  },
+  {
+    "minPrice": 2,
+    "maxPrice": 2,
+    "tierPrice": 2,
+    "customerGroupId": 991222540,
+    "websiteId": 1363351554,
+    "entityId": 1937173373
+  },
+  {
+    "minPrice": 3,
+    "maxPrice": 3,
+    "tierPrice": 3,
+    "customerGroupId": 803409739,
+    "websiteId": 1263628633,
+    "entityId": 91087818
+  },
+  {
+    "minPrice": 4,
+    "maxPrice": 4,
+    "tierPrice": 4,
+    "customerGroupId": 9327956,
+    "websiteId": 660450645,
+    "entityId": 1534935118
+  },
+  {
+    "minPrice": 5,
+    "maxPrice": 5,
+    "tierPrice": 5,
+    "customerGroupId": 929032582,
+    "websiteId": 1888411920,
+    "entityId": 78400202
+  },
+  {
+    "minPrice": 6,
+    "maxPrice": 6,
+    "tierPrice": 6,
+    "customerGroupId": 1447710367,
+    "websiteId": 1037778035,
+    "entityId": 1757236969
+  },
+  {
+    "minPrice": 7,
+    "maxPrice": 7,
+    "tierPrice": 7,
+    "customerGroupId": 631064551,
+    "websiteId": 599105585,
+    "entityId": 225478136
+  },
+  {
+    "minPrice": 8,
+    "maxPrice": 8,
+    "tierPrice": 8,
+    "customerGroupId": 548344687,
+    "websiteId": 360405920,
+    "entityId": 118233147
+  },
+  {
+    "minPrice": 9,
+    "maxPrice": 9,
+    "tierPrice": 9,
+    "customerGroupId": 1989510932,
+    "websiteId": 373802246,
+    "entityId": 385343284
+  }
+]

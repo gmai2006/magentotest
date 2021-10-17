@@ -1,0 +1,62 @@
+[
+  {
+    "sortOrder": 0,
+    "entityTypeId": 1426068111,
+    "attributeSetName": "cc0b427d-b7ec-46c4-92f2-ed925be87819",
+    "attributeSetId": 1819600353
+  },
+  {
+    "sortOrder": 1,
+    "entityTypeId": 745346241,
+    "attributeSetName": "db7f6397-0e03-4706-a433-68b449d4c740",
+    "attributeSetId": 718579636
+  },
+  {
+    "sortOrder": 2,
+    "entityTypeId": 734308432,
+    "attributeSetName": "bc99aa26-768f-470d-ac33-9a9b07a054fc",
+    "attributeSetId": 412001792
+  },
+  {
+    "sortOrder": 3,
+    "entityTypeId": 1399635948,
+    "attributeSetName": "5e127fd2-076b-4261-a36f-8a2259c75bb4",
+    "attributeSetId": 130820134
+  },
+  {
+    "sortOrder": 4,
+    "entityTypeId": 469219542,
+    "attributeSetName": "0258ceeb-7ad7-437a-8d74-5a8eabeffdd5",
+    "attributeSetId": 597525720
+  },
+  {
+    "sortOrder": 5,
+    "entityTypeId": 1956139018,
+    "attributeSetName": "1fb25c9b-e769-4a04-b164-b6279b112f28",
+    "attributeSetId": 1985750652
+  },
+  {
+    "sortOrder": 6,
+    "entityTypeId": 1646441023,
+    "attributeSetName": "4a04c032-e9c4-4cf7-a54b-652769ec4ebe",
+    "attributeSetId": 2042047576
+  },
+  {
+    "sortOrder": 7,
+    "entityTypeId": 2085205665,
+    "attributeSetName": "1367aa80-cf51-44b9-8ca0-0bd3ce1a826b",
+    "attributeSetId": 1834195968
+  },
+  {
+    "sortOrder": 8,
+    "entityTypeId": 1105568894,
+    "attributeSetName": "9e787d55-c274-4a49-bb6a-b2b01ed9f7de",
+    "attributeSetId": 654608068
+  },
+  {
+    "sortOrder": 9,
+    "entityTypeId": 1841411067,
+    "attributeSetName": "585cf769-e460-4065-9e0b-3549acd58301",
+    "attributeSetId": 986645439
+  }
+]

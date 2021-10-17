@@ -1,0 +1,72 @@
+[
+  {
+    "shared": 0,
+    "sharingCode": "Lorem ipsum dolor si0",
+    "updatedAt": "1966-10-17T00:08:09.000-0700",
+    "customerId": 537946707,
+    "wishlistId": 2106789782
+  },
+  {
+    "shared": 1,
+    "sharingCode": "Lorem ipsum dolor si1",
+    "updatedAt": "1973-10-17T00:08:16.000-0700",
+    "customerId": 243727396,
+    "wishlistId": 1305616697
+  },
+  {
+    "shared": 2,
+    "sharingCode": "Lorem ipsum dolor si2",
+    "updatedAt": "1906-10-16T23:08:16.000-0800",
+    "customerId": 1539354220,
+    "wishlistId": 1942466537
+  },
+  {
+    "shared": 3,
+    "sharingCode": "Lorem ipsum dolor si3",
+    "updatedAt": "1948-10-16T23:08:16.000-0800",
+    "customerId": 606215872,
+    "wishlistId": 1952336481
+  },
+  {
+    "shared": 4,
+    "sharingCode": "Lorem ipsum dolor si4",
+    "updatedAt": "1994-10-17T00:08:16.000-0700",
+    "customerId": 72039959,
+    "wishlistId": 274696036
+  },
+  {
+    "shared": 5,
+    "sharingCode": "Lorem ipsum dolor si5",
+    "updatedAt": "1907-10-16T23:08:16.000-0800",
+    "customerId": 97673092,
+    "wishlistId": 1582634991
+  },
+  {
+    "shared": 6,
+    "sharingCode": "Lorem ipsum dolor si6",
+    "updatedAt": "2020-10-17T00:08:16.000-0700",
+    "customerId": 1531505995,
+    "wishlistId": 1714976956
+  },
+  {
+    "shared": 7,
+    "sharingCode": "Lorem ipsum dolor si7",
+    "updatedAt": "1928-10-16T23:08:16.000-0800",
+    "customerId": 1684177189,
+    "wishlistId": 1836038291
+  },
+  {
+    "shared": 8,
+    "sharingCode": "Lorem ipsum dolor si8",
+    "updatedAt": "2025-10-17T00:08:16.000-0700",
+    "customerId": 59145111,
+    "wishlistId": 543703156
+  },
+  {
+    "shared": 9,
+    "sharingCode": "Lorem ipsum dolor si9",
+    "updatedAt": "2041-10-17T00:08:16.000-0700",
+    "customerId": 704017115,
+    "wishlistId": 1153586586
+  }
+]

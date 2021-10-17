@@ -1,0 +1,62 @@
+[
+  {
+    "customerId": 0,
+    "timesUsed": 0,
+    "ruleId": 0,
+    "ruleCustomerId": 811034368
+  },
+  {
+    "customerId": 1,
+    "timesUsed": 1,
+    "ruleId": 1,
+    "ruleCustomerId": 1360211256
+  },
+  {
+    "customerId": 2,
+    "timesUsed": 2,
+    "ruleId": 2,
+    "ruleCustomerId": 439978144
+  },
+  {
+    "customerId": 3,
+    "timesUsed": 3,
+    "ruleId": 3,
+    "ruleCustomerId": 1444524190
+  },
+  {
+    "customerId": 4,
+    "timesUsed": 4,
+    "ruleId": 4,
+    "ruleCustomerId": 1881751787
+  },
+  {
+    "customerId": 5,
+    "timesUsed": 5,
+    "ruleId": 5,
+    "ruleCustomerId": 1770337336
+  },
+  {
+    "customerId": 6,
+    "timesUsed": 6,
+    "ruleId": 6,
+    "ruleCustomerId": 1344421925
+  },
+  {
+    "customerId": 7,
+    "timesUsed": 7,
+    "ruleId": 7,
+    "ruleCustomerId": 1116910468
+  },
+  {
+    "customerId": 8,
+    "timesUsed": 8,
+    "ruleId": 8,
+    "ruleCustomerId": 944460000
+  },
+  {
+    "customerId": 9,
+    "timesUsed": 9,
+    "ruleId": 9,
+    "ruleCustomerId": 2091022673
+  }
+]

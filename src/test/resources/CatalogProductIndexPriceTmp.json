@@ -1,0 +1,112 @@
+[
+  {
+    "taxClassId": 0,
+    "price": 0,
+    "minPrice": 0,
+    "finalPrice": 0,
+    "maxPrice": 0,
+    "tierPrice": 0,
+    "customerGroupId": 822506383,
+    "websiteId": 2140849905,
+    "entityId": 1025767246
+  },
+  {
+    "taxClassId": 1,
+    "price": 1,
+    "minPrice": 1,
+    "finalPrice": 1,
+    "maxPrice": 1,
+    "tierPrice": 1,
+    "customerGroupId": 1871771058,
+    "websiteId": 1886900902,
+    "entityId": 201080268
+  },
+  {
+    "taxClassId": 2,
+    "price": 2,
+    "minPrice": 2,
+    "finalPrice": 2,
+    "maxPrice": 2,
+    "tierPrice": 2,
+    "customerGroupId": 69964531,
+    "websiteId": 1411459292,
+    "entityId": 655259005
+  },
+  {
+    "taxClassId": 3,
+    "price": 3,
+    "minPrice": 3,
+    "finalPrice": 3,
+    "maxPrice": 3,
+    "tierPrice": 3,
+    "customerGroupId": 1545118960,
+    "websiteId": 1221998865,
+    "entityId": 942053251
+  },
+  {
+    "taxClassId": 4,
+    "price": 4,
+    "minPrice": 4,
+    "finalPrice": 4,
+    "maxPrice": 4,
+    "tierPrice": 4,
+    "customerGroupId": 1042007461,
+    "websiteId": 1233114433,
+    "entityId": 70060033
+  },
+  {
+    "taxClassId": 5,
+    "price": 5,
+    "minPrice": 5,
+    "finalPrice": 5,
+    "maxPrice": 5,
+    "tierPrice": 5,
+    "customerGroupId": 1042408773,
+    "websiteId": 1451724217,
+    "entityId": 603463669
+  },
+  {
+    "taxClassId": 6,
+    "price": 6,
+    "minPrice": 6,
+    "finalPrice": 6,
+    "maxPrice": 6,
+    "tierPrice": 6,
+    "customerGroupId": 1441190458,
+    "websiteId": 2106908788,
+    "entityId": 1827523772
+  },
+  {
+    "taxClassId": 7,
+    "price": 7,
+    "minPrice": 7,
+    "finalPrice": 7,
+    "maxPrice": 7,
+    "tierPrice": 7,
+    "customerGroupId": 1266961540,
+    "websiteId": 424829417,
+    "entityId": 1936889703
+  },
+  {
+    "taxClassId": 8,
+    "price": 8,
+    "minPrice": 8,
+    "finalPrice": 8,
+    "maxPrice": 8,
+    "tierPrice": 8,
+    "customerGroupId": 1998414787,
+    "websiteId": 1409574676,
+    "entityId": 630797308
+  },
+  {
+    "taxClassId": 9,
+    "price": 9,
+    "minPrice": 9,
+    "finalPrice": 9,
+    "maxPrice": 9,
+    "tierPrice": 9,
+    "customerGroupId": 1208227723,
+    "websiteId": 2071340252,
+    "entityId": 956120380
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "sortOrder": 0,
+    "optionId": 0,
+    "sku": "Lorem ipsum dolor si0",
+    "optionTypeId": 350371235
+  },
+  {
+    "sortOrder": 1,
+    "optionId": 1,
+    "sku": "Lorem ipsum dolor si1",
+    "optionTypeId": 995225190
+  },
+  {
+    "sortOrder": 2,
+    "optionId": 2,
+    "sku": "Lorem ipsum dolor si2",
+    "optionTypeId": 2132420414
+  },
+  {
+    "sortOrder": 3,
+    "optionId": 3,
+    "sku": "Lorem ipsum dolor si3",
+    "optionTypeId": 736346277
+  },
+  {
+    "sortOrder": 4,
+    "optionId": 4,
+    "sku": "Lorem ipsum dolor si4",
+    "optionTypeId": 1832802401
+  },
+  {
+    "sortOrder": 5,
+    "optionId": 5,
+    "sku": "Lorem ipsum dolor si5",
+    "optionTypeId": 1493638950
+  },
+  {
+    "sortOrder": 6,
+    "optionId": 6,
+    "sku": "Lorem ipsum dolor si6",
+    "optionTypeId": 1590649605
+  },
+  {
+    "sortOrder": 7,
+    "optionId": 7,
+    "sku": "Lorem ipsum dolor si7",
+    "optionTypeId": 1043739427
+  },
+  {
+    "sortOrder": 8,
+    "optionId": 8,
+    "sku": "Lorem ipsum dolor si8",
+    "optionTypeId": 1995763676
+  },
+  {
+    "sortOrder": 9,
+    "optionId": 9,
+    "sku": "Lorem ipsum dolor si9",
+    "optionTypeId": 1920694410
+  }
+]

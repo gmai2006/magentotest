@@ -1,0 +1,92 @@
+[
+  {
+    "valueId": 0,
+    "entityId": 0,
+    "disabled": 0,
+    "label": "Lorem ipsum dolor si0",
+    "position": 0,
+    "storeId": 0,
+    "recordId": 1270423947
+  },
+  {
+    "valueId": 1,
+    "entityId": 1,
+    "disabled": 1,
+    "label": "Lorem ipsum dolor si1",
+    "position": 1,
+    "storeId": 1,
+    "recordId": 286852261
+  },
+  {
+    "valueId": 2,
+    "entityId": 2,
+    "disabled": 2,
+    "label": "Lorem ipsum dolor si2",
+    "position": 2,
+    "storeId": 2,
+    "recordId": 212766837
+  },
+  {
+    "valueId": 3,
+    "entityId": 3,
+    "disabled": 3,
+    "label": "Lorem ipsum dolor si3",
+    "position": 3,
+    "storeId": 3,
+    "recordId": 2134822596
+  },
+  {
+    "valueId": 4,
+    "entityId": 4,
+    "disabled": 4,
+    "label": "Lorem ipsum dolor si4",
+    "position": 4,
+    "storeId": 4,
+    "recordId": 1212316743
+  },
+  {
+    "valueId": 5,
+    "entityId": 5,
+    "disabled": 5,
+    "label": "Lorem ipsum dolor si5",
+    "position": 5,
+    "storeId": 5,
+    "recordId": 922502080
+  },
+  {
+    "valueId": 6,
+    "entityId": 6,
+    "disabled": 6,
+    "label": "Lorem ipsum dolor si6",
+    "position": 6,
+    "storeId": 6,
+    "recordId": 468197094
+  },
+  {
+    "valueId": 7,
+    "entityId": 7,
+    "disabled": 7,
+    "label": "Lorem ipsum dolor si7",
+    "position": 7,
+    "storeId": 7,
+    "recordId": 1973747342
+  },
+  {
+    "valueId": 8,
+    "entityId": 8,
+    "disabled": 8,
+    "label": "Lorem ipsum dolor si8",
+    "position": 8,
+    "storeId": 8,
+    "recordId": 407810355
+  },
+  {
+    "valueId": 9,
+    "entityId": 9,
+    "disabled": 9,
+    "label": "Lorem ipsum dolor si9",
+    "position": 9,
+    "storeId": 9,
+    "recordId": 579217780
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "sortOrder": 0,
+    "defaultId": 0,
+    "tabGroupCode": "Lorem ipsum dolor si0",
+    "attributeGroupId": 340661058,
+    "attributeGroupName": "1ef7fff8-6d00-4325-962e-94b6de47b655",
+    "attributeSetId": 326038980,
+    "attributeGroupCode": "a5f9c6e8-f72e-499a-99d4-83fe0e50f3f0"
+  },
+  {
+    "sortOrder": 1,
+    "defaultId": 1,
+    "tabGroupCode": "Lorem ipsum dolor si1",
+    "attributeGroupId": 280415481,
+    "attributeGroupName": "ade9484b-8f17-4e95-850d-8775662bf8d9",
+    "attributeSetId": 1689485075,
+    "attributeGroupCode": "6fe4d421-9c0c-458a-9af4-97f18a0b7650"
+  },
+  {
+    "sortOrder": 2,
+    "defaultId": 2,
+    "tabGroupCode": "Lorem ipsum dolor si2",
+    "attributeGroupId": 898120354,
+    "attributeGroupName": "92f059ce-7676-44ae-8e0c-cb4538268563",
+    "attributeSetId": 1578659330,
+    "attributeGroupCode": "ba3e31b6-e697-45bb-8a87-d1852f1514d3"
+  },
+  {
+    "sortOrder": 3,
+    "defaultId": 3,
+    "tabGroupCode": "Lorem ipsum dolor si3",
+    "attributeGroupId": 321321696,
+    "attributeGroupName": "e45353d5-80a9-4956-a5d7-dfdede2c3dc1",
+    "attributeSetId": 1586404799,
+    "attributeGroupCode": "a5e3a20e-3287-49b3-ba41-48cc95a16ac9"
+  },
+  {
+    "sortOrder": 4,
+    "defaultId": 4,
+    "tabGroupCode": "Lorem ipsum dolor si4",
+    "attributeGroupId": 2108546088,
+    "attributeGroupName": "da97daab-c75e-4ddd-b49d-f35e50e11712",
+    "attributeSetId": 2114013052,
+    "attributeGroupCode": "c6cbb747-7279-4bea-8ad2-a5b8fbb477cc"
+  },
+  {
+    "sortOrder": 5,
+    "defaultId": 5,
+    "tabGroupCode": "Lorem ipsum dolor si5",
+    "attributeGroupId": 1924391854,
+    "attributeGroupName": "3559e982-64c2-4044-8900-8c6ebd26bb44",
+    "attributeSetId": 739101604,
+    "attributeGroupCode": "d07712d7-5850-44e5-8960-28474b848ff5"
+  },
+  {
+    "sortOrder": 6,
+    "defaultId": 6,
+    "tabGroupCode": "Lorem ipsum dolor si6",
+    "attributeGroupId": 595978688,
+    "attributeGroupName": "d259fe6f-b81f-4583-b636-4e5786877082",
+    "attributeSetId": 1097900442,
+    "attributeGroupCode": "77ed1162-420b-41e5-9c37-8d4cf32dd437"
+  },
+  {
+    "sortOrder": 7,
+    "defaultId": 7,
+    "tabGroupCode": "Lorem ipsum dolor si7",
+    "attributeGroupId": 1833498225,
+    "attributeGroupName": "b1ef74e8-604c-4da0-99e4-902a4339d643",
+    "attributeSetId": 1149179571,
+    "attributeGroupCode": "12508783-c082-4331-92eb-df0df7f04e6b"
+  },
+  {
+    "sortOrder": 8,
+    "defaultId": 8,
+    "tabGroupCode": "Lorem ipsum dolor si8",
+    "attributeGroupId": 310851088,
+    "attributeGroupName": "8d0a9a63-f812-4235-8783-8560401395a9",
+    "attributeSetId": 1588226561,
+    "attributeGroupCode": "9c6f19e7-8891-41ca-9336-8749d0756164"
+  },
+  {
+    "sortOrder": 9,
+    "defaultId": 9,
+    "tabGroupCode": "Lorem ipsum dolor si9",
+    "attributeGroupId": 508740962,
+    "attributeGroupName": "9c05233a-b1ba-452e-bcd1-4440037db0ea",
+    "attributeSetId": 883564192,
+    "attributeGroupCode": "e93eb93f-dbef-49e9-a3ec-55008dad75d7"
+  }
+]

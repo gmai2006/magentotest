@@ -1,0 +1,52 @@
+[
+  {
+    "customerId": 635638530,
+    "entityId": 1543949211,
+    "amazonId": "38ae14d0-bbbd-4a7e-9f53-d94beb640184"
+  },
+  {
+    "customerId": 746170419,
+    "entityId": 822992404,
+    "amazonId": "b6a381a7-26a2-4d1d-94d5-edc4e2072770"
+  },
+  {
+    "customerId": 304444467,
+    "entityId": 412505477,
+    "amazonId": "f4af68f0-b22e-4257-8467-d990daf4611a"
+  },
+  {
+    "customerId": 488539589,
+    "entityId": 1752816622,
+    "amazonId": "3e91f16f-fac4-4bd5-b43f-59a93ff071d1"
+  },
+  {
+    "customerId": 95406046,
+    "entityId": 1670218017,
+    "amazonId": "6520f92d-8c31-4c42-80f1-d9bd87db7ce9"
+  },
+  {
+    "customerId": 942159853,
+    "entityId": 625439702,
+    "amazonId": "71c4b98a-f106-42c9-b8f7-88bff902e9db"
+  },
+  {
+    "customerId": 269287758,
+    "entityId": 1114192118,
+    "amazonId": "339c6406-0149-4b7d-a3f5-14ee1693e996"
+  },
+  {
+    "customerId": 460263229,
+    "entityId": 2093444882,
+    "amazonId": "32573a9b-ac96-4df6-b6b1-ec5e251de8bf"
+  },
+  {
+    "customerId": 1834854055,
+    "entityId": 760838603,
+    "amazonId": "3f798ca4-ffb7-4bd8-b516-a6f80651a800"
+  },
+  {
+    "customerId": 1694450840,
+    "entityId": 2013726512,
+    "amazonId": "2d385508-6000-4b43-922d-db69ee821491"
+  }
+]

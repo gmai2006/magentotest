@@ -1,0 +1,82 @@
+[
+  {
+    "sortOrder": 0,
+    "entityTypeId": 0,
+    "attributeId": 509789036,
+    "entityAttributeId": 511950066,
+    "attributeGroupId": 103410660,
+    "attributeSetId": 2121998123
+  },
+  {
+    "sortOrder": 1,
+    "entityTypeId": 1,
+    "attributeId": 804804427,
+    "entityAttributeId": 1902714539,
+    "attributeGroupId": 1502241761,
+    "attributeSetId": 1389690661
+  },
+  {
+    "sortOrder": 2,
+    "entityTypeId": 2,
+    "attributeId": 1344465935,
+    "entityAttributeId": 1922822802,
+    "attributeGroupId": 275356851,
+    "attributeSetId": 708305896
+  },
+  {
+    "sortOrder": 3,
+    "entityTypeId": 3,
+    "attributeId": 1982903878,
+    "entityAttributeId": 452684597,
+    "attributeGroupId": 428230973,
+    "attributeSetId": 1175829445
+  },
+  {
+    "sortOrder": 4,
+    "entityTypeId": 4,
+    "attributeId": 1879817951,
+    "entityAttributeId": 301240993,
+    "attributeGroupId": 733783369,
+    "attributeSetId": 992727005
+  },
+  {
+    "sortOrder": 5,
+    "entityTypeId": 5,
+    "attributeId": 1041665668,
+    "entityAttributeId": 1718966068,
+    "attributeGroupId": 210441433,
+    "attributeSetId": 1132656151
+  },
+  {
+    "sortOrder": 6,
+    "entityTypeId": 6,
+    "attributeId": 554225008,
+    "entityAttributeId": 649251491,
+    "attributeGroupId": 1535432418,
+    "attributeSetId": 48861933
+  },
+  {
+    "sortOrder": 7,
+    "entityTypeId": 7,
+    "attributeId": 878692071,
+    "entityAttributeId": 1208815384,
+    "attributeGroupId": 433582358,
+    "attributeSetId": 242200016
+  },
+  {
+    "sortOrder": 8,
+    "entityTypeId": 8,
+    "attributeId": 1067018839,
+    "entityAttributeId": 839496820,
+    "attributeGroupId": 46974687,
+    "attributeSetId": 1064280633
+  },
+  {
+    "sortOrder": 9,
+    "entityTypeId": 9,
+    "attributeId": 1191183369,
+    "entityAttributeId": 384264114,
+    "attributeGroupId": 886762855,
+    "attributeSetId": 76322638
+  }
+]

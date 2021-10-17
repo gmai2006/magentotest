@@ -1,0 +1,72 @@
+[
+  {
+    "selectionPriceValue": 0,
+    "selectionPriceType": 0,
+    "websiteId": 1894376476,
+    "parentProductId": 704628043,
+    "selectionId": 1043995617
+  },
+  {
+    "selectionPriceValue": 1,
+    "selectionPriceType": 1,
+    "websiteId": 1026113400,
+    "parentProductId": 456931826,
+    "selectionId": 981308627
+  },
+  {
+    "selectionPriceValue": 2,
+    "selectionPriceType": 2,
+    "websiteId": 1986622220,
+    "parentProductId": 1496534103,
+    "selectionId": 438203881
+  },
+  {
+    "selectionPriceValue": 3,
+    "selectionPriceType": 3,
+    "websiteId": 201836179,
+    "parentProductId": 491229227,
+    "selectionId": 390874193
+  },
+  {
+    "selectionPriceValue": 4,
+    "selectionPriceType": 4,
+    "websiteId": 1806681395,
+    "parentProductId": 1614984897,
+    "selectionId": 1135483875
+  },
+  {
+    "selectionPriceValue": 5,
+    "selectionPriceType": 5,
+    "websiteId": 1745317501,
+    "parentProductId": 1241358473,
+    "selectionId": 1879121738
+  },
+  {
+    "selectionPriceValue": 6,
+    "selectionPriceType": 6,
+    "websiteId": 1652014743,
+    "parentProductId": 1463383618,
+    "selectionId": 816822473
+  },
+  {
+    "selectionPriceValue": 7,
+    "selectionPriceType": 7,
+    "websiteId": 1085071967,
+    "parentProductId": 1334995802,
+    "selectionId": 427806826
+  },
+  {
+    "selectionPriceValue": 8,
+    "selectionPriceType": 8,
+    "websiteId": 445579116,
+    "parentProductId": 867571346,
+    "selectionId": 993647643
+  },
+  {
+    "selectionPriceValue": 9,
+    "selectionPriceType": 9,
+    "websiteId": 1930686716,
+    "parentProductId": 2136988847,
+    "selectionId": 1681549985
+  }
+]

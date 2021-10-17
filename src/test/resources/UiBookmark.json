@@ -1,0 +1,112 @@
+[
+  {
+    "identifier": "Lorem ipsum dolor si0",
+    "createdAt": "1953-10-16",
+    "current": 0,
+    "namespace": "Mufinella",
+    "title": "Lorem ipsum dolor si0",
+    "userId": 0,
+    "config": "0",
+    "updatedAt": "2082-10-16",
+    "bookmarkId": 125693475
+  },
+  {
+    "identifier": "Lorem ipsum dolor si1",
+    "createdAt": "1955-10-16",
+    "current": 1,
+    "namespace": "Isabella",
+    "title": "Lorem ipsum dolor si1",
+    "userId": 1,
+    "config": "1",
+    "updatedAt": "2056-10-16",
+    "bookmarkId": 552467680
+  },
+  {
+    "identifier": "Lorem ipsum dolor si2",
+    "createdAt": "2058-10-16",
+    "current": 2,
+    "namespace": "Alexi",
+    "title": "Lorem ipsum dolor si2",
+    "userId": 2,
+    "config": "2",
+    "updatedAt": "1926-10-16",
+    "bookmarkId": 1356088425
+  },
+  {
+    "identifier": "Lorem ipsum dolor si3",
+    "createdAt": "2065-10-16",
+    "current": 3,
+    "namespace": "Bunny",
+    "title": "Lorem ipsum dolor si3",
+    "userId": 3,
+    "config": "3",
+    "updatedAt": "2062-10-16",
+    "bookmarkId": 1845760728
+  },
+  {
+    "identifier": "Lorem ipsum dolor si4",
+    "createdAt": "1931-10-16",
+    "current": 4,
+    "namespace": "Fern",
+    "title": "Lorem ipsum dolor si4",
+    "userId": 4,
+    "config": "4",
+    "updatedAt": "2098-10-16",
+    "bookmarkId": 828297735
+  },
+  {
+    "identifier": "Lorem ipsum dolor si5",
+    "createdAt": "2091-10-16",
+    "current": 5,
+    "namespace": "Wynn",
+    "title": "Lorem ipsum dolor si5",
+    "userId": 5,
+    "config": "5",
+    "updatedAt": "1926-10-16",
+    "bookmarkId": 1509889642
+  },
+  {
+    "identifier": "Lorem ipsum dolor si6",
+    "createdAt": "1929-10-16",
+    "current": 6,
+    "namespace": "Candi",
+    "title": "Lorem ipsum dolor si6",
+    "userId": 6,
+    "config": "6",
+    "updatedAt": "1930-10-16",
+    "bookmarkId": 2123806621
+  },
+  {
+    "identifier": "Lorem ipsum dolor si7",
+    "createdAt": "1963-10-16",
+    "current": 7,
+    "namespace": "Valerie",
+    "title": "Lorem ipsum dolor si7",
+    "userId": 7,
+    "config": "7",
+    "updatedAt": "2065-10-16",
+    "bookmarkId": 1490496240
+  },
+  {
+    "identifier": "Lorem ipsum dolor si8",
+    "createdAt": "1940-10-16",
+    "current": 8,
+    "namespace": "Addie",
+    "title": "Lorem ipsum dolor si8",
+    "userId": 8,
+    "config": "8",
+    "updatedAt": "1994-10-16",
+    "bookmarkId": 902079457
+  },
+  {
+    "identifier": "Lorem ipsum dolor si9",
+    "createdAt": "2027-10-16",
+    "current": 9,
+    "namespace": "Alyssa",
+    "title": "Lorem ipsum dolor si9",
+    "userId": 9,
+    "config": "9",
+    "updatedAt": "1916-10-16",
+    "bookmarkId": 2012192989
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "websiteId": 0,
+    "groupId": 0,
+    "sortOrder": 0,
+    "name": "Erminie",
+    "isActive": 0,
+    "storeId": 1346156423,
+    "code": "568306a4-70c5-4115-8db8-3d86fe607109"
+  },
+  {
+    "websiteId": 1,
+    "groupId": 1,
+    "sortOrder": 1,
+    "name": "Ileana",
+    "isActive": 1,
+    "storeId": 1075513882,
+    "code": "5f8bdea6-2b71-4b2b-95c9-cace3bb13487"
+  },
+  {
+    "websiteId": 2,
+    "groupId": 2,
+    "sortOrder": 2,
+    "name": "Deeann",
+    "isActive": 2,
+    "storeId": 41038061,
+    "code": "6d5e43b1-247a-44af-9a58-e46f1288053c"
+  },
+  {
+    "websiteId": 3,
+    "groupId": 3,
+    "sortOrder": 3,
+    "name": "Theressa",
+    "isActive": 3,
+    "storeId": 659167828,
+    "code": "e5213943-8418-450c-8520-a0aa48da5d5f"
+  },
+  {
+    "websiteId": 4,
+    "groupId": 4,
+    "sortOrder": 4,
+    "name": "Molli",
+    "isActive": 4,
+    "storeId": 630654701,
+    "code": "66380773-47f2-44b8-9a2b-7a3482b06a5e"
+  },
+  {
+    "websiteId": 5,
+    "groupId": 5,
+    "sortOrder": 5,
+    "name": "Addia",
+    "isActive": 5,
+    "storeId": 291477007,
+    "code": "e7b2f7c5-df29-4ad0-b37f-f2f55f7f1740"
+  },
+  {
+    "websiteId": 6,
+    "groupId": 6,
+    "sortOrder": 6,
+    "name": "Tova",
+    "isActive": 6,
+    "storeId": 84114340,
+    "code": "a319adda-0d4b-460f-b252-ae18cffe57c8"
+  },
+  {
+    "websiteId": 7,
+    "groupId": 7,
+    "sortOrder": 7,
+    "name": "Alanah",
+    "isActive": 7,
+    "storeId": 1324781471,
+    "code": "61f49cbf-f261-4878-b523-d8817e1596df"
+  },
+  {
+    "websiteId": 8,
+    "groupId": 8,
+    "sortOrder": 8,
+    "name": "Sharia",
+    "isActive": 8,
+    "storeId": 536562995,
+    "code": "a2a31cb4-cca0-42b2-8442-c78bee7f0021"
+  },
+  {
+    "websiteId": 9,
+    "groupId": 9,
+    "sortOrder": 9,
+    "name": "Corabella",
+    "isActive": 9,
+    "storeId": 1028070534,
+    "code": "dd86081f-d42b-4898-82e5-27b1cad0c3ba"
+  }
+]

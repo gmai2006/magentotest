@@ -1,0 +1,82 @@
+[
+  {
+    "isDefault": 0,
+    "sortOrder": 0,
+    "name": "Fredi",
+    "defaultGroupId": 0,
+    "websiteId": 185878133,
+    "code": "ed2cc07a-4c12-49ed-b608-a172782f97b3"
+  },
+  {
+    "isDefault": 1,
+    "sortOrder": 1,
+    "name": "Myrta",
+    "defaultGroupId": 1,
+    "websiteId": 2059437710,
+    "code": "cb6d968f-3c60-4766-9e6a-b2b5ed0d984c"
+  },
+  {
+    "isDefault": 2,
+    "sortOrder": 2,
+    "name": "Kathie",
+    "defaultGroupId": 2,
+    "websiteId": 1115485449,
+    "code": "850aa506-1cad-40f5-b9b3-8ad971b80b37"
+  },
+  {
+    "isDefault": 3,
+    "sortOrder": 3,
+    "name": "Yoshi",
+    "defaultGroupId": 3,
+    "websiteId": 64451287,
+    "code": "0cbe2012-1ea4-4e31-a702-cfea4830915c"
+  },
+  {
+    "isDefault": 4,
+    "sortOrder": 4,
+    "name": "Guillema",
+    "defaultGroupId": 4,
+    "websiteId": 1015634421,
+    "code": "6ba146e6-d3d8-4e4a-9fa4-d5efc89b7163"
+  },
+  {
+    "isDefault": 5,
+    "sortOrder": 5,
+    "name": "Adriana",
+    "defaultGroupId": 5,
+    "websiteId": 222896894,
+    "code": "d245da80-69c5-4867-9d2a-a1b95db5723f"
+  },
+  {
+    "isDefault": 6,
+    "sortOrder": 6,
+    "name": "Dido",
+    "defaultGroupId": 6,
+    "websiteId": 248470048,
+    "code": "dfd543ba-a7be-453e-8821-b6689ea79c6f"
+  },
+  {
+    "isDefault": 7,
+    "sortOrder": 7,
+    "name": "Stefanie",
+    "defaultGroupId": 7,
+    "websiteId": 925576844,
+    "code": "4c221f45-3730-4f86-8760-a94dbde2671b"
+  },
+  {
+    "isDefault": 8,
+    "sortOrder": 8,
+    "name": "Caresa",
+    "defaultGroupId": 8,
+    "websiteId": 9584583,
+    "code": "ed2396cc-5dfd-47f2-b18f-f118ec5fdc95"
+  },
+  {
+    "isDefault": 9,
+    "sortOrder": 9,
+    "name": "Saree",
+    "defaultGroupId": 9,
+    "websiteId": 235865880,
+    "code": "49bed36e-f15a-4d06-a086-1e2ed6017ff4"
+  }
+]

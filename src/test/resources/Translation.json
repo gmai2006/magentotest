@@ -1,0 +1,82 @@
+[
+  {
+    "translate": "Lorem ipsum dolor si0",
+    "keyId": 196176970,
+    "string": "86bd7771-4fb5-4b67-a3dd-4328fdc0ac61",
+    "storeId": 878041587,
+    "locale": "824909ab-cdc7-44b9-9924-a47abc721da4",
+    "crcString": "1390854652"
+  },
+  {
+    "translate": "Lorem ipsum dolor si1",
+    "keyId": 1502089679,
+    "string": "1d02ee17-1be8-469b-9bbd-f99dee697f35",
+    "storeId": 348547521,
+    "locale": "016bbabe-7258-4737-800a-3ac76f9715bd",
+    "crcString": "265889564"
+  },
+  {
+    "translate": "Lorem ipsum dolor si2",
+    "keyId": 1970872155,
+    "string": "e2527179-3c5b-4d48-9058-f20160d7de0b",
+    "storeId": 1214664571,
+    "locale": "652725b3-5bb4-4e19-a072-c247624b032c",
+    "crcString": "842661030"
+  },
+  {
+    "translate": "Lorem ipsum dolor si3",
+    "keyId": 1967308830,
+    "string": "86977d8e-fe3f-4bfd-a5f0-9bb8212d1ba2",
+    "storeId": 588291829,
+    "locale": "4dbaef07-0afe-48d0-82e9-473be1764dc1",
+    "crcString": "2080219959"
+  },
+  {
+    "translate": "Lorem ipsum dolor si4",
+    "keyId": 1919338182,
+    "string": "e7102414-5222-41e9-a253-2505776aa1ec",
+    "storeId": 1662294421,
+    "locale": "bbf91959-b094-47e5-9c48-863392592020",
+    "crcString": "933413541"
+  },
+  {
+    "translate": "Lorem ipsum dolor si5",
+    "keyId": 1788212032,
+    "string": "a234f58b-801e-4496-a971-1de845494e89",
+    "storeId": 1467705809,
+    "locale": "c0d42a16-47ce-4555-be52-2e1bb8f9481d",
+    "crcString": "1370755331"
+  },
+  {
+    "translate": "Lorem ipsum dolor si6",
+    "keyId": 1300020837,
+    "string": "e6a16ceb-8499-4c74-83e9-4625c357cbd1",
+    "storeId": 1214310681,
+    "locale": "f380be17-b9be-4f72-84d8-1dc0895a5240",
+    "crcString": "1433143079"
+  },
+  {
+    "translate": "Lorem ipsum dolor si7",
+    "keyId": 664461574,
+    "string": "5332c94b-d315-4a89-ac75-1d53ede7ac31",
+    "storeId": 1825201292,
+    "locale": "d1105d0c-ba3c-4df0-9ee5-d1076ab90bea",
+    "crcString": "151092873"
+  },
+  {
+    "translate": "Lorem ipsum dolor si8",
+    "keyId": 909655580,
+    "string": "10871a58-7c6a-4350-9008-82afa28d2569",
+    "storeId": 861549980,
+    "locale": "734ab4a1-3d15-4b14-8209-20bcec76d492",
+    "crcString": "1256989955"
+  },
+  {
+    "translate": "Lorem ipsum dolor si9",
+    "keyId": 1945859935,
+    "string": "fe3253ce-59ce-4f1b-95fd-fef04df9d913",
+    "storeId": 1547087351,
+    "locale": "b12ebedd-acf4-4787-bb39-5c802a3af2c1",
+    "crcString": "1478110936"
+  }
+]

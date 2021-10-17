@@ -1,0 +1,62 @@
+[
+  {
+    "priority": 0,
+    "stockId": 707047546,
+    "sourceCode": "8c4ba2a5-6c47-4b04-9b3e-3fe3f3604e6a",
+    "linkId": 687771428
+  },
+  {
+    "priority": 1,
+    "stockId": 519449940,
+    "sourceCode": "f6694ac1-e6a9-4712-8ce1-ae5bb88bfe7e",
+    "linkId": 774735314
+  },
+  {
+    "priority": 2,
+    "stockId": 1021831164,
+    "sourceCode": "65efbdaf-5206-4ec5-8762-d491b6481e82",
+    "linkId": 477991120
+  },
+  {
+    "priority": 3,
+    "stockId": 1304423445,
+    "sourceCode": "accf027a-2eb8-4024-bcb5-2179ee2139c8",
+    "linkId": 1547126466
+  },
+  {
+    "priority": 4,
+    "stockId": 50710235,
+    "sourceCode": "72e65a58-6f25-42f0-a023-157c4c1565a3",
+    "linkId": 1579808702
+  },
+  {
+    "priority": 5,
+    "stockId": 1026456759,
+    "sourceCode": "08f56217-79eb-43b7-b543-76e982c68daf",
+    "linkId": 153598005
+  },
+  {
+    "priority": 6,
+    "stockId": 328167361,
+    "sourceCode": "84144602-f3bb-48f0-bf9b-ec27edec5fc2",
+    "linkId": 1762417224
+  },
+  {
+    "priority": 7,
+    "stockId": 622723666,
+    "sourceCode": "fa7b0468-0dd7-497e-80d8-1c1a137e6fd0",
+    "linkId": 2082295093
+  },
+  {
+    "priority": 8,
+    "stockId": 1689321821,
+    "sourceCode": "75fa209a-9d17-4888-8b5d-9fb5cc6bfe78",
+    "linkId": 1078728281
+  },
+  {
+    "priority": 9,
+    "stockId": 855288669,
+    "sourceCode": "a8a99185-4718-4f9d-b277-78853ebc1f62",
+    "linkId": 1348106805
+  }
+]

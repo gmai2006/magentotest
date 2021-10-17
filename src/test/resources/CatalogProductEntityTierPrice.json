@@ -1,0 +1,102 @@
+[
+  {
+    "percentageValue": 0,
+    "value": 0,
+    "customerGroupId": 1132930526,
+    "valueId": 987544848,
+    "websiteId": 970197483,
+    "allGroups": 822131838,
+    "qty": 517682220,
+    "entityId": 1143730684
+  },
+  {
+    "percentageValue": 1,
+    "value": 1,
+    "customerGroupId": 665449799,
+    "valueId": 352884505,
+    "websiteId": 1639281419,
+    "allGroups": 631716078,
+    "qty": 27411138,
+    "entityId": 2024849771
+  },
+  {
+    "percentageValue": 2,
+    "value": 2,
+    "customerGroupId": 154965333,
+    "valueId": 2001749555,
+    "websiteId": 1372538667,
+    "allGroups": 333730346,
+    "qty": 870922355,
+    "entityId": 460797303
+  },
+  {
+    "percentageValue": 3,
+    "value": 3,
+    "customerGroupId": 394574788,
+    "valueId": 1763960037,
+    "websiteId": 1995875942,
+    "allGroups": 1934733001,
+    "qty": 1433256206,
+    "entityId": 1997716666
+  },
+  {
+    "percentageValue": 4,
+    "value": 4,
+    "customerGroupId": 1286814175,
+    "valueId": 878344918,
+    "websiteId": 1419533037,
+    "allGroups": 1152202570,
+    "qty": 2128629907,
+    "entityId": 105753994
+  },
+  {
+    "percentageValue": 5,
+    "value": 5,
+    "customerGroupId": 1347313118,
+    "valueId": 1596354925,
+    "websiteId": 1979950814,
+    "allGroups": 742917536,
+    "qty": 314239588,
+    "entityId": 325174553
+  },
+  {
+    "percentageValue": 6,
+    "value": 6,
+    "customerGroupId": 1561624966,
+    "valueId": 1940880825,
+    "websiteId": 824781210,
+    "allGroups": 2132057586,
+    "qty": 1332665154,
+    "entityId": 984568876
+  },
+  {
+    "percentageValue": 7,
+    "value": 7,
+    "customerGroupId": 190903116,
+    "valueId": 1411775604,
+    "websiteId": 1914041338,
+    "allGroups": 1571405510,
+    "qty": 280328930,
+    "entityId": 1267624334
+  },
+  {
+    "percentageValue": 8,
+    "value": 8,
+    "customerGroupId": 1660283383,
+    "valueId": 1505371000,
+    "websiteId": 106858609,
+    "allGroups": 289284435,
+    "qty": 1129380961,
+    "entityId": 278589547
+  },
+  {
+    "percentageValue": 9,
+    "value": 9,
+    "customerGroupId": 183276167,
+    "valueId": 1946071324,
+    "websiteId": 1738931058,
+    "allGroups": 1247157456,
+    "qty": 1771567757,
+    "entityId": 99477340
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "collectionPointId": "Lorem ipsum dolor si0",
+    "country": "Un",
+    "city": "Lewisburg",
+    "street": "0",
+    "name": "Mandie",
+    "postcode": "Lorem ipsum dolor si0",
+    "region": "Lorem ipsum dolor si0",
+    "recipientAddressId": 1605185666
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si1",
+    "country": "Sa",
+    "city": "Blairsden-",
+    "street": "1",
+    "name": "Genevieve",
+    "postcode": "Lorem ipsum dolor si1",
+    "region": "Lorem ipsum dolor si1",
+    "recipientAddressId": 318819212
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si2",
+    "country": "Ja",
+    "city": "Pleasantvi",
+    "street": "2",
+    "name": "Chloris",
+    "postcode": "Lorem ipsum dolor si2",
+    "region": "Lorem ipsum dolor si2",
+    "recipientAddressId": 1221151619
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si3",
+    "country": "Ic",
+    "city": "Montgomery",
+    "street": "3",
+    "name": "Audrye",
+    "postcode": "Lorem ipsum dolor si3",
+    "region": "Lorem ipsum dolor si3",
+    "recipientAddressId": 1274723218
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si4",
+    "country": "Ca",
+    "city": "Walton",
+    "street": "4",
+    "name": "Ailee",
+    "postcode": "Lorem ipsum dolor si4",
+    "region": "Lorem ipsum dolor si4",
+    "recipientAddressId": 412486993
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si5",
+    "country": "Ir",
+    "city": "Antonito",
+    "street": "5",
+    "name": "Marya",
+    "postcode": "Lorem ipsum dolor si5",
+    "region": "Lorem ipsum dolor si5",
+    "recipientAddressId": 2090882448
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si6",
+    "country": "Ba",
+    "city": "Azalea",
+    "street": "6",
+    "name": "Hermina",
+    "postcode": "Lorem ipsum dolor si6",
+    "region": "Lorem ipsum dolor si6",
+    "recipientAddressId": 2123593512
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si7",
+    "country": "Zi",
+    "city": "Garland",
+    "street": "7",
+    "name": "Caitrin",
+    "postcode": "Lorem ipsum dolor si7",
+    "region": "Lorem ipsum dolor si7",
+    "recipientAddressId": 760618606
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si8",
+    "country": "Ma",
+    "city": "Marvell",
+    "street": "8",
+    "name": "Florie",
+    "postcode": "Lorem ipsum dolor si8",
+    "region": "Lorem ipsum dolor si8",
+    "recipientAddressId": 1031530299
+  },
+  {
+    "collectionPointId": "Lorem ipsum dolor si9",
+    "country": "Ph",
+    "city": "Neosho",
+    "street": "9",
+    "name": "Gilly",
+    "postcode": "Lorem ipsum dolor si9",
+    "region": "Lorem ipsum dolor si9",
+    "recipientAddressId": 1943436592
+  }
+]

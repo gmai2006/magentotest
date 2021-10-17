@@ -1,0 +1,72 @@
+[
+  {
+    "productTaxClassId": 0,
+    "customerTaxClassId": 0,
+    "taxCalculationRateId": 0,
+    "taxCalculationRuleId": 0,
+    "taxCalculationId": 543178182
+  },
+  {
+    "productTaxClassId": 1,
+    "customerTaxClassId": 1,
+    "taxCalculationRateId": 1,
+    "taxCalculationRuleId": 1,
+    "taxCalculationId": 1837987784
+  },
+  {
+    "productTaxClassId": 2,
+    "customerTaxClassId": 2,
+    "taxCalculationRateId": 2,
+    "taxCalculationRuleId": 2,
+    "taxCalculationId": 737932643
+  },
+  {
+    "productTaxClassId": 3,
+    "customerTaxClassId": 3,
+    "taxCalculationRateId": 3,
+    "taxCalculationRuleId": 3,
+    "taxCalculationId": 876784845
+  },
+  {
+    "productTaxClassId": 4,
+    "customerTaxClassId": 4,
+    "taxCalculationRateId": 4,
+    "taxCalculationRuleId": 4,
+    "taxCalculationId": 1095287140
+  },
+  {
+    "productTaxClassId": 5,
+    "customerTaxClassId": 5,
+    "taxCalculationRateId": 5,
+    "taxCalculationRuleId": 5,
+    "taxCalculationId": 1776847603
+  },
+  {
+    "productTaxClassId": 6,
+    "customerTaxClassId": 6,
+    "taxCalculationRateId": 6,
+    "taxCalculationRuleId": 6,
+    "taxCalculationId": 495999215
+  },
+  {
+    "productTaxClassId": 7,
+    "customerTaxClassId": 7,
+    "taxCalculationRateId": 7,
+    "taxCalculationRuleId": 7,
+    "taxCalculationId": 1455667716
+  },
+  {
+    "productTaxClassId": 8,
+    "customerTaxClassId": 8,
+    "taxCalculationRateId": 8,
+    "taxCalculationRuleId": 8,
+    "taxCalculationId": 1641710747
+  },
+  {
+    "productTaxClassId": 9,
+    "customerTaxClassId": 9,
+    "taxCalculationRateId": 9,
+    "taxCalculationRuleId": 9,
+    "taxCalculationId": 1352758733
+  }
+]

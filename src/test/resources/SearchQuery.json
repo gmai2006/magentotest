@@ -1,0 +1,122 @@
+[
+  {
+    "redirect": "Lorem ipsum dolor si0",
+    "popularity": 0,
+    "isProcessed": 0,
+    "numResults": 0,
+    "isActive": 0,
+    "displayInTerms": 0,
+    "updatedAt": "1903-10-16T23:08:09.000-0800",
+    "queryText": "27a9f35d-f47b-4062-82cc-5011d8410223",
+    "storeId": 2115815338,
+    "queryId": 1307193892
+  },
+  {
+    "redirect": "Lorem ipsum dolor si1",
+    "popularity": 1,
+    "isProcessed": 1,
+    "numResults": 1,
+    "isActive": 1,
+    "displayInTerms": 1,
+    "updatedAt": "1975-10-17T00:08:16.000-0700",
+    "queryText": "20cb5fae-a724-4214-a18b-7e3d865c8788",
+    "storeId": 618200323,
+    "queryId": 1360830068
+  },
+  {
+    "redirect": "Lorem ipsum dolor si2",
+    "popularity": 2,
+    "isProcessed": 2,
+    "numResults": 2,
+    "isActive": 2,
+    "displayInTerms": 2,
+    "updatedAt": "1947-10-16T23:08:16.000-0800",
+    "queryText": "0d92ae49-6559-40ea-a336-5c89e07593b2",
+    "storeId": 1091580575,
+    "queryId": 78513606
+  },
+  {
+    "redirect": "Lorem ipsum dolor si3",
+    "popularity": 3,
+    "isProcessed": 3,
+    "numResults": 3,
+    "isActive": 3,
+    "displayInTerms": 3,
+    "updatedAt": "1986-10-17T00:08:16.000-0700",
+    "queryText": "59f8de3d-a5c2-45bd-b8ed-1bc56190cb47",
+    "storeId": 531812393,
+    "queryId": 1554559482
+  },
+  {
+    "redirect": "Lorem ipsum dolor si4",
+    "popularity": 4,
+    "isProcessed": 4,
+    "numResults": 4,
+    "isActive": 4,
+    "displayInTerms": 4,
+    "updatedAt": "2012-10-17T00:08:16.000-0700",
+    "queryText": "1e529c11-4dde-47fa-bf8e-f522cfad558c",
+    "storeId": 1862290390,
+    "queryId": 155447487
+  },
+  {
+    "redirect": "Lorem ipsum dolor si5",
+    "popularity": 5,
+    "isProcessed": 5,
+    "numResults": 5,
+    "isActive": 5,
+    "displayInTerms": 5,
+    "updatedAt": "2001-10-17T00:08:16.000-0700",
+    "queryText": "71dab81d-af73-45f1-a85d-30242a4b5680",
+    "storeId": 113698341,
+    "queryId": 1105051423
+  },
+  {
+    "redirect": "Lorem ipsum dolor si6",
+    "popularity": 6,
+    "isProcessed": 6,
+    "numResults": 6,
+    "isActive": 6,
+    "displayInTerms": 6,
+    "updatedAt": "1991-10-17T00:08:16.000-0700",
+    "queryText": "2d766033-24bd-48ce-a0a5-bd3b32c4ffe7",
+    "storeId": 235377356,
+    "queryId": 1250913357
+  },
+  {
+    "redirect": "Lorem ipsum dolor si7",
+    "popularity": 7,
+    "isProcessed": 7,
+    "numResults": 7,
+    "isActive": 7,
+    "displayInTerms": 7,
+    "updatedAt": "2043-10-17T00:08:16.000-0700",
+    "queryText": "e9804503-c651-42f9-be74-4b1f24419d29",
+    "storeId": 27759391,
+    "queryId": 730219298
+  },
+  {
+    "redirect": "Lorem ipsum dolor si8",
+    "popularity": 8,
+    "isProcessed": 8,
+    "numResults": 8,
+    "isActive": 8,
+    "displayInTerms": 8,
+    "updatedAt": "1990-10-17T00:08:16.000-0700",
+    "queryText": "88ae3128-b682-499b-8939-a822cb25ba91",
+    "storeId": 2094981929,
+    "queryId": 1349916029
+  },
+  {
+    "redirect": "Lorem ipsum dolor si9",
+    "popularity": 9,
+    "isProcessed": 9,
+    "numResults": 9,
+    "isActive": 9,
+    "displayInTerms": 9,
+    "updatedAt": "2089-10-17T00:08:16.000-0700",
+    "queryText": "d432e815-cb03-4ca2-aa39-43a8b5209637",
+    "storeId": 1174675417,
+    "queryId": 829158198
+  }
+]

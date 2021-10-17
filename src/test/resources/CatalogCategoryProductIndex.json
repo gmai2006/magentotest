@@ -1,0 +1,82 @@
+[
+  {
+    "isParent": 0,
+    "visibility": 0,
+    "position": 0,
+    "productId": 471711119,
+    "storeId": 783254455,
+    "categoryId": 458776718
+  },
+  {
+    "isParent": 1,
+    "visibility": 1,
+    "position": 1,
+    "productId": 54515968,
+    "storeId": 809724829,
+    "categoryId": 1277280029
+  },
+  {
+    "isParent": 2,
+    "visibility": 2,
+    "position": 2,
+    "productId": 2004876725,
+    "storeId": 1177797851,
+    "categoryId": 1140139018
+  },
+  {
+    "isParent": 3,
+    "visibility": 3,
+    "position": 3,
+    "productId": 1356755154,
+    "storeId": 827656371,
+    "categoryId": 1492862748
+  },
+  {
+    "isParent": 4,
+    "visibility": 4,
+    "position": 4,
+    "productId": 993655748,
+    "storeId": 985798199,
+    "categoryId": 1596227109
+  },
+  {
+    "isParent": 5,
+    "visibility": 5,
+    "position": 5,
+    "productId": 1358832858,
+    "storeId": 1858867785,
+    "categoryId": 1794470862
+  },
+  {
+    "isParent": 6,
+    "visibility": 6,
+    "position": 6,
+    "productId": 529025029,
+    "storeId": 242173491,
+    "categoryId": 843086764
+  },
+  {
+    "isParent": 7,
+    "visibility": 7,
+    "position": 7,
+    "productId": 811759095,
+    "storeId": 2115065237,
+    "categoryId": 1001889290
+  },
+  {
+    "isParent": 8,
+    "visibility": 8,
+    "position": 8,
+    "productId": 1052285778,
+    "storeId": 1915534742,
+    "categoryId": 1500128707
+  },
+  {
+    "isParent": 9,
+    "visibility": 9,
+    "position": 9,
+    "productId": 393479047,
+    "storeId": 599578211,
+    "categoryId": 1726170721
+  }
+]

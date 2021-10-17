@@ -1,0 +1,102 @@
+[
+  {
+    "ordersCount": 0,
+    "taxBaseAmountSum": 0.0,
+    "period": "2021-16-10",
+    "code": "f73f3f38-15f4-4cff-8fb3-f1f26a52b81d",
+    "orderStatus": "67359890-f6bb-4a76-b136-a456fa23e59e",
+    "id": 622331644,
+    "storeId": 929170143,
+    "percent": 1.35561126E9
+  },
+  {
+    "ordersCount": 1,
+    "taxBaseAmountSum": 1.0,
+    "period": "2021-16-10",
+    "code": "df1c5f01-c085-4a1f-95d9-ba1258b43354",
+    "orderStatus": "8ea97598-6659-484f-8c86-4546c2e2a5c0",
+    "id": 1028792992,
+    "storeId": 457573054,
+    "percent": 5.9466598E8
+  },
+  {
+    "ordersCount": 2,
+    "taxBaseAmountSum": 2.0,
+    "period": "2021-16-10",
+    "code": "b2db1abd-340b-4a8e-a35f-52fe027ef129",
+    "orderStatus": "e066d501-c15f-4303-8b82-68f46250b926",
+    "id": 2056286494,
+    "storeId": 1952469859,
+    "percent": 9.2070298E8
+  },
+  {
+    "ordersCount": 3,
+    "taxBaseAmountSum": 3.0,
+    "period": "2021-16-10",
+    "code": "da4adf0b-fae3-4a2e-bbaf-c3e38e93bdc9",
+    "orderStatus": "7ebd057e-869a-4228-8bdb-8336496b3627",
+    "id": 1134148728,
+    "storeId": 191243590,
+    "percent": 2.05989939E9
+  },
+  {
+    "ordersCount": 4,
+    "taxBaseAmountSum": 4.0,
+    "period": "2021-16-10",
+    "code": "87dd459e-19a8-402b-b92e-d6c7af8659e7",
+    "orderStatus": "c41e822d-71bd-4a42-a473-1fccc5c75103",
+    "id": 203813118,
+    "storeId": 117139272,
+    "percent": 1.86971392E9
+  },
+  {
+    "ordersCount": 5,
+    "taxBaseAmountSum": 5.0,
+    "period": "2021-16-10",
+    "code": "9ad9fef1-ebca-4430-8670-b6381ee3005e",
+    "orderStatus": "065ca476-2f30-442e-89e2-9990afe89491",
+    "id": 1747509815,
+    "storeId": 1826660463,
+    "percent": 1.45734426E9
+  },
+  {
+    "ordersCount": 6,
+    "taxBaseAmountSum": 6.0,
+    "period": "2021-16-10",
+    "code": "e15b2619-cdf2-4317-83ad-0c82df5b14fd",
+    "orderStatus": "f90a75b7-8c63-43a9-aff1-0ce0f2638e37",
+    "id": 845854335,
+    "storeId": 1329246392,
+    "percent": 1.3942976E8
+  },
+  {
+    "ordersCount": 7,
+    "taxBaseAmountSum": 7.0,
+    "period": "2021-16-10",
+    "code": "81d1706b-7bb8-4f1d-8351-a8b97ba9b023",
+    "orderStatus": "1bc435b9-e796-4713-ad1c-a3fc02b857a8",
+    "id": 499701532,
+    "storeId": 1428276949,
+    "percent": 4.88098592E8
+  },
+  {
+    "ordersCount": 8,
+    "taxBaseAmountSum": 8.0,
+    "period": "2021-16-10",
+    "code": "313d3022-ac8f-4d96-91a5-6f7ef87ed5b9",
+    "orderStatus": "4442b4d4-2731-49e5-be1a-80a027d06773",
+    "id": 2144737860,
+    "storeId": 1784445823,
+    "percent": 7.6488115E8
+  },
+  {
+    "ordersCount": 9,
+    "taxBaseAmountSum": 9.0,
+    "period": "2021-16-10",
+    "code": "3ed04e07-8f9a-436f-ba2f-28a2dd6a9daf",
+    "orderStatus": "97e3ee61-18bd-472f-99ca-3a9ade3a40ec",
+    "id": 1138619109,
+    "storeId": 1532273435,
+    "percent": 1.11774106E9
+  }
+]

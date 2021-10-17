@@ -1,0 +1,102 @@
+[
+  {
+    "province": "Lorem ipsum dolor si0",
+    "city": "Trafalgar",
+    "countryCode": "Comoros",
+    "latitude": 0.0,
+    "postcode": "Lorem ipsum dolor si0",
+    "region": "Lorem ipsum dolor si0",
+    "longitude": 0.0,
+    "defaultId": "e4577431-c318-4053-bf25-345487a081c6"
+  },
+  {
+    "province": "Lorem ipsum dolor si1",
+    "city": "Horace",
+    "countryCode": "Netherland",
+    "latitude": 1.0,
+    "postcode": "Lorem ipsum dolor si1",
+    "region": "Lorem ipsum dolor si1",
+    "longitude": 1.0,
+    "defaultId": "9d178d7e-fcf2-46b7-91d2-b5f6751e1d83"
+  },
+  {
+    "province": "Lorem ipsum dolor si2",
+    "city": "Kykotsmovi",
+    "countryCode": "Kazakstan",
+    "latitude": 2.0,
+    "postcode": "Lorem ipsum dolor si2",
+    "region": "Lorem ipsum dolor si2",
+    "longitude": 2.0,
+    "defaultId": "02b2344a-3934-4f8c-9d4c-2a59221017a5"
+  },
+  {
+    "province": "Lorem ipsum dolor si3",
+    "city": "Ribera",
+    "countryCode": "Bolivia",
+    "latitude": 3.0,
+    "postcode": "Lorem ipsum dolor si3",
+    "region": "Lorem ipsum dolor si3",
+    "longitude": 3.0,
+    "defaultId": "e0c98949-0e2f-4c2c-8b33-330349cddf9c"
+  },
+  {
+    "province": "Lorem ipsum dolor si4",
+    "city": "Oneill",
+    "countryCode": "Papua New ",
+    "latitude": 4.0,
+    "postcode": "Lorem ipsum dolor si4",
+    "region": "Lorem ipsum dolor si4",
+    "longitude": 4.0,
+    "defaultId": "598108bc-f65d-45e7-b312-7ee568a4c47e"
+  },
+  {
+    "province": "Lorem ipsum dolor si5",
+    "city": "South Wood",
+    "countryCode": "Austria",
+    "latitude": 5.0,
+    "postcode": "Lorem ipsum dolor si5",
+    "region": "Lorem ipsum dolor si5",
+    "longitude": 5.0,
+    "defaultId": "a14e095e-263b-49d4-87e9-59c72562ff48"
+  },
+  {
+    "province": "Lorem ipsum dolor si6",
+    "city": "Ribera",
+    "countryCode": "Turkey",
+    "latitude": 6.0,
+    "postcode": "Lorem ipsum dolor si6",
+    "region": "Lorem ipsum dolor si6",
+    "longitude": 6.0,
+    "defaultId": "f4f92aef-5d48-45da-b049-5c3570633bf8"
+  },
+  {
+    "province": "Lorem ipsum dolor si7",
+    "city": "Boone",
+    "countryCode": "Haiti",
+    "latitude": 7.0,
+    "postcode": "Lorem ipsum dolor si7",
+    "region": "Lorem ipsum dolor si7",
+    "longitude": 7.0,
+    "defaultId": "187f1b5b-4318-43f3-bbbb-34040b6f0edf"
+  },
+  {
+    "province": "Lorem ipsum dolor si8",
+    "city": "Deer Creek",
+    "countryCode": "Reunion",
+    "latitude": 8.0,
+    "postcode": "Lorem ipsum dolor si8",
+    "region": "Lorem ipsum dolor si8",
+    "longitude": 8.0,
+    "defaultId": "012c6964-d47f-453c-bccc-737290df9fce"
+  },
+  {
+    "province": "Lorem ipsum dolor si9",
+    "city": "Lander",
+    "countryCode": "Botswana",
+    "latitude": 9.0,
+    "postcode": "Lorem ipsum dolor si9",
+    "region": "Lorem ipsum dolor si9",
+    "longitude": 9.0,
+    "defaultId": "b9b52121-8704-4cb1-8b85-0e2a4ae7d977"
+  }
+]

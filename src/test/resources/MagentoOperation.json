@@ -1,0 +1,102 @@
+[
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Belvia",
+    "errorCode": 0,
+    "resultMessage": "76",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2kw",
+    "status": 0,
+    "id": 1569586580
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Gigi",
+    "errorCode": 1,
+    "resultMessage": "23",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2kx",
+    "status": 1,
+    "id": 1511699597
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Donelle",
+    "errorCode": 2,
+    "resultMessage": "96",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2ky",
+    "status": 2,
+    "id": 1603156341
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Ina",
+    "errorCode": 3,
+    "resultMessage": "41",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2kz",
+    "status": 3,
+    "id": 870963944
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Karia",
+    "errorCode": 4,
+    "resultMessage": "26",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2k0",
+    "status": 4,
+    "id": 1780605256
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Tanhya",
+    "errorCode": 5,
+    "resultMessage": "40",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2k1",
+    "status": 5,
+    "id": 48965349
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Luisa",
+    "errorCode": 6,
+    "resultMessage": "38",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2k2",
+    "status": 6,
+    "id": 779651086
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Alidia",
+    "errorCode": 7,
+    "resultMessage": "9",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2k3",
+    "status": 7,
+    "id": 1264403844
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Bryana",
+    "errorCode": 8,
+    "resultMessage": "68",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2k4",
+    "status": 8,
+    "id": 1246627284
+  },
+  {
+    "serializedData": "null",
+    "resultSerializedData": "null",
+    "topicName": "Danella",
+    "errorCode": 9,
+    "resultMessage": "47",
+    "bulkUuid": "TG9yZW0gaXBzdW0gZG9sb3Igc2k5",
+    "status": 9,
+    "id": 1585352303
+  }
+]

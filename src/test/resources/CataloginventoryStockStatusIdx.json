@@ -1,0 +1,72 @@
+[
+  {
+    "qty": 0,
+    "stockStatus": 0,
+    "stockId": 1530125811,
+    "websiteId": 1907702314,
+    "productId": 1481477977
+  },
+  {
+    "qty": 1,
+    "stockStatus": 1,
+    "stockId": 1282838098,
+    "websiteId": 1767153597,
+    "productId": 1963467873
+  },
+  {
+    "qty": 2,
+    "stockStatus": 2,
+    "stockId": 1679090647,
+    "websiteId": 649881261,
+    "productId": 1827154299
+  },
+  {
+    "qty": 3,
+    "stockStatus": 3,
+    "stockId": 1707254807,
+    "websiteId": 1346548603,
+    "productId": 54080729
+  },
+  {
+    "qty": 4,
+    "stockStatus": 4,
+    "stockId": 566163401,
+    "websiteId": 461249275,
+    "productId": 1684188402
+  },
+  {
+    "qty": 5,
+    "stockStatus": 5,
+    "stockId": 1809083995,
+    "websiteId": 1601466523,
+    "productId": 251195854
+  },
+  {
+    "qty": 6,
+    "stockStatus": 6,
+    "stockId": 234374646,
+    "websiteId": 1341399012,
+    "productId": 166751997
+  },
+  {
+    "qty": 7,
+    "stockStatus": 7,
+    "stockId": 1754074042,
+    "websiteId": 1449635915,
+    "productId": 1452742415
+  },
+  {
+    "qty": 8,
+    "stockStatus": 8,
+    "stockId": 394574034,
+    "websiteId": 2128303575,
+    "productId": 1000080757
+  },
+  {
+    "qty": 9,
+    "stockStatus": 9,
+    "stockId": 1201001322,
+    "websiteId": 2094361138,
+    "productId": 766342777
+  }
+]

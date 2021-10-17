@@ -1,0 +1,52 @@
+[
+  {
+    "severity": 0,
+    "createdAt": "1965-10-17T00:08:08.000-0700",
+    "identity": "39f79f7e-3791-4aef-9ccd-f27aca0f9f89"
+  },
+  {
+    "severity": 1,
+    "createdAt": "2009-10-17T00:08:13.000-0700",
+    "identity": "ac2a6ae4-14a8-4669-976c-b690611cea6f"
+  },
+  {
+    "severity": 2,
+    "createdAt": "2053-10-17T00:08:13.000-0700",
+    "identity": "e2715039-9de7-4975-8c5e-ec2159aad3c6"
+  },
+  {
+    "severity": 3,
+    "createdAt": "1910-10-16T23:08:13.000-0800",
+    "identity": "98b601d5-491d-4e4c-acdd-98c40af2aced"
+  },
+  {
+    "severity": 4,
+    "createdAt": "1908-10-16T23:08:13.000-0800",
+    "identity": "b9d1e4d4-1086-4ecc-b8dd-ad87c2e4f438"
+  },
+  {
+    "severity": 5,
+    "createdAt": "2045-10-17T00:08:13.000-0700",
+    "identity": "850496d0-3783-412c-b164-6171648c4c12"
+  },
+  {
+    "severity": 6,
+    "createdAt": "2099-10-17T00:08:13.000-0700",
+    "identity": "6c2b45b3-8319-4433-973b-e73bdf9eb70d"
+  },
+  {
+    "severity": 7,
+    "createdAt": "2073-10-17T00:08:13.000-0700",
+    "identity": "03de89dd-207c-45d7-adb0-785874e18b5c"
+  },
+  {
+    "severity": 8,
+    "createdAt": "2045-10-17T00:08:13.000-0700",
+    "identity": "6f3d141a-a71f-4d57-9627-ca792cc6d2ed"
+  },
+  {
+    "severity": 9,
+    "createdAt": "2059-10-17T00:08:13.000-0700",
+    "identity": "0736351b-0121-4490-b6f6-e9d0457c47e6"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "createdAt": "1925-10-16T23:08:08.000-0800",
+    "ip": "203-101-78-157",
+    "sessionId": "Lorem ipsum dolor si0",
+    "userId": 0,
+    "status": 0,
+    "updatedAt": "2001-10-17T00:08:08.000-0700",
+    "id": 1314009679
+  },
+  {
+    "createdAt": "1905-10-16T23:08:13.000-0800",
+    "ip": "195-8-161-181",
+    "sessionId": "Lorem ipsum dolor si1",
+    "userId": 1,
+    "status": 1,
+    "updatedAt": "2017-10-17T00:08:13.000-0700",
+    "id": 1104450834
+  },
+  {
+    "createdAt": "2035-10-17T00:08:13.000-0700",
+    "ip": "105-149-243-110",
+    "sessionId": "Lorem ipsum dolor si2",
+    "userId": 2,
+    "status": 2,
+    "updatedAt": "1961-10-16T23:08:14.000-0800",
+    "id": 34258678
+  },
+  {
+    "createdAt": "1924-10-16T23:08:14.000-0800",
+    "ip": "160-78-106-14",
+    "sessionId": "Lorem ipsum dolor si3",
+    "userId": 3,
+    "status": 3,
+    "updatedAt": "2090-10-17T00:08:14.000-0700",
+    "id": 658919951
+  },
+  {
+    "createdAt": "2034-10-17T00:08:14.000-0700",
+    "ip": "6-30-110-41",
+    "sessionId": "Lorem ipsum dolor si4",
+    "userId": 4,
+    "status": 4,
+    "updatedAt": "1978-10-17T00:08:14.000-0700",
+    "id": 1541647360
+  },
+  {
+    "createdAt": "1932-10-16T23:08:14.000-0800",
+    "ip": "130-170-61-4",
+    "sessionId": "Lorem ipsum dolor si5",
+    "userId": 5,
+    "status": 5,
+    "updatedAt": "2014-10-17T00:08:14.000-0700",
+    "id": 306351641
+  },
+  {
+    "createdAt": "1949-10-16T23:08:14.000-0800",
+    "ip": "124-67-14-98",
+    "sessionId": "Lorem ipsum dolor si6",
+    "userId": 6,
+    "status": 6,
+    "updatedAt": "2046-10-17T00:08:14.000-0700",
+    "id": 1389082983
+  },
+  {
+    "createdAt": "1982-10-17T00:08:14.000-0700",
+    "ip": "18-190-88-93",
+    "sessionId": "Lorem ipsum dolor si7",
+    "userId": 7,
+    "status": 7,
+    "updatedAt": "2091-10-17T00:08:14.000-0700",
+    "id": 1364734810
+  },
+  {
+    "createdAt": "2061-10-17T00:08:14.000-0700",
+    "ip": "91-244-72-162",
+    "sessionId": "Lorem ipsum dolor si8",
+    "userId": 8,
+    "status": 8,
+    "updatedAt": "1931-10-16T23:08:14.000-0800",
+    "id": 1792774923
+  },
+  {
+    "createdAt": "2090-10-17T00:08:14.000-0700",
+    "ip": "178-62-89-58",
+    "sessionId": "Lorem ipsum dolor si9",
+    "userId": 9,
+    "status": 9,
+    "updatedAt": "2091-10-17T00:08:14.000-0700",
+    "id": 1291763911
+  }
+]

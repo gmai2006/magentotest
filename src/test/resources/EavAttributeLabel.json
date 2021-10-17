@@ -1,0 +1,62 @@
+[
+  {
+    "attributeId": 0,
+    "storeId": 0,
+    "value": "Lorem ipsum dolor si0",
+    "attributeLabelId": 1255398434
+  },
+  {
+    "attributeId": 1,
+    "storeId": 1,
+    "value": "Lorem ipsum dolor si1",
+    "attributeLabelId": 750501705
+  },
+  {
+    "attributeId": 2,
+    "storeId": 2,
+    "value": "Lorem ipsum dolor si2",
+    "attributeLabelId": 1494013793
+  },
+  {
+    "attributeId": 3,
+    "storeId": 3,
+    "value": "Lorem ipsum dolor si3",
+    "attributeLabelId": 1827293203
+  },
+  {
+    "attributeId": 4,
+    "storeId": 4,
+    "value": "Lorem ipsum dolor si4",
+    "attributeLabelId": 1332018366
+  },
+  {
+    "attributeId": 5,
+    "storeId": 5,
+    "value": "Lorem ipsum dolor si5",
+    "attributeLabelId": 47478372
+  },
+  {
+    "attributeId": 6,
+    "storeId": 6,
+    "value": "Lorem ipsum dolor si6",
+    "attributeLabelId": 468867371
+  },
+  {
+    "attributeId": 7,
+    "storeId": 7,
+    "value": "Lorem ipsum dolor si7",
+    "attributeLabelId": 1333384756
+  },
+  {
+    "attributeId": 8,
+    "storeId": 8,
+    "value": "Lorem ipsum dolor si8",
+    "attributeLabelId": 308054022
+  },
+  {
+    "attributeId": 9,
+    "storeId": 9,
+    "value": "Lorem ipsum dolor si9",
+    "attributeLabelId": 408944639
+  }
+]

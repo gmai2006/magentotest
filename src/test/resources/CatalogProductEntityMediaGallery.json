@@ -1,0 +1,72 @@
+[
+  {
+    "attributeId": 0,
+    "mediaType": "Lorem ipsum dolor si0",
+    "disabled": 0,
+    "value": "Lorem ipsum dolor si0",
+    "valueId": 1266856793
+  },
+  {
+    "attributeId": 1,
+    "mediaType": "Lorem ipsum dolor si1",
+    "disabled": 1,
+    "value": "Lorem ipsum dolor si1",
+    "valueId": 2123391606
+  },
+  {
+    "attributeId": 2,
+    "mediaType": "Lorem ipsum dolor si2",
+    "disabled": 2,
+    "value": "Lorem ipsum dolor si2",
+    "valueId": 856498905
+  },
+  {
+    "attributeId": 3,
+    "mediaType": "Lorem ipsum dolor si3",
+    "disabled": 3,
+    "value": "Lorem ipsum dolor si3",
+    "valueId": 1781328583
+  },
+  {
+    "attributeId": 4,
+    "mediaType": "Lorem ipsum dolor si4",
+    "disabled": 4,
+    "value": "Lorem ipsum dolor si4",
+    "valueId": 793701589
+  },
+  {
+    "attributeId": 5,
+    "mediaType": "Lorem ipsum dolor si5",
+    "disabled": 5,
+    "value": "Lorem ipsum dolor si5",
+    "valueId": 1430345938
+  },
+  {
+    "attributeId": 6,
+    "mediaType": "Lorem ipsum dolor si6",
+    "disabled": 6,
+    "value": "Lorem ipsum dolor si6",
+    "valueId": 1071461185
+  },
+  {
+    "attributeId": 7,
+    "mediaType": "Lorem ipsum dolor si7",
+    "disabled": 7,
+    "value": "Lorem ipsum dolor si7",
+    "valueId": 713394987
+  },
+  {
+    "attributeId": 8,
+    "mediaType": "Lorem ipsum dolor si8",
+    "disabled": 8,
+    "value": "Lorem ipsum dolor si8",
+    "valueId": 1701059215
+  },
+  {
+    "attributeId": 9,
+    "mediaType": "Lorem ipsum dolor si9",
+    "disabled": 9,
+    "value": "Lorem ipsum dolor si9",
+    "valueId": 379612901
+  }
+]

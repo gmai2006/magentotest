@@ -1,0 +1,72 @@
+[
+  {
+    "entityId": 0,
+    "position": 0,
+    "isActive": 0,
+    "ratingCode": "5ccb24af-b5b1-4187-a1ab-43ae6cedec13",
+    "ratingId": 2037953942
+  },
+  {
+    "entityId": 1,
+    "position": 1,
+    "isActive": 1,
+    "ratingCode": "489184f5-e0d3-49c4-abd4-bf8e58c21876",
+    "ratingId": 1080234648
+  },
+  {
+    "entityId": 2,
+    "position": 2,
+    "isActive": 2,
+    "ratingCode": "721bf34b-1c62-447a-a084-ef154b6f908b",
+    "ratingId": 1201285546
+  },
+  {
+    "entityId": 3,
+    "position": 3,
+    "isActive": 3,
+    "ratingCode": "b7438ac8-f23f-4a20-9280-5039e7b98c65",
+    "ratingId": 1294129805
+  },
+  {
+    "entityId": 4,
+    "position": 4,
+    "isActive": 4,
+    "ratingCode": "60daa337-7ca7-4dee-9c71-94cb5d5ce86a",
+    "ratingId": 1928398370
+  },
+  {
+    "entityId": 5,
+    "position": 5,
+    "isActive": 5,
+    "ratingCode": "1c52b56a-4209-4644-93f8-54e45df9e617",
+    "ratingId": 1531070873
+  },
+  {
+    "entityId": 6,
+    "position": 6,
+    "isActive": 6,
+    "ratingCode": "894da868-43dc-4132-a16c-391f9b76d338",
+    "ratingId": 2012744605
+  },
+  {
+    "entityId": 7,
+    "position": 7,
+    "isActive": 7,
+    "ratingCode": "1dbfb39b-4a88-4ee2-a077-e422ab31f1a5",
+    "ratingId": 1513839968
+  },
+  {
+    "entityId": 8,
+    "position": 8,
+    "isActive": 8,
+    "ratingCode": "1c0f6e1b-3f70-4119-bd07-e2dae0b4a8ac",
+    "ratingId": 1220549184
+  },
+  {
+    "entityId": 9,
+    "position": 9,
+    "isActive": 9,
+    "ratingCode": "b84eee29-07f0-4736-a41a-df5e07bbfc4a",
+    "ratingId": 2025683988
+  }
+]

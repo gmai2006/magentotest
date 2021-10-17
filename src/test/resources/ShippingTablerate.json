@@ -1,0 +1,112 @@
+[
+  {
+    "cost": 0,
+    "price": 0,
+    "destRegionId": 550608686,
+    "websiteId": 1056360962,
+    "destCountryId": "a6b970b3-9879-4227-a775-1384d6a80ff0",
+    "conditionValue": 20017088,
+    "conditionName": "b14ded8f-e6bc-4fc2-ae0e-7fb8ec2fed94",
+    "pk": 469177524,
+    "destZip": "06a063a6-8802-4877-96c1-8f836dc0fcef"
+  },
+  {
+    "cost": 1,
+    "price": 1,
+    "destRegionId": 2032799405,
+    "websiteId": 615078003,
+    "destCountryId": "c9b8a076-0965-4dc5-a5fc-6327f6b655f8",
+    "conditionValue": 1520529573,
+    "conditionName": "1d8b86e5-476d-4385-8553-bd7da779c5e5",
+    "pk": 1453912016,
+    "destZip": "321755d4-9e3d-4472-862b-5ded797d6f34"
+  },
+  {
+    "cost": 2,
+    "price": 2,
+    "destRegionId": 1944687795,
+    "websiteId": 1346185197,
+    "destCountryId": "420e89a7-81d8-4aa5-b1b7-aefe881caf92",
+    "conditionValue": 1152351789,
+    "conditionName": "ff6e74df-47fd-4b8d-9c7a-06ca95f858d9",
+    "pk": 1881980289,
+    "destZip": "b2ae2deb-b0d9-4139-a601-e44bd4d6b7ff"
+  },
+  {
+    "cost": 3,
+    "price": 3,
+    "destRegionId": 21805209,
+    "websiteId": 1841986300,
+    "destCountryId": "dca7c6b1-031f-4982-8d24-692a19f7728d",
+    "conditionValue": 2094373651,
+    "conditionName": "a01de402-14e9-4ed5-a9d7-aaab9426d3ef",
+    "pk": 1099727287,
+    "destZip": "b9ae9c0d-d1d7-472a-9dd9-1a42e39afe50"
+  },
+  {
+    "cost": 4,
+    "price": 4,
+    "destRegionId": 553691423,
+    "websiteId": 1248160150,
+    "destCountryId": "2d5846f9-d4d5-4be6-902f-173428967ea4",
+    "conditionValue": 786678418,
+    "conditionName": "ee166b34-774b-4694-85e0-4d2ecfbb4584",
+    "pk": 972532639,
+    "destZip": "451d6ad6-fbe5-45d6-b3e8-a2c9eabd156e"
+  },
+  {
+    "cost": 5,
+    "price": 5,
+    "destRegionId": 2122169706,
+    "websiteId": 251245329,
+    "destCountryId": "8cb3806b-7b93-4084-8b32-4554e92d8e22",
+    "conditionValue": 163734889,
+    "conditionName": "5a0c519a-cdb9-4a08-aad3-2900ee48ff9d",
+    "pk": 1116301380,
+    "destZip": "1f8c8afa-beb0-4a4e-bcef-0397083e0d7c"
+  },
+  {
+    "cost": 6,
+    "price": 6,
+    "destRegionId": 1842127653,
+    "websiteId": 185200290,
+    "destCountryId": "f135bd42-9ec4-4137-b74f-1be218beb830",
+    "conditionValue": 776826531,
+    "conditionName": "fe99ff8f-a0e3-4373-a56e-215f4c206769",
+    "pk": 1165384704,
+    "destZip": "0eadb39a-75e7-462a-89f2-f1003ab48932"
+  },
+  {
+    "cost": 7,
+    "price": 7,
+    "destRegionId": 479530177,
+    "websiteId": 693569905,
+    "destCountryId": "5687726a-49a3-4360-8771-05e0cfc2d77a",
+    "conditionValue": 1153532818,
+    "conditionName": "03185644-c667-4be9-aa03-639c1b6e8d5a",
+    "pk": 1142704254,
+    "destZip": "452a92b3-10ed-4e06-ac4d-36bd67e5b70e"
+  },
+  {
+    "cost": 8,
+    "price": 8,
+    "destRegionId": 1746518492,
+    "websiteId": 423840853,
+    "destCountryId": "385628fd-fd76-4f8b-8568-3ad4801a4ec1",
+    "conditionValue": 1867518170,
+    "conditionName": "e67accd2-2b60-4e32-bca6-6fb023c1f86a",
+    "pk": 1281476970,
+    "destZip": "7021457b-779d-4d40-84e6-232f01e919ec"
+  },
+  {
+    "cost": 9,
+    "price": 9,
+    "destRegionId": 2078413759,
+    "websiteId": 1065206577,
+    "destCountryId": "57b6700c-9a12-484b-9c43-d94f87ef390d",
+    "conditionValue": 1944442537,
+    "conditionName": "29eaf310-79da-4f58-85db-60f966c04e01",
+    "pk": 1045230008,
+    "destZip": "a95313f4-feed-4620-bc63-f2e63df14876"
+  }
+]

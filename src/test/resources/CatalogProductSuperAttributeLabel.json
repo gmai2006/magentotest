@@ -1,0 +1,72 @@
+[
+  {
+    "useDefault": 0,
+    "value": "Lorem ipsum dolor si0",
+    "valueId": 208192782,
+    "storeId": 1614052226,
+    "productSuperAttributeId": 1994379594
+  },
+  {
+    "useDefault": 1,
+    "value": "Lorem ipsum dolor si1",
+    "valueId": 298033221,
+    "storeId": 776405490,
+    "productSuperAttributeId": 2025825561
+  },
+  {
+    "useDefault": 2,
+    "value": "Lorem ipsum dolor si2",
+    "valueId": 6023571,
+    "storeId": 1138381999,
+    "productSuperAttributeId": 10605675
+  },
+  {
+    "useDefault": 3,
+    "value": "Lorem ipsum dolor si3",
+    "valueId": 2062359912,
+    "storeId": 1842599915,
+    "productSuperAttributeId": 1055179946
+  },
+  {
+    "useDefault": 4,
+    "value": "Lorem ipsum dolor si4",
+    "valueId": 525647,
+    "storeId": 1699238503,
+    "productSuperAttributeId": 1838835911
+  },
+  {
+    "useDefault": 5,
+    "value": "Lorem ipsum dolor si5",
+    "valueId": 801945309,
+    "storeId": 493558116,
+    "productSuperAttributeId": 1969963358
+  },
+  {
+    "useDefault": 6,
+    "value": "Lorem ipsum dolor si6",
+    "valueId": 223991155,
+    "storeId": 294574208,
+    "productSuperAttributeId": 665693852
+  },
+  {
+    "useDefault": 7,
+    "value": "Lorem ipsum dolor si7",
+    "valueId": 741827466,
+    "storeId": 881481434,
+    "productSuperAttributeId": 1405060230
+  },
+  {
+    "useDefault": 8,
+    "value": "Lorem ipsum dolor si8",
+    "valueId": 1294172243,
+    "storeId": 365590726,
+    "productSuperAttributeId": 1774381602
+  },
+  {
+    "useDefault": 9,
+    "value": "Lorem ipsum dolor si9",
+    "valueId": 1113158005,
+    "storeId": 748356347,
+    "productSuperAttributeId": 1047862186
+  }
+]

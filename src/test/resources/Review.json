@@ -1,0 +1,72 @@
+[
+  {
+    "createdAt": "2057-10-17T00:08:09.000-0700",
+    "statusId": 0,
+    "entityPkValue": 0,
+    "entityId": 0,
+    "reviewId": "229810927"
+  },
+  {
+    "createdAt": "2072-10-17T00:08:15.000-0700",
+    "statusId": 1,
+    "entityPkValue": 1,
+    "entityId": 1,
+    "reviewId": "1753581710"
+  },
+  {
+    "createdAt": "1939-10-16T23:08:15.000-0800",
+    "statusId": 2,
+    "entityPkValue": 2,
+    "entityId": 2,
+    "reviewId": "313324742"
+  },
+  {
+    "createdAt": "1918-10-17T00:08:15.000-0700",
+    "statusId": 3,
+    "entityPkValue": 3,
+    "entityId": 3,
+    "reviewId": "1409092128"
+  },
+  {
+    "createdAt": "1911-10-16T23:08:15.000-0800",
+    "statusId": 4,
+    "entityPkValue": 4,
+    "entityId": 4,
+    "reviewId": "993276803"
+  },
+  {
+    "createdAt": "2069-10-17T00:08:15.000-0700",
+    "statusId": 5,
+    "entityPkValue": 5,
+    "entityId": 5,
+    "reviewId": "1743475035"
+  },
+  {
+    "createdAt": "1904-10-16T23:08:15.000-0800",
+    "statusId": 6,
+    "entityPkValue": 6,
+    "entityId": 6,
+    "reviewId": "1795094539"
+  },
+  {
+    "createdAt": "1959-10-16T23:08:15.000-0800",
+    "statusId": 7,
+    "entityPkValue": 7,
+    "entityId": 7,
+    "reviewId": "497626676"
+  },
+  {
+    "createdAt": "2065-10-17T00:08:15.000-0700",
+    "statusId": 8,
+    "entityPkValue": 8,
+    "entityId": 8,
+    "reviewId": "833492436"
+  },
+  {
+    "createdAt": "2026-10-17T00:08:15.000-0700",
+    "statusId": 9,
+    "entityPkValue": 9,
+    "entityId": 9,
+    "reviewId": "1075361081"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "ratingSummary": 0,
+    "entityType": 0,
+    "entityPkValue": "0",
+    "reviewsCount": 0,
+    "storeId": 0,
+    "primaryId": "571512679"
+  },
+  {
+    "ratingSummary": 1,
+    "entityType": 1,
+    "entityPkValue": "1",
+    "reviewsCount": 1,
+    "storeId": 1,
+    "primaryId": "1092950983"
+  },
+  {
+    "ratingSummary": 2,
+    "entityType": 2,
+    "entityPkValue": "2",
+    "reviewsCount": 2,
+    "storeId": 2,
+    "primaryId": "1975461908"
+  },
+  {
+    "ratingSummary": 3,
+    "entityType": 3,
+    "entityPkValue": "3",
+    "reviewsCount": 3,
+    "storeId": 3,
+    "primaryId": "1039096830"
+  },
+  {
+    "ratingSummary": 4,
+    "entityType": 4,
+    "entityPkValue": "4",
+    "reviewsCount": 4,
+    "storeId": 4,
+    "primaryId": "1375042135"
+  },
+  {
+    "ratingSummary": 5,
+    "entityType": 5,
+    "entityPkValue": "5",
+    "reviewsCount": 5,
+    "storeId": 5,
+    "primaryId": "1794942171"
+  },
+  {
+    "ratingSummary": 6,
+    "entityType": 6,
+    "entityPkValue": "6",
+    "reviewsCount": 6,
+    "storeId": 6,
+    "primaryId": "1861047256"
+  },
+  {
+    "ratingSummary": 7,
+    "entityType": 7,
+    "entityPkValue": "7",
+    "reviewsCount": 7,
+    "storeId": 7,
+    "primaryId": "786040844"
+  },
+  {
+    "ratingSummary": 8,
+    "entityType": 8,
+    "entityPkValue": "8",
+    "reviewsCount": 8,
+    "storeId": 8,
+    "primaryId": "921564793"
+  },
+  {
+    "ratingSummary": 9,
+    "entityType": 9,
+    "entityPkValue": "9",
+    "reviewsCount": 9,
+    "storeId": 9,
+    "primaryId": "1366878375"
+  }
+]

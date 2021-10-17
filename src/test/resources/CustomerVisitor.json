@@ -1,0 +1,62 @@
+[
+  {
+    "customerId": 0,
+    "lastVisitAt": "2090-10-17T00:08:09.000-0700",
+    "sessionId": "Lorem ipsum dolor si0",
+    "visitorId": "347999849"
+  },
+  {
+    "customerId": 1,
+    "lastVisitAt": "1975-10-17T00:08:14.000-0700",
+    "sessionId": "Lorem ipsum dolor si1",
+    "visitorId": "2047439629"
+  },
+  {
+    "customerId": 2,
+    "lastVisitAt": "2021-10-17T00:08:14.000-0700",
+    "sessionId": "Lorem ipsum dolor si2",
+    "visitorId": "1972802224"
+  },
+  {
+    "customerId": 3,
+    "lastVisitAt": "1922-10-16T23:08:14.000-0800",
+    "sessionId": "Lorem ipsum dolor si3",
+    "visitorId": "61697978"
+  },
+  {
+    "customerId": 4,
+    "lastVisitAt": "1913-10-16T23:08:14.000-0800",
+    "sessionId": "Lorem ipsum dolor si4",
+    "visitorId": "1072312177"
+  },
+  {
+    "customerId": 5,
+    "lastVisitAt": "2006-10-17T00:08:14.000-0700",
+    "sessionId": "Lorem ipsum dolor si5",
+    "visitorId": "25442027"
+  },
+  {
+    "customerId": 6,
+    "lastVisitAt": "2045-10-17T00:08:14.000-0700",
+    "sessionId": "Lorem ipsum dolor si6",
+    "visitorId": "72068191"
+  },
+  {
+    "customerId": 7,
+    "lastVisitAt": "1937-10-16T23:08:14.000-0800",
+    "sessionId": "Lorem ipsum dolor si7",
+    "visitorId": "2138865170"
+  },
+  {
+    "customerId": 8,
+    "lastVisitAt": "2043-10-17T00:08:14.000-0700",
+    "sessionId": "Lorem ipsum dolor si8",
+    "visitorId": "633914966"
+  },
+  {
+    "customerId": 9,
+    "lastVisitAt": "1945-10-16T23:08:14.000-0800",
+    "sessionId": "Lorem ipsum dolor si9",
+    "visitorId": "1457102160"
+  }
+]

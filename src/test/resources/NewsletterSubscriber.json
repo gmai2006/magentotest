@@ -1,0 +1,92 @@
+[
+  {
+    "changeStatusAt": "1929-10-16T23:08:09.000-0800",
+    "subscriberConfirmCode": "Lorem ipsum dolor si0",
+    "subscriberStatus": 0,
+    "customerId": 0,
+    "storeId": 0,
+    "subscriberEmail": "Edi@dummy.com",
+    "subscriberId": 1988913509
+  },
+  {
+    "changeStatusAt": "1988-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si1",
+    "subscriberStatus": 1,
+    "customerId": 1,
+    "storeId": 1,
+    "subscriberEmail": "Fania@dummy.com",
+    "subscriberId": 1840950917
+  },
+  {
+    "changeStatusAt": "2099-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si2",
+    "subscriberStatus": 2,
+    "customerId": 2,
+    "storeId": 2,
+    "subscriberEmail": "Bellanca@dummy.com",
+    "subscriberId": 1775251823
+  },
+  {
+    "changeStatusAt": "2001-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si3",
+    "subscriberStatus": 3,
+    "customerId": 3,
+    "storeId": 3,
+    "subscriberEmail": "Julina@dummy.com",
+    "subscriberId": 1798425649
+  },
+  {
+    "changeStatusAt": "2019-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si4",
+    "subscriberStatus": 4,
+    "customerId": 4,
+    "storeId": 4,
+    "subscriberEmail": "Harmonia@dummy.com",
+    "subscriberId": 800478736
+  },
+  {
+    "changeStatusAt": "1977-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si5",
+    "subscriberStatus": 5,
+    "customerId": 5,
+    "storeId": 5,
+    "subscriberEmail": "Clerissa@dummy.com",
+    "subscriberId": 783582983
+  },
+  {
+    "changeStatusAt": "1922-10-16T23:08:15.000-0800",
+    "subscriberConfirmCode": "Lorem ipsum dolor si6",
+    "subscriberStatus": 6,
+    "customerId": 6,
+    "storeId": 6,
+    "subscriberEmail": "Kira@dummy.com",
+    "subscriberId": 1482190207
+  },
+  {
+    "changeStatusAt": "1951-10-16T23:08:15.000-0800",
+    "subscriberConfirmCode": "Lorem ipsum dolor si7",
+    "subscriberStatus": 7,
+    "customerId": 7,
+    "storeId": 7,
+    "subscriberEmail": "Ethelin@dummy.com",
+    "subscriberId": 1025797940
+  },
+  {
+    "changeStatusAt": "2004-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si8",
+    "subscriberStatus": 8,
+    "customerId": 8,
+    "storeId": 8,
+    "subscriberEmail": "Ernestine@dummy.com",
+    "subscriberId": 194745578
+  },
+  {
+    "changeStatusAt": "2036-10-17T00:08:15.000-0700",
+    "subscriberConfirmCode": "Lorem ipsum dolor si9",
+    "subscriberStatus": 9,
+    "customerId": 9,
+    "storeId": 9,
+    "subscriberEmail": "Hildegarde@dummy.com",
+    "subscriberId": 632520092
+  }
+]

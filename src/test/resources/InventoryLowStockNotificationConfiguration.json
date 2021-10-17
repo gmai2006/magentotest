@@ -1,0 +1,52 @@
+[
+  {
+    "notifyStockQty": 0,
+    "sku": "30fa5887-4009-4172-987f-d2a3a2debcb4",
+    "sourceCode": "53fd3dda-7681-4441-8e61-c186cd6b35bc"
+  },
+  {
+    "notifyStockQty": 1,
+    "sku": "a9b8f8e7-b4ad-46bd-afe8-6d1241eef33e",
+    "sourceCode": "81dc41b4-1c32-4173-a6db-b24d74a9b23a"
+  },
+  {
+    "notifyStockQty": 2,
+    "sku": "6b81e1b9-c977-4b23-b637-6ec1fe3941b7",
+    "sourceCode": "2ea51d8b-509e-4b0b-913f-bf269fc7741c"
+  },
+  {
+    "notifyStockQty": 3,
+    "sku": "b9aa5b41-6c20-491f-99db-89b40705537c",
+    "sourceCode": "84bb6fb9-e16e-44b0-9e5c-37d2ea382cab"
+  },
+  {
+    "notifyStockQty": 4,
+    "sku": "263f5010-90bb-4562-bd66-ca0983bd263d",
+    "sourceCode": "85cc53d6-c0dd-43a3-82ea-14f6afb652c2"
+  },
+  {
+    "notifyStockQty": 5,
+    "sku": "4e55a49e-cd0b-4019-8763-334106197369",
+    "sourceCode": "d0111f15-e13b-4c89-b762-ed31039be5d2"
+  },
+  {
+    "notifyStockQty": 6,
+    "sku": "e55b2537-035e-428a-8124-bec77a9cdd61",
+    "sourceCode": "122d8544-61b8-497e-b98c-d959a2ed5354"
+  },
+  {
+    "notifyStockQty": 7,
+    "sku": "4156ca9a-c692-4ff8-adc5-017f883d14da",
+    "sourceCode": "518162b1-219c-431d-8033-9bc34916fe10"
+  },
+  {
+    "notifyStockQty": 8,
+    "sku": "7847232c-3732-4784-a26e-a219a20452c6",
+    "sourceCode": "f5367d78-ea02-4442-b511-6804cd1b3fe6"
+  },
+  {
+    "notifyStockQty": 9,
+    "sku": "52baa7b3-8257-4689-8f07-c0c493a83f8f",
+    "sourceCode": "ae7a5bd3-797b-4095-ad0e-74d338426b5c"
+  }
+]

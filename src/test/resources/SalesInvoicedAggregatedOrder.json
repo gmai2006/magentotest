@@ -1,0 +1,112 @@
+[
+  {
+    "ordersCount": 0,
+    "invoiced": 0,
+    "invoicedNotCaptured": 0,
+    "invoicedCaptured": 0,
+    "ordersInvoiced": 0,
+    "orderStatus": "cea72eef-9f5d-4e1c-a83e-3c65748a644a",
+    "period": "2021-16-10",
+    "id": 1651974078,
+    "storeId": 1147691526
+  },
+  {
+    "ordersCount": 1,
+    "invoiced": 1,
+    "invoicedNotCaptured": 1,
+    "invoicedCaptured": 1,
+    "ordersInvoiced": 1,
+    "orderStatus": "1f08f0e7-4767-4c5e-862a-a8082319c135",
+    "period": "2021-16-10",
+    "id": 739713376,
+    "storeId": 980305524
+  },
+  {
+    "ordersCount": 2,
+    "invoiced": 2,
+    "invoicedNotCaptured": 2,
+    "invoicedCaptured": 2,
+    "ordersInvoiced": 2,
+    "orderStatus": "49543f74-5511-4ca1-86e0-5798063f8c61",
+    "period": "2021-16-10",
+    "id": 1612205263,
+    "storeId": 1665923629
+  },
+  {
+    "ordersCount": 3,
+    "invoiced": 3,
+    "invoicedNotCaptured": 3,
+    "invoicedCaptured": 3,
+    "ordersInvoiced": 3,
+    "orderStatus": "82639609-5541-47af-bf4c-a27a13afb979",
+    "period": "2021-16-10",
+    "id": 1152876655,
+    "storeId": 297811680
+  },
+  {
+    "ordersCount": 4,
+    "invoiced": 4,
+    "invoicedNotCaptured": 4,
+    "invoicedCaptured": 4,
+    "ordersInvoiced": 4,
+    "orderStatus": "7fb56c3b-e2a0-4a1a-adcb-e40148faad11",
+    "period": "2021-16-10",
+    "id": 2101710230,
+    "storeId": 937014602
+  },
+  {
+    "ordersCount": 5,
+    "invoiced": 5,
+    "invoicedNotCaptured": 5,
+    "invoicedCaptured": 5,
+    "ordersInvoiced": 5,
+    "orderStatus": "649dd3ed-222f-43eb-aefa-6e6868f8d07b",
+    "period": "2021-16-10",
+    "id": 75980871,
+    "storeId": 593843137
+  },
+  {
+    "ordersCount": 6,
+    "invoiced": 6,
+    "invoicedNotCaptured": 6,
+    "invoicedCaptured": 6,
+    "ordersInvoiced": 6,
+    "orderStatus": "f162f5b1-56e1-4305-ac2f-bd6dd86db6fb",
+    "period": "2021-16-10",
+    "id": 1280205138,
+    "storeId": 1489947669
+  },
+  {
+    "ordersCount": 7,
+    "invoiced": 7,
+    "invoicedNotCaptured": 7,
+    "invoicedCaptured": 7,
+    "ordersInvoiced": 7,
+    "orderStatus": "b7656d1b-dfff-46be-83d2-c5ab9bab4d56",
+    "period": "2021-16-10",
+    "id": 1114366946,
+    "storeId": 1014713948
+  },
+  {
+    "ordersCount": 8,
+    "invoiced": 8,
+    "invoicedNotCaptured": 8,
+    "invoicedCaptured": 8,
+    "ordersInvoiced": 8,
+    "orderStatus": "6916f07f-fdb4-4edb-82af-bc484b084a96",
+    "period": "2021-16-10",
+    "id": 1520347439,
+    "storeId": 1256537502
+  },
+  {
+    "ordersCount": 9,
+    "invoiced": 9,
+    "invoicedNotCaptured": 9,
+    "invoicedCaptured": 9,
+    "ordersInvoiced": 9,
+    "orderStatus": "4bc9dabf-2b6e-4f31-804c-3ad141321860",
+    "period": "2021-16-10",
+    "id": 1604380207,
+    "storeId": 800988429
+  }
+]

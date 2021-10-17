@@ -1,0 +1,72 @@
+[
+  {
+    "price": 0,
+    "priceType": "Lorem 0",
+    "optionTypeId": 394865794,
+    "storeId": 154908324,
+    "optionTypePriceId": 1749892212
+  },
+  {
+    "price": 1,
+    "priceType": "Lorem 1",
+    "optionTypeId": 391802754,
+    "storeId": 602502799,
+    "optionTypePriceId": 1982030790
+  },
+  {
+    "price": 2,
+    "priceType": "Lorem 2",
+    "optionTypeId": 356591009,
+    "storeId": 391563945,
+    "optionTypePriceId": 1533360895
+  },
+  {
+    "price": 3,
+    "priceType": "Lorem 3",
+    "optionTypeId": 1858856592,
+    "storeId": 1790612993,
+    "optionTypePriceId": 857049078
+  },
+  {
+    "price": 4,
+    "priceType": "Lorem 4",
+    "optionTypeId": 167360872,
+    "storeId": 1649145471,
+    "optionTypePriceId": 1291071154
+  },
+  {
+    "price": 5,
+    "priceType": "Lorem 5",
+    "optionTypeId": 1751717021,
+    "storeId": 1698109110,
+    "optionTypePriceId": 1182461584
+  },
+  {
+    "price": 6,
+    "priceType": "Lorem 6",
+    "optionTypeId": 1497792495,
+    "storeId": 1545922770,
+    "optionTypePriceId": 1091024392
+  },
+  {
+    "price": 7,
+    "priceType": "Lorem 7",
+    "optionTypeId": 1534756572,
+    "storeId": 983116456,
+    "optionTypePriceId": 2058727603
+  },
+  {
+    "price": 8,
+    "priceType": "Lorem 8",
+    "optionTypeId": 1575985951,
+    "storeId": 623236660,
+    "optionTypePriceId": 859388094
+  },
+  {
+    "price": 9,
+    "priceType": "Lorem 9",
+    "optionTypeId": 1241657755,
+    "storeId": 23887230,
+    "optionTypePriceId": 1236360486
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "addedAt": "0",
+    "customerId": 1925561762,
+    "actionId": "1513025947",
+    "typeId": "d6f32ae1-6cac-4a49-8ab9-9f87515f3496",
+    "productId": 1574181911,
+    "visitorId": 1941751851
+  },
+  {
+    "addedAt": "1",
+    "customerId": 276291049,
+    "actionId": "461460078",
+    "typeId": "a4ce083f-f082-4bbb-84b6-e575c93e60c9",
+    "productId": 906638429,
+    "visitorId": 80968971
+  },
+  {
+    "addedAt": "2",
+    "customerId": 185645813,
+    "actionId": "1810934620",
+    "typeId": "c8d1613d-6a48-48d0-ac62-0d56e6688ee3",
+    "productId": 1316097578,
+    "visitorId": 917459870
+  },
+  {
+    "addedAt": "3",
+    "customerId": 1253991252,
+    "actionId": "956742766",
+    "typeId": "2d0ef8d7-fa6f-44fc-9d9a-239f6887c31a",
+    "productId": 229736641,
+    "visitorId": 1777013241
+  },
+  {
+    "addedAt": "4",
+    "customerId": 80506557,
+    "actionId": "1349258277",
+    "typeId": "6331f27c-8f3a-4984-b0cd-890988264cc6",
+    "productId": 222805617,
+    "visitorId": 1278913235
+  },
+  {
+    "addedAt": "5",
+    "customerId": 630644800,
+    "actionId": "1313082372",
+    "typeId": "b985dcd5-ede6-4696-b13f-7280c4903b71",
+    "productId": 1297737068,
+    "visitorId": 40275767
+  },
+  {
+    "addedAt": "6",
+    "customerId": 150023390,
+    "actionId": "518341146",
+    "typeId": "f89f3836-2b5f-434e-a6e2-3b1a03db427e",
+    "productId": 1554426754,
+    "visitorId": 708058140
+  },
+  {
+    "addedAt": "7",
+    "customerId": 1938151733,
+    "actionId": "1026965808",
+    "typeId": "0030c4e2-c10f-4dcf-a47b-fee214fd599f",
+    "productId": 533316614,
+    "visitorId": 670631843
+  },
+  {
+    "addedAt": "8",
+    "customerId": 1984757844,
+    "actionId": "69843339",
+    "typeId": "76258351-e191-46da-b677-9e45af40c35e",
+    "productId": 542933453,
+    "visitorId": 1055270892
+  },
+  {
+    "addedAt": "9",
+    "customerId": 1334523309,
+    "actionId": "1794018398",
+    "typeId": "b809483a-7dd9-4a70-a9c4-b6401dc43c7d",
+    "productId": 815224660,
+    "visitorId": 1900121492
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "ratingId": 0,
+    "entityPkValue": "0",
+    "percentApproved": 0,
+    "voteCount": 0,
+    "voteValueSum": 0,
+    "storeId": 0,
+    "percent": 0,
+    "primaryId": 1072221905
+  },
+  {
+    "ratingId": 1,
+    "entityPkValue": "1",
+    "percentApproved": 1,
+    "voteCount": 1,
+    "voteValueSum": 1,
+    "storeId": 1,
+    "percent": 1,
+    "primaryId": 1587233591
+  },
+  {
+    "ratingId": 2,
+    "entityPkValue": "2",
+    "percentApproved": 2,
+    "voteCount": 2,
+    "voteValueSum": 2,
+    "storeId": 2,
+    "percent": 2,
+    "primaryId": 1280951202
+  },
+  {
+    "ratingId": 3,
+    "entityPkValue": "3",
+    "percentApproved": 3,
+    "voteCount": 3,
+    "voteValueSum": 3,
+    "storeId": 3,
+    "percent": 3,
+    "primaryId": 103791959
+  },
+  {
+    "ratingId": 4,
+    "entityPkValue": "4",
+    "percentApproved": 4,
+    "voteCount": 4,
+    "voteValueSum": 4,
+    "storeId": 4,
+    "percent": 4,
+    "primaryId": 330622470
+  },
+  {
+    "ratingId": 5,
+    "entityPkValue": "5",
+    "percentApproved": 5,
+    "voteCount": 5,
+    "voteValueSum": 5,
+    "storeId": 5,
+    "percent": 5,
+    "primaryId": 1386824512
+  },
+  {
+    "ratingId": 6,
+    "entityPkValue": "6",
+    "percentApproved": 6,
+    "voteCount": 6,
+    "voteValueSum": 6,
+    "storeId": 6,
+    "percent": 6,
+    "primaryId": 779013453
+  },
+  {
+    "ratingId": 7,
+    "entityPkValue": "7",
+    "percentApproved": 7,
+    "voteCount": 7,
+    "voteValueSum": 7,
+    "storeId": 7,
+    "percent": 7,
+    "primaryId": 1632366217
+  },
+  {
+    "ratingId": 8,
+    "entityPkValue": "8",
+    "percentApproved": 8,
+    "voteCount": 8,
+    "voteValueSum": 8,
+    "storeId": 8,
+    "percent": 8,
+    "primaryId": 339010567
+  },
+  {
+    "ratingId": 9,
+    "entityPkValue": "9",
+    "percentApproved": 9,
+    "voteCount": 9,
+    "voteValueSum": 9,
+    "storeId": 9,
+    "percent": 9,
+    "primaryId": 549947227
+  }
+]

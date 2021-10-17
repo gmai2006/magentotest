@@ -1,0 +1,72 @@
+[
+  {
+    "metadata": "Lorem ipsum dolor si0",
+    "quantity": 0,
+    "stockId": 0,
+    "sku": "Lorem ipsum dolor si0",
+    "reservationId": 2044705306
+  },
+  {
+    "metadata": "Lorem ipsum dolor si1",
+    "quantity": 1,
+    "stockId": 1,
+    "sku": "Lorem ipsum dolor si1",
+    "reservationId": 1080787092
+  },
+  {
+    "metadata": "Lorem ipsum dolor si2",
+    "quantity": 2,
+    "stockId": 2,
+    "sku": "Lorem ipsum dolor si2",
+    "reservationId": 751430658
+  },
+  {
+    "metadata": "Lorem ipsum dolor si3",
+    "quantity": 3,
+    "stockId": 3,
+    "sku": "Lorem ipsum dolor si3",
+    "reservationId": 994138506
+  },
+  {
+    "metadata": "Lorem ipsum dolor si4",
+    "quantity": 4,
+    "stockId": 4,
+    "sku": "Lorem ipsum dolor si4",
+    "reservationId": 1603824028
+  },
+  {
+    "metadata": "Lorem ipsum dolor si5",
+    "quantity": 5,
+    "stockId": 5,
+    "sku": "Lorem ipsum dolor si5",
+    "reservationId": 1178853656
+  },
+  {
+    "metadata": "Lorem ipsum dolor si6",
+    "quantity": 6,
+    "stockId": 6,
+    "sku": "Lorem ipsum dolor si6",
+    "reservationId": 1248584029
+  },
+  {
+    "metadata": "Lorem ipsum dolor si7",
+    "quantity": 7,
+    "stockId": 7,
+    "sku": "Lorem ipsum dolor si7",
+    "reservationId": 700097378
+  },
+  {
+    "metadata": "Lorem ipsum dolor si8",
+    "quantity": 8,
+    "stockId": 8,
+    "sku": "Lorem ipsum dolor si8",
+    "reservationId": 402446865
+  },
+  {
+    "metadata": "Lorem ipsum dolor si9",
+    "quantity": 9,
+    "stockId": 9,
+    "sku": "Lorem ipsum dolor si9",
+    "reservationId": 13084449
+  }
+]

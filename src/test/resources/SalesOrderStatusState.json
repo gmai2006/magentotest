@@ -1,0 +1,62 @@
+[
+  {
+    "isDefault": 0,
+    "visibleOnFront": 0,
+    "state": "645c2ff4-72df-4b1e-b8a1-674e79626381",
+    "status": "21fe5268-d5ad-4555-b231-5925538f219c"
+  },
+  {
+    "isDefault": 1,
+    "visibleOnFront": 1,
+    "state": "deded16b-a7ce-4373-af08-842ae0781c2b",
+    "status": "11c42b29-e0e3-49e0-ba99-a538867e47aa"
+  },
+  {
+    "isDefault": 2,
+    "visibleOnFront": 2,
+    "state": "1bedfda5-0c58-4f0b-bfd7-a7e8d4f93773",
+    "status": "87d851d1-147f-43d1-8d9f-919d032e0abf"
+  },
+  {
+    "isDefault": 3,
+    "visibleOnFront": 3,
+    "state": "c28be3b3-8425-442d-80b2-c81f825f7a5f",
+    "status": "5be0227a-de95-4601-96a5-5bb41a1a5e98"
+  },
+  {
+    "isDefault": 4,
+    "visibleOnFront": 4,
+    "state": "059fcaf7-8ffd-4b1f-9c5b-407a63bd3aa6",
+    "status": "8b953225-502e-4473-a886-e87442bf53fd"
+  },
+  {
+    "isDefault": 5,
+    "visibleOnFront": 5,
+    "state": "5717af89-702a-4fcf-bbe8-48ce6ac124f2",
+    "status": "8e7d1e2c-a016-469c-b7b2-5a36caf700ff"
+  },
+  {
+    "isDefault": 6,
+    "visibleOnFront": 6,
+    "state": "5ed827a2-82d2-44d0-b325-d4e01cdb1841",
+    "status": "50640313-632e-4960-8ef1-4f07c5545dad"
+  },
+  {
+    "isDefault": 7,
+    "visibleOnFront": 7,
+    "state": "64556383-d879-4d4a-9373-28cb89704981",
+    "status": "ff53309a-ba21-467a-a0f3-648561e854e4"
+  },
+  {
+    "isDefault": 8,
+    "visibleOnFront": 8,
+    "state": "e192bb1c-998b-4b4a-91fd-b2a77150f9f1",
+    "status": "98b1efa9-13e9-44e9-afeb-bd22fdd5964c"
+  },
+  {
+    "isDefault": 9,
+    "visibleOnFront": 9,
+    "state": "90bcbe2c-3038-4f9e-ad69-364335e28c47",
+    "status": "8cb85812-5ec3-4983-a933-bbe986e581fc"
+  }
+]

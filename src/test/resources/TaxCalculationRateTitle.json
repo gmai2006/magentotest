@@ -1,0 +1,62 @@
+[
+  {
+    "storeId": 0,
+    "taxCalculationRateId": 0,
+    "value": "Lorem ipsum dolor si0",
+    "taxCalculationRateTitleId": 925288724
+  },
+  {
+    "storeId": 1,
+    "taxCalculationRateId": 1,
+    "value": "Lorem ipsum dolor si1",
+    "taxCalculationRateTitleId": 1082612718
+  },
+  {
+    "storeId": 2,
+    "taxCalculationRateId": 2,
+    "value": "Lorem ipsum dolor si2",
+    "taxCalculationRateTitleId": 1166531902
+  },
+  {
+    "storeId": 3,
+    "taxCalculationRateId": 3,
+    "value": "Lorem ipsum dolor si3",
+    "taxCalculationRateTitleId": 62653684
+  },
+  {
+    "storeId": 4,
+    "taxCalculationRateId": 4,
+    "value": "Lorem ipsum dolor si4",
+    "taxCalculationRateTitleId": 1198020295
+  },
+  {
+    "storeId": 5,
+    "taxCalculationRateId": 5,
+    "value": "Lorem ipsum dolor si5",
+    "taxCalculationRateTitleId": 2082373349
+  },
+  {
+    "storeId": 6,
+    "taxCalculationRateId": 6,
+    "value": "Lorem ipsum dolor si6",
+    "taxCalculationRateTitleId": 1095080104
+  },
+  {
+    "storeId": 7,
+    "taxCalculationRateId": 7,
+    "value": "Lorem ipsum dolor si7",
+    "taxCalculationRateTitleId": 44813099
+  },
+  {
+    "storeId": 8,
+    "taxCalculationRateId": 8,
+    "value": "Lorem ipsum dolor si8",
+    "taxCalculationRateTitleId": 1660263436
+  },
+  {
+    "storeId": 9,
+    "taxCalculationRateId": 9,
+    "value": "Lorem ipsum dolor si9",
+    "taxCalculationRateTitleId": 1966211081
+  }
+]

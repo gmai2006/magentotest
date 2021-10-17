@@ -1,0 +1,72 @@
+[
+  {
+    "experimentScript": "0",
+    "codeId": 1956593482,
+    "entityId": 20049088,
+    "storeId": 2047286881,
+    "entityType": "4f788c77-777c-40b5-bef9-91dad5947eaa"
+  },
+  {
+    "experimentScript": "1",
+    "codeId": 549192948,
+    "entityId": 1454990200,
+    "storeId": 559337436,
+    "entityType": "445c47e8-7852-4659-83f4-ab4c9b51d6d7"
+  },
+  {
+    "experimentScript": "2",
+    "codeId": 186948864,
+    "entityId": 1443002542,
+    "storeId": 1987479119,
+    "entityType": "d6643603-763b-400f-990d-06c023d68871"
+  },
+  {
+    "experimentScript": "3",
+    "codeId": 1734339380,
+    "entityId": 1097975539,
+    "storeId": 1412180242,
+    "entityType": "b12375ee-2b0b-49fc-8272-7fe48e4ed348"
+  },
+  {
+    "experimentScript": "4",
+    "codeId": 119773773,
+    "entityId": 1664467539,
+    "storeId": 186629454,
+    "entityType": "76df95fd-c6c1-43d0-b4af-aa1d35fc0288"
+  },
+  {
+    "experimentScript": "5",
+    "codeId": 1333098897,
+    "entityId": 840811549,
+    "storeId": 1609322953,
+    "entityType": "5be5892e-083d-413f-a041-17c94eaea191"
+  },
+  {
+    "experimentScript": "6",
+    "codeId": 965064833,
+    "entityId": 1277046943,
+    "storeId": 1003224622,
+    "entityType": "74b66347-b20d-462f-8b52-1f90ce8bbff0"
+  },
+  {
+    "experimentScript": "7",
+    "codeId": 858478609,
+    "entityId": 1992780290,
+    "storeId": 444348450,
+    "entityType": "9eb0869c-d717-4c15-ac17-1366cf7a8ac8"
+  },
+  {
+    "experimentScript": "8",
+    "codeId": 1698556615,
+    "entityId": 288800633,
+    "storeId": 2085126610,
+    "entityType": "8f1f128f-1767-4bc0-9258-75a7e911be8e"
+  },
+  {
+    "experimentScript": "9",
+    "codeId": 485218540,
+    "entityId": 495658293,
+    "storeId": 1429367317,
+    "entityType": "34d33794-64f5-412d-a45a-5b6efead0447"
+  }
+]

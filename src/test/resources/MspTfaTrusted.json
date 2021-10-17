@@ -1,0 +1,82 @@
+[
+  {
+    "dateTime": "2070-10-16",
+    "lastIp": "0",
+    "userId": 0,
+    "deviceName": "",
+    "token": "0",
+    "mspTfaTrustedId": 238272724
+  },
+  {
+    "dateTime": "1967-10-16",
+    "lastIp": "1",
+    "userId": 1,
+    "deviceName": "",
+    "token": "1",
+    "mspTfaTrustedId": 677086771
+  },
+  {
+    "dateTime": "2042-10-16",
+    "lastIp": "2",
+    "userId": 2,
+    "deviceName": "",
+    "token": "2",
+    "mspTfaTrustedId": 1412993263
+  },
+  {
+    "dateTime": "1915-10-16",
+    "lastIp": "3",
+    "userId": 3,
+    "deviceName": "",
+    "token": "3",
+    "mspTfaTrustedId": 582477569
+  },
+  {
+    "dateTime": "2092-10-16",
+    "lastIp": "4",
+    "userId": 4,
+    "deviceName": "",
+    "token": "4",
+    "mspTfaTrustedId": 36044063
+  },
+  {
+    "dateTime": "1935-10-16",
+    "lastIp": "5",
+    "userId": 5,
+    "deviceName": "",
+    "token": "5",
+    "mspTfaTrustedId": 1384501679
+  },
+  {
+    "dateTime": "2009-10-16",
+    "lastIp": "6",
+    "userId": 6,
+    "deviceName": "",
+    "token": "6",
+    "mspTfaTrustedId": 177393537
+  },
+  {
+    "dateTime": "2033-10-16",
+    "lastIp": "7",
+    "userId": 7,
+    "deviceName": "",
+    "token": "7",
+    "mspTfaTrustedId": 1693464971
+  },
+  {
+    "dateTime": "1959-10-16",
+    "lastIp": "8",
+    "userId": 8,
+    "deviceName": "",
+    "token": "8",
+    "mspTfaTrustedId": 1544847240
+  },
+  {
+    "dateTime": "2037-10-16",
+    "lastIp": "9",
+    "userId": 9,
+    "deviceName": "",
+    "token": "9",
+    "mspTfaTrustedId": 1547637785
+  }
+]

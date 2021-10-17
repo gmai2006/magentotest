@@ -1,0 +1,112 @@
+[
+  {
+    "isRequired": 0,
+    "groupType": 0,
+    "price": 0,
+    "tierPrice": 0,
+    "customerGroupId": 1826431094,
+    "websiteId": 996663221,
+    "optionId": 498225004,
+    "entityId": 1674375449,
+    "selectionId": 836923558
+  },
+  {
+    "isRequired": 1,
+    "groupType": 1,
+    "price": 1,
+    "tierPrice": 1,
+    "customerGroupId": 1845584200,
+    "websiteId": 5748756,
+    "optionId": 227860318,
+    "entityId": 1214851200,
+    "selectionId": 1921984658
+  },
+  {
+    "isRequired": 2,
+    "groupType": 2,
+    "price": 2,
+    "tierPrice": 2,
+    "customerGroupId": 403035203,
+    "websiteId": 1383302469,
+    "optionId": 2004802590,
+    "entityId": 806036943,
+    "selectionId": 22807011
+  },
+  {
+    "isRequired": 3,
+    "groupType": 3,
+    "price": 3,
+    "tierPrice": 3,
+    "customerGroupId": 2632082,
+    "websiteId": 1483164961,
+    "optionId": 1747774618,
+    "entityId": 209430378,
+    "selectionId": 1905586210
+  },
+  {
+    "isRequired": 4,
+    "groupType": 4,
+    "price": 4,
+    "tierPrice": 4,
+    "customerGroupId": 900433459,
+    "websiteId": 2041683208,
+    "optionId": 1927887351,
+    "entityId": 63790969,
+    "selectionId": 716231307
+  },
+  {
+    "isRequired": 5,
+    "groupType": 5,
+    "price": 5,
+    "tierPrice": 5,
+    "customerGroupId": 1380174368,
+    "websiteId": 649720452,
+    "optionId": 535617305,
+    "entityId": 426556505,
+    "selectionId": 659196251
+  },
+  {
+    "isRequired": 6,
+    "groupType": 6,
+    "price": 6,
+    "tierPrice": 6,
+    "customerGroupId": 660900340,
+    "websiteId": 1645648386,
+    "optionId": 331484812,
+    "entityId": 1560559813,
+    "selectionId": 1434425844
+  },
+  {
+    "isRequired": 7,
+    "groupType": 7,
+    "price": 7,
+    "tierPrice": 7,
+    "customerGroupId": 7438306,
+    "websiteId": 1717297487,
+    "optionId": 340951863,
+    "entityId": 384670590,
+    "selectionId": 1698152542
+  },
+  {
+    "isRequired": 8,
+    "groupType": 8,
+    "price": 8,
+    "tierPrice": 8,
+    "customerGroupId": 1088544431,
+    "websiteId": 48196125,
+    "optionId": 1432890269,
+    "entityId": 2045342252,
+    "selectionId": 498623874
+  },
+  {
+    "isRequired": 9,
+    "groupType": 9,
+    "price": 9,
+    "tierPrice": 9,
+    "customerGroupId": 1091831476,
+    "websiteId": 73463895,
+    "optionId": 1030909921,
+    "entityId": 1214057002,
+    "selectionId": 1214313585
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "rate": 0.0,
+    "websiteDate": "1911-10-16",
+    "defaultStoreId": 0,
+    "websiteId": 340116017
+  },
+  {
+    "rate": 1.0,
+    "websiteDate": "1932-10-16",
+    "defaultStoreId": 1,
+    "websiteId": 1376558895
+  },
+  {
+    "rate": 2.0,
+    "websiteDate": "1939-10-16",
+    "defaultStoreId": 2,
+    "websiteId": 1404434245
+  },
+  {
+    "rate": 3.0,
+    "websiteDate": "2095-10-16",
+    "defaultStoreId": 3,
+    "websiteId": 1160288863
+  },
+  {
+    "rate": 4.0,
+    "websiteDate": "2079-10-16",
+    "defaultStoreId": 4,
+    "websiteId": 829911169
+  },
+  {
+    "rate": 5.0,
+    "websiteDate": "1943-10-16",
+    "defaultStoreId": 5,
+    "websiteId": 936438866
+  },
+  {
+    "rate": 6.0,
+    "websiteDate": "1963-10-16",
+    "defaultStoreId": 6,
+    "websiteId": 301631176
+  },
+  {
+    "rate": 7.0,
+    "websiteDate": "1909-10-16",
+    "defaultStoreId": 7,
+    "websiteId": 554949508
+  },
+  {
+    "rate": 8.0,
+    "websiteDate": "2041-10-16",
+    "defaultStoreId": 8,
+    "websiteId": 1950393241
+  },
+  {
+    "rate": 9.0,
+    "websiteDate": "2034-10-16",
+    "defaultStoreId": 9,
+    "websiteId": 1651201340
+  }
+]

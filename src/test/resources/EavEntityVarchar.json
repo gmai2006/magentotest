@@ -1,0 +1,82 @@
+[
+  {
+    "entityTypeId": 0,
+    "value": "Lorem ipsum dolor si0",
+    "attributeId": 251275152,
+    "valueId": 2138334946,
+    "entityId": 737705163,
+    "storeId": 806049617
+  },
+  {
+    "entityTypeId": 1,
+    "value": "Lorem ipsum dolor si1",
+    "attributeId": 927729646,
+    "valueId": 920718023,
+    "entityId": 305484942,
+    "storeId": 411917766
+  },
+  {
+    "entityTypeId": 2,
+    "value": "Lorem ipsum dolor si2",
+    "attributeId": 48352897,
+    "valueId": 2099165238,
+    "entityId": 1036044494,
+    "storeId": 1894355117
+  },
+  {
+    "entityTypeId": 3,
+    "value": "Lorem ipsum dolor si3",
+    "attributeId": 1757945827,
+    "valueId": 1849126488,
+    "entityId": 190307889,
+    "storeId": 444807820
+  },
+  {
+    "entityTypeId": 4,
+    "value": "Lorem ipsum dolor si4",
+    "attributeId": 1922880411,
+    "valueId": 427979942,
+    "entityId": 1685126715,
+    "storeId": 596828505
+  },
+  {
+    "entityTypeId": 5,
+    "value": "Lorem ipsum dolor si5",
+    "attributeId": 1081356448,
+    "valueId": 1818500027,
+    "entityId": 948746318,
+    "storeId": 71979453
+  },
+  {
+    "entityTypeId": 6,
+    "value": "Lorem ipsum dolor si6",
+    "attributeId": 1015189208,
+    "valueId": 1091770948,
+    "entityId": 601342127,
+    "storeId": 24863287
+  },
+  {
+    "entityTypeId": 7,
+    "value": "Lorem ipsum dolor si7",
+    "attributeId": 1933858348,
+    "valueId": 248088340,
+    "entityId": 424252979,
+    "storeId": 1944880736
+  },
+  {
+    "entityTypeId": 8,
+    "value": "Lorem ipsum dolor si8",
+    "attributeId": 877172036,
+    "valueId": 585769556,
+    "entityId": 224368773,
+    "storeId": 1693717577
+  },
+  {
+    "entityTypeId": 9,
+    "value": "Lorem ipsum dolor si9",
+    "attributeId": 1267468772,
+    "valueId": 356237272,
+    "entityId": 1955002647,
+    "storeId": 241122816
+  }
+]

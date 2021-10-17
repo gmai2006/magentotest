@@ -1,0 +1,102 @@
+[
+  {
+    "offlineRefunded": 0,
+    "ordersCount": 0,
+    "onlineRefunded": 0,
+    "refunded": 0,
+    "orderStatus": "6e7ebb2e-fa38-40cd-ade0-577c5bab08a5",
+    "period": "2021-16-10",
+    "id": 975024725,
+    "storeId": 1471694014
+  },
+  {
+    "offlineRefunded": 1,
+    "ordersCount": 1,
+    "onlineRefunded": 1,
+    "refunded": 1,
+    "orderStatus": "3d577845-fce0-4809-8004-bc048e9b1540",
+    "period": "2021-16-10",
+    "id": 1506453730,
+    "storeId": 1202199351
+  },
+  {
+    "offlineRefunded": 2,
+    "ordersCount": 2,
+    "onlineRefunded": 2,
+    "refunded": 2,
+    "orderStatus": "cc6a4267-99cf-4402-898a-4bcc65519c7d",
+    "period": "2021-16-10",
+    "id": 404958327,
+    "storeId": 613199454
+  },
+  {
+    "offlineRefunded": 3,
+    "ordersCount": 3,
+    "onlineRefunded": 3,
+    "refunded": 3,
+    "orderStatus": "1652d8f0-3e88-41ba-8a2c-46b0c24e3dd9",
+    "period": "2021-16-10",
+    "id": 1947926020,
+    "storeId": 2106072588
+  },
+  {
+    "offlineRefunded": 4,
+    "ordersCount": 4,
+    "onlineRefunded": 4,
+    "refunded": 4,
+    "orderStatus": "380baf07-4da9-4d3c-b93a-a9a8bbf4d1b7",
+    "period": "2021-16-10",
+    "id": 904143892,
+    "storeId": 1383525850
+  },
+  {
+    "offlineRefunded": 5,
+    "ordersCount": 5,
+    "onlineRefunded": 5,
+    "refunded": 5,
+    "orderStatus": "f53d1068-b8f9-45d6-971b-507abee8c967",
+    "period": "2021-16-10",
+    "id": 2117826273,
+    "storeId": 904765260
+  },
+  {
+    "offlineRefunded": 6,
+    "ordersCount": 6,
+    "onlineRefunded": 6,
+    "refunded": 6,
+    "orderStatus": "144a11a6-13d0-4c23-ac7f-8e3bd3dfb6cb",
+    "period": "2021-16-10",
+    "id": 1248425750,
+    "storeId": 692114446
+  },
+  {
+    "offlineRefunded": 7,
+    "ordersCount": 7,
+    "onlineRefunded": 7,
+    "refunded": 7,
+    "orderStatus": "71d7dfe4-8b94-4deb-97c2-496b5b673812",
+    "period": "2021-16-10",
+    "id": 266058790,
+    "storeId": 1690807298
+  },
+  {
+    "offlineRefunded": 8,
+    "ordersCount": 8,
+    "onlineRefunded": 8,
+    "refunded": 8,
+    "orderStatus": "52e78b59-6cea-4b56-b722-bbb43a52c96e",
+    "period": "2021-16-10",
+    "id": 829479037,
+    "storeId": 994502053
+  },
+  {
+    "offlineRefunded": 9,
+    "ordersCount": 9,
+    "onlineRefunded": 9,
+    "refunded": 9,
+    "orderStatus": "4ca7b08b-6cf9-4b8d-ab45-c2bb4ca03022",
+    "period": "2021-16-10",
+    "id": 1363205856,
+    "storeId": 1796936939
+  }
+]

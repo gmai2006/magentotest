@@ -1,0 +1,112 @@
+[
+  {
+    "taxPostcode": "Lorem ipsum dolor si0",
+    "taxCountryId": "Ma",
+    "code": "Lorem ipsum dolor si0",
+    "zipTo": 0,
+    "rate": 0,
+    "taxRegionId": 0,
+    "zipIsRange": 0,
+    "zipFrom": 0,
+    "taxCalculationRateId": 957906657
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si1",
+    "taxCountryId": "Hu",
+    "code": "Lorem ipsum dolor si1",
+    "zipTo": 1,
+    "rate": 1,
+    "taxRegionId": 1,
+    "zipIsRange": 1,
+    "zipFrom": 1,
+    "taxCalculationRateId": 626860993
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si2",
+    "taxCountryId": "Ma",
+    "code": "Lorem ipsum dolor si2",
+    "zipTo": 2,
+    "rate": 2,
+    "taxRegionId": 2,
+    "zipIsRange": 2,
+    "zipFrom": 2,
+    "taxCalculationRateId": 859418351
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si3",
+    "taxCountryId": "Ja",
+    "code": "Lorem ipsum dolor si3",
+    "zipTo": 3,
+    "rate": 3,
+    "taxRegionId": 3,
+    "zipIsRange": 3,
+    "zipFrom": 3,
+    "taxCalculationRateId": 1933821577
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si4",
+    "taxCountryId": "Tu",
+    "code": "Lorem ipsum dolor si4",
+    "zipTo": 4,
+    "rate": 4,
+    "taxRegionId": 4,
+    "zipIsRange": 4,
+    "zipFrom": 4,
+    "taxCalculationRateId": 55341562
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si5",
+    "taxCountryId": "Si",
+    "code": "Lorem ipsum dolor si5",
+    "zipTo": 5,
+    "rate": 5,
+    "taxRegionId": 5,
+    "zipIsRange": 5,
+    "zipFrom": 5,
+    "taxCalculationRateId": 443570199
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si6",
+    "taxCountryId": "Tu",
+    "code": "Lorem ipsum dolor si6",
+    "zipTo": 6,
+    "rate": 6,
+    "taxRegionId": 6,
+    "zipIsRange": 6,
+    "zipFrom": 6,
+    "taxCalculationRateId": 1245601635
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si7",
+    "taxCountryId": "Vi",
+    "code": "Lorem ipsum dolor si7",
+    "zipTo": 7,
+    "rate": 7,
+    "taxRegionId": 7,
+    "zipIsRange": 7,
+    "zipFrom": 7,
+    "taxCalculationRateId": 1026861837
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si8",
+    "taxCountryId": "Si",
+    "code": "Lorem ipsum dolor si8",
+    "zipTo": 8,
+    "rate": 8,
+    "taxRegionId": 8,
+    "zipIsRange": 8,
+    "zipFrom": 8,
+    "taxCalculationRateId": 921398385
+  },
+  {
+    "taxPostcode": "Lorem ipsum dolor si9",
+    "taxCountryId": "Ge",
+    "code": "Lorem ipsum dolor si9",
+    "zipTo": 9,
+    "rate": 9,
+    "taxRegionId": 9,
+    "zipIsRange": 9,
+    "zipFrom": 9,
+    "taxCalculationRateId": 547891123
+  }
+]

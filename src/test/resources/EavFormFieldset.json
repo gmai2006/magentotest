@@ -1,0 +1,62 @@
+[
+  {
+    "sortOrder": 0,
+    "typeId": 1242597995,
+    "code": "14d1282f-e5f8-4e23-9119-628187cffc74",
+    "fieldsetId": 303967885
+  },
+  {
+    "sortOrder": 1,
+    "typeId": 550010351,
+    "code": "13c044c0-3b12-460e-91c8-ee38ec44f7d2",
+    "fieldsetId": 1536425726
+  },
+  {
+    "sortOrder": 2,
+    "typeId": 1460063051,
+    "code": "9a165448-b03a-43ab-aa07-30df63a68774",
+    "fieldsetId": 1826572395
+  },
+  {
+    "sortOrder": 3,
+    "typeId": 920816639,
+    "code": "0dca1ab3-df0d-4e84-9c58-a25a3b72c86e",
+    "fieldsetId": 726863403
+  },
+  {
+    "sortOrder": 4,
+    "typeId": 1283184603,
+    "code": "10cdf6ae-2336-4480-9063-f515700451fd",
+    "fieldsetId": 896976074
+  },
+  {
+    "sortOrder": 5,
+    "typeId": 198794402,
+    "code": "821ca26d-cd4d-443c-9d38-e4a395185722",
+    "fieldsetId": 1009300981
+  },
+  {
+    "sortOrder": 6,
+    "typeId": 1709743433,
+    "code": "f24ec414-53a7-4e26-a35a-43577e684ed6",
+    "fieldsetId": 1018464726
+  },
+  {
+    "sortOrder": 7,
+    "typeId": 238437541,
+    "code": "f306ddf2-6572-492c-b021-4e6c2c29f680",
+    "fieldsetId": 396189059
+  },
+  {
+    "sortOrder": 8,
+    "typeId": 1750647141,
+    "code": "b63f4ed2-5c43-448d-a061-b453989734dd",
+    "fieldsetId": 1597976714
+  },
+  {
+    "sortOrder": 9,
+    "typeId": 893922794,
+    "code": "5e8a4cbf-1f02-41b4-9680-a1cc8a77ee03",
+    "fieldsetId": 2103071698
+  }
+]

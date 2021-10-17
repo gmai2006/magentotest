@@ -1,0 +1,92 @@
+[
+  {
+    "createdAt": "2074-10-17T00:08:09.000-0700",
+    "reviewImported": 0,
+    "customerId": 0,
+    "storeId": 0,
+    "reviewId": 0,
+    "updatedAt": "1971-10-17T00:08:09.000-0700",
+    "id": 1331430233
+  },
+  {
+    "createdAt": "1936-10-16T23:08:14.000-0800",
+    "reviewImported": 1,
+    "customerId": 1,
+    "storeId": 1,
+    "reviewId": 1,
+    "updatedAt": "1921-10-16T23:08:14.000-0800",
+    "id": 714720647
+  },
+  {
+    "createdAt": "1975-10-17T00:08:14.000-0700",
+    "reviewImported": 2,
+    "customerId": 2,
+    "storeId": 2,
+    "reviewId": 2,
+    "updatedAt": "2093-10-17T00:08:14.000-0700",
+    "id": 1468293869
+  },
+  {
+    "createdAt": "1971-10-17T00:08:14.000-0700",
+    "reviewImported": 3,
+    "customerId": 3,
+    "storeId": 3,
+    "reviewId": 3,
+    "updatedAt": "2074-10-17T00:08:14.000-0700",
+    "id": 1085226305
+  },
+  {
+    "createdAt": "1988-10-17T00:08:14.000-0700",
+    "reviewImported": 4,
+    "customerId": 4,
+    "storeId": 4,
+    "reviewId": 4,
+    "updatedAt": "1985-10-17T00:08:14.000-0700",
+    "id": 666260581
+  },
+  {
+    "createdAt": "2079-10-17T00:08:14.000-0700",
+    "reviewImported": 5,
+    "customerId": 5,
+    "storeId": 5,
+    "reviewId": 5,
+    "updatedAt": "2022-10-17T00:08:14.000-0700",
+    "id": 889483949
+  },
+  {
+    "createdAt": "1975-10-17T00:08:14.000-0700",
+    "reviewImported": 6,
+    "customerId": 6,
+    "storeId": 6,
+    "reviewId": 6,
+    "updatedAt": "1987-10-17T00:08:14.000-0700",
+    "id": 968598933
+  },
+  {
+    "createdAt": "2034-10-17T00:08:14.000-0700",
+    "reviewImported": 7,
+    "customerId": 7,
+    "storeId": 7,
+    "reviewId": 7,
+    "updatedAt": "1939-10-16T23:08:14.000-0800",
+    "id": 769672759
+  },
+  {
+    "createdAt": "1904-10-16T23:08:14.000-0800",
+    "reviewImported": 8,
+    "customerId": 8,
+    "storeId": 8,
+    "reviewId": 8,
+    "updatedAt": "1919-10-16T23:08:14.000-0800",
+    "id": 1978116966
+  },
+  {
+    "createdAt": "1934-10-16T23:08:14.000-0800",
+    "reviewImported": 9,
+    "customerId": 9,
+    "storeId": 9,
+    "reviewId": 9,
+    "updatedAt": "1995-10-17T00:08:14.000-0700",
+    "id": 281015060
+  }
+]

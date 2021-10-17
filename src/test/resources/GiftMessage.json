@@ -1,0 +1,72 @@
+[
+  {
+    "sender": "Lorem ipsum dolor si0",
+    "customerId": 0,
+    "recipient": "Lorem ipsum dolor si0",
+    "message": "54",
+    "giftMessageId": 1405825097
+  },
+  {
+    "sender": "Lorem ipsum dolor si1",
+    "customerId": 1,
+    "recipient": "Lorem ipsum dolor si1",
+    "message": "97",
+    "giftMessageId": 5092474
+  },
+  {
+    "sender": "Lorem ipsum dolor si2",
+    "customerId": 2,
+    "recipient": "Lorem ipsum dolor si2",
+    "message": "43",
+    "giftMessageId": 1962400532
+  },
+  {
+    "sender": "Lorem ipsum dolor si3",
+    "customerId": 3,
+    "recipient": "Lorem ipsum dolor si3",
+    "message": "81",
+    "giftMessageId": 2111489379
+  },
+  {
+    "sender": "Lorem ipsum dolor si4",
+    "customerId": 4,
+    "recipient": "Lorem ipsum dolor si4",
+    "message": "81",
+    "giftMessageId": 648111674
+  },
+  {
+    "sender": "Lorem ipsum dolor si5",
+    "customerId": 5,
+    "recipient": "Lorem ipsum dolor si5",
+    "message": "3",
+    "giftMessageId": 575468905
+  },
+  {
+    "sender": "Lorem ipsum dolor si6",
+    "customerId": 6,
+    "recipient": "Lorem ipsum dolor si6",
+    "message": "65",
+    "giftMessageId": 2067910410
+  },
+  {
+    "sender": "Lorem ipsum dolor si7",
+    "customerId": 7,
+    "recipient": "Lorem ipsum dolor si7",
+    "message": "33",
+    "giftMessageId": 635869702
+  },
+  {
+    "sender": "Lorem ipsum dolor si8",
+    "customerId": 8,
+    "recipient": "Lorem ipsum dolor si8",
+    "message": "73",
+    "giftMessageId": 943762457
+  },
+  {
+    "sender": "Lorem ipsum dolor si9",
+    "customerId": 9,
+    "recipient": "Lorem ipsum dolor si9",
+    "message": "93",
+    "giftMessageId": 821273552
+  }
+]

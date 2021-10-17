@@ -1,0 +1,52 @@
+[
+  {
+    "stockId": 0,
+    "type": "9df51fa7-0d79-4e94-92dd-442b427df1b7",
+    "code": "b76daeee-7bc6-4bbf-b193-4c6ba4a8d953"
+  },
+  {
+    "stockId": 1,
+    "type": "74139f34-9b07-4b0c-8558-96786ca53a82",
+    "code": "3734f820-e34b-45eb-ad72-78155408e943"
+  },
+  {
+    "stockId": 2,
+    "type": "e86d07fb-7cb8-43cd-9e87-d4dd6fa8f076",
+    "code": "1232a170-2c27-4ea6-9e0e-464ce164d389"
+  },
+  {
+    "stockId": 3,
+    "type": "0f575d98-a854-43a3-bb66-1248158b3c10",
+    "code": "19eb5d0f-4e3c-4760-9195-94b064d8333e"
+  },
+  {
+    "stockId": 4,
+    "type": "5cf2cbc1-2da8-44eb-9dc1-4ca5bc0d0408",
+    "code": "43a9b4a5-b4f6-46a4-a6e5-184c55a043c8"
+  },
+  {
+    "stockId": 5,
+    "type": "35d37c5e-2f20-494c-a085-216b64b2d2a9",
+    "code": "4a5fe167-cc5b-4088-ab96-589e99bfbf73"
+  },
+  {
+    "stockId": 6,
+    "type": "c16792e2-784b-4900-a18e-678f8c6053f4",
+    "code": "7866eba1-ce7d-421c-903c-0412e7fb0b16"
+  },
+  {
+    "stockId": 7,
+    "type": "6d79ccc4-fa76-4dfa-982b-d17d1e5420a6",
+    "code": "7452f9b6-67eb-47f2-b976-7635f33e0606"
+  },
+  {
+    "stockId": 8,
+    "type": "09ae4b8e-4701-4bf5-910a-a249beba8ab0",
+    "code": "1034f3a5-c253-41a9-8028-de56da8dda15"
+  },
+  {
+    "stockId": 9,
+    "type": "7969bd74-473f-4ede-b00c-28e91ce29606",
+    "code": "074da4f5-c473-4360-8ee6-fab1a0be70a3"
+  }
+]

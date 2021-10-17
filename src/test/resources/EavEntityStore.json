@@ -1,0 +1,72 @@
+[
+  {
+    "incrementLastId": "Lorem ipsum dolor si0",
+    "entityTypeId": 0,
+    "storeId": 0,
+    "incrementPrefix": "Lorem ipsum dolor s0",
+    "entityStoreId": 1203313619
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si1",
+    "entityTypeId": 1,
+    "storeId": 1,
+    "incrementPrefix": "Lorem ipsum dolor s1",
+    "entityStoreId": 1875398425
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si2",
+    "entityTypeId": 2,
+    "storeId": 2,
+    "incrementPrefix": "Lorem ipsum dolor s2",
+    "entityStoreId": 385881437
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si3",
+    "entityTypeId": 3,
+    "storeId": 3,
+    "incrementPrefix": "Lorem ipsum dolor s3",
+    "entityStoreId": 189485651
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si4",
+    "entityTypeId": 4,
+    "storeId": 4,
+    "incrementPrefix": "Lorem ipsum dolor s4",
+    "entityStoreId": 1090245362
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si5",
+    "entityTypeId": 5,
+    "storeId": 5,
+    "incrementPrefix": "Lorem ipsum dolor s5",
+    "entityStoreId": 1745380820
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si6",
+    "entityTypeId": 6,
+    "storeId": 6,
+    "incrementPrefix": "Lorem ipsum dolor s6",
+    "entityStoreId": 553935254
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si7",
+    "entityTypeId": 7,
+    "storeId": 7,
+    "incrementPrefix": "Lorem ipsum dolor s7",
+    "entityStoreId": 1715599086
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si8",
+    "entityTypeId": 8,
+    "storeId": 8,
+    "incrementPrefix": "Lorem ipsum dolor s8",
+    "entityStoreId": 1198024394
+  },
+  {
+    "incrementLastId": "Lorem ipsum dolor si9",
+    "entityTypeId": 9,
+    "storeId": 9,
+    "incrementPrefix": "Lorem ipsum dolor s9",
+    "entityStoreId": 2011815766
+  }
+]

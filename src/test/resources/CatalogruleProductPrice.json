@@ -1,0 +1,102 @@
+[
+  {
+    "earliestEndDate": "1984-10-16",
+    "rulePrice": 0,
+    "latestStartDate": "1925-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 2144326700,
+    "ruleProductPriceId": 784918162,
+    "websiteId": 810638424,
+    "productId": 1610794214
+  },
+  {
+    "earliestEndDate": "1949-10-16",
+    "rulePrice": 1,
+    "latestStartDate": "1994-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 894567205,
+    "ruleProductPriceId": 2094853731,
+    "websiteId": 1418000218,
+    "productId": 1345577885
+  },
+  {
+    "earliestEndDate": "2026-10-16",
+    "rulePrice": 2,
+    "latestStartDate": "2044-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 130257965,
+    "ruleProductPriceId": 1049513702,
+    "websiteId": 2107803244,
+    "productId": 623999955
+  },
+  {
+    "earliestEndDate": "2097-10-16",
+    "rulePrice": 3,
+    "latestStartDate": "1983-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 1424315556,
+    "ruleProductPriceId": 1617466985,
+    "websiteId": 370974615,
+    "productId": 533342913
+  },
+  {
+    "earliestEndDate": "1947-10-16",
+    "rulePrice": 4,
+    "latestStartDate": "1989-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 351406550,
+    "ruleProductPriceId": 1709178610,
+    "websiteId": 875534635,
+    "productId": 204987074
+  },
+  {
+    "earliestEndDate": "2076-10-16",
+    "rulePrice": 5,
+    "latestStartDate": "1916-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 950901865,
+    "ruleProductPriceId": 804067312,
+    "websiteId": 1355278665,
+    "productId": 1936901808
+  },
+  {
+    "earliestEndDate": "1914-10-16",
+    "rulePrice": 6,
+    "latestStartDate": "1927-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 1260698663,
+    "ruleProductPriceId": 1559601069,
+    "websiteId": 101919619,
+    "productId": 1976204147
+  },
+  {
+    "earliestEndDate": "2008-10-16",
+    "rulePrice": 7,
+    "latestStartDate": "1902-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 545504730,
+    "ruleProductPriceId": 1837908447,
+    "websiteId": 346924560,
+    "productId": 5842987
+  },
+  {
+    "earliestEndDate": "2075-10-16",
+    "rulePrice": 8,
+    "latestStartDate": "2093-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 1602893136,
+    "ruleProductPriceId": 2080140638,
+    "websiteId": 2081466536,
+    "productId": 1906542326
+  },
+  {
+    "earliestEndDate": "1992-10-16",
+    "rulePrice": 9,
+    "latestStartDate": "1989-10-16",
+    "ruleDate": "2021-16-10",
+    "customerGroupId": 1857482110,
+    "ruleProductPriceId": 1232638705,
+    "websiteId": 848412418,
+    "productId": 1213352030
+  }
+]

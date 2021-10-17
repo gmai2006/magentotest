@@ -1,0 +1,82 @@
+[
+  {
+    "price": 0,
+    "tierPrice": 0,
+    "customerGroupId": 1907519219,
+    "websiteId": 985784285,
+    "childId": 2139705194,
+    "parentId": 1389344319
+  },
+  {
+    "price": 1,
+    "tierPrice": 1,
+    "customerGroupId": 258569051,
+    "websiteId": 1714472123,
+    "childId": 1371402240,
+    "parentId": 1926019080
+  },
+  {
+    "price": 2,
+    "tierPrice": 2,
+    "customerGroupId": 113921354,
+    "websiteId": 1013775091,
+    "childId": 703028548,
+    "parentId": 1885751097
+  },
+  {
+    "price": 3,
+    "tierPrice": 3,
+    "customerGroupId": 1894372568,
+    "websiteId": 571825177,
+    "childId": 1568018114,
+    "parentId": 231571771
+  },
+  {
+    "price": 4,
+    "tierPrice": 4,
+    "customerGroupId": 1244883595,
+    "websiteId": 1155546888,
+    "childId": 678002780,
+    "parentId": 1182991121
+  },
+  {
+    "price": 5,
+    "tierPrice": 5,
+    "customerGroupId": 1720748553,
+    "websiteId": 521672495,
+    "childId": 1882866972,
+    "parentId": 755939587
+  },
+  {
+    "price": 6,
+    "tierPrice": 6,
+    "customerGroupId": 1063791061,
+    "websiteId": 540509737,
+    "childId": 1140145322,
+    "parentId": 162663462
+  },
+  {
+    "price": 7,
+    "tierPrice": 7,
+    "customerGroupId": 158668085,
+    "websiteId": 1715907836,
+    "childId": 611806679,
+    "parentId": 2094734979
+  },
+  {
+    "price": 8,
+    "tierPrice": 8,
+    "customerGroupId": 875872820,
+    "websiteId": 438965995,
+    "childId": 1973139541,
+    "parentId": 1767333863
+  },
+  {
+    "price": 9,
+    "tierPrice": 9,
+    "customerGroupId": 939935172,
+    "websiteId": 226441208,
+    "childId": 1070378889,
+    "parentId": 1067345223
+  }
+]

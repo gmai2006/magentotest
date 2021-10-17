@@ -1,0 +1,122 @@
+[
+  {
+    "realAmount": 0,
+    "taxableItemType": "Lorem ipsum dolor si0",
+    "amount": 0,
+    "associatedItemId": 0,
+    "taxPercent": 0,
+    "baseAmount": 0,
+    "realBaseAmount": 0,
+    "itemId": 2115035095,
+    "taxItemId": 420143557,
+    "taxId": 413198425
+  },
+  {
+    "realAmount": 1,
+    "taxableItemType": "Lorem ipsum dolor si1",
+    "amount": 1,
+    "associatedItemId": 1,
+    "taxPercent": 1,
+    "baseAmount": 1,
+    "realBaseAmount": 1,
+    "itemId": 466997477,
+    "taxItemId": 733868259,
+    "taxId": 2126661568
+  },
+  {
+    "realAmount": 2,
+    "taxableItemType": "Lorem ipsum dolor si2",
+    "amount": 2,
+    "associatedItemId": 2,
+    "taxPercent": 2,
+    "baseAmount": 2,
+    "realBaseAmount": 2,
+    "itemId": 2016434587,
+    "taxItemId": 717437399,
+    "taxId": 483326987
+  },
+  {
+    "realAmount": 3,
+    "taxableItemType": "Lorem ipsum dolor si3",
+    "amount": 3,
+    "associatedItemId": 3,
+    "taxPercent": 3,
+    "baseAmount": 3,
+    "realBaseAmount": 3,
+    "itemId": 610324872,
+    "taxItemId": 1237242127,
+    "taxId": 870824048
+  },
+  {
+    "realAmount": 4,
+    "taxableItemType": "Lorem ipsum dolor si4",
+    "amount": 4,
+    "associatedItemId": 4,
+    "taxPercent": 4,
+    "baseAmount": 4,
+    "realBaseAmount": 4,
+    "itemId": 589446935,
+    "taxItemId": 1893394929,
+    "taxId": 359142935
+  },
+  {
+    "realAmount": 5,
+    "taxableItemType": "Lorem ipsum dolor si5",
+    "amount": 5,
+    "associatedItemId": 5,
+    "taxPercent": 5,
+    "baseAmount": 5,
+    "realBaseAmount": 5,
+    "itemId": 313683262,
+    "taxItemId": 1520852232,
+    "taxId": 1109400817
+  },
+  {
+    "realAmount": 6,
+    "taxableItemType": "Lorem ipsum dolor si6",
+    "amount": 6,
+    "associatedItemId": 6,
+    "taxPercent": 6,
+    "baseAmount": 6,
+    "realBaseAmount": 6,
+    "itemId": 1143847094,
+    "taxItemId": 38222792,
+    "taxId": 1493195929
+  },
+  {
+    "realAmount": 7,
+    "taxableItemType": "Lorem ipsum dolor si7",
+    "amount": 7,
+    "associatedItemId": 7,
+    "taxPercent": 7,
+    "baseAmount": 7,
+    "realBaseAmount": 7,
+    "itemId": 981326026,
+    "taxItemId": 741446853,
+    "taxId": 1981716687
+  },
+  {
+    "realAmount": 8,
+    "taxableItemType": "Lorem ipsum dolor si8",
+    "amount": 8,
+    "associatedItemId": 8,
+    "taxPercent": 8,
+    "baseAmount": 8,
+    "realBaseAmount": 8,
+    "itemId": 1716949750,
+    "taxItemId": 1979271116,
+    "taxId": 1943734512
+  },
+  {
+    "realAmount": 9,
+    "taxableItemType": "Lorem ipsum dolor si9",
+    "amount": 9,
+    "associatedItemId": 9,
+    "taxPercent": 9,
+    "baseAmount": 9,
+    "realBaseAmount": 9,
+    "itemId": 841073190,
+    "taxItemId": 611993482,
+    "taxId": 1104198849
+  }
+]

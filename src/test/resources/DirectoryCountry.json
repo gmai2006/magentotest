@@ -1,0 +1,52 @@
+[
+  {
+    "iso2Code": "L0",
+    "iso3Code": "Lo0",
+    "countryId": "8d29a8ce-366b-4c00-af5d-ebcdb37c40c5"
+  },
+  {
+    "iso2Code": "L1",
+    "iso3Code": "Lo1",
+    "countryId": "848c815d-8af5-425d-bfb7-76c91c41e09d"
+  },
+  {
+    "iso2Code": "L2",
+    "iso3Code": "Lo2",
+    "countryId": "e67d6bbc-6890-477d-9104-9270fc0e7cd5"
+  },
+  {
+    "iso2Code": "L3",
+    "iso3Code": "Lo3",
+    "countryId": "33750a43-c1e0-4947-8da8-0ea534a68421"
+  },
+  {
+    "iso2Code": "L4",
+    "iso3Code": "Lo4",
+    "countryId": "a6cab429-3ab9-40bf-8b18-c4a56c59d679"
+  },
+  {
+    "iso2Code": "L5",
+    "iso3Code": "Lo5",
+    "countryId": "a432a57a-5ee8-4b03-ab81-b45e50aa250b"
+  },
+  {
+    "iso2Code": "L6",
+    "iso3Code": "Lo6",
+    "countryId": "7521b49c-49e5-4bc2-8c07-ff1052f28730"
+  },
+  {
+    "iso2Code": "L7",
+    "iso3Code": "Lo7",
+    "countryId": "77f5f859-d88c-4edd-a436-2695a2c3ae51"
+  },
+  {
+    "iso2Code": "L8",
+    "iso3Code": "Lo8",
+    "countryId": "b12ee550-7a91-4c69-ab10-b14c15935953"
+  },
+  {
+    "iso2Code": "L9",
+    "iso3Code": "Lo9",
+    "countryId": "ef56669b-7ff6-4331-82cf-cae9c984af64"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "selectionCanChangeQty": 0,
+    "selectionPriceValue": 0,
+    "isDefault": 0,
+    "parentProductId": 0,
+    "productId": 0,
+    "selectionPriceType": 0,
+    "optionId": 0,
+    "position": 0,
+    "selectionQty": 0,
+    "selectionId": 1676425554
+  },
+  {
+    "selectionCanChangeQty": 1,
+    "selectionPriceValue": 1,
+    "isDefault": 1,
+    "parentProductId": 1,
+    "productId": 1,
+    "selectionPriceType": 1,
+    "optionId": 1,
+    "position": 1,
+    "selectionQty": 1,
+    "selectionId": 1068832822
+  },
+  {
+    "selectionCanChangeQty": 2,
+    "selectionPriceValue": 2,
+    "isDefault": 2,
+    "parentProductId": 2,
+    "productId": 2,
+    "selectionPriceType": 2,
+    "optionId": 2,
+    "position": 2,
+    "selectionQty": 2,
+    "selectionId": 1875845655
+  },
+  {
+    "selectionCanChangeQty": 3,
+    "selectionPriceValue": 3,
+    "isDefault": 3,
+    "parentProductId": 3,
+    "productId": 3,
+    "selectionPriceType": 3,
+    "optionId": 3,
+    "position": 3,
+    "selectionQty": 3,
+    "selectionId": 441283846
+  },
+  {
+    "selectionCanChangeQty": 4,
+    "selectionPriceValue": 4,
+    "isDefault": 4,
+    "parentProductId": 4,
+    "productId": 4,
+    "selectionPriceType": 4,
+    "optionId": 4,
+    "position": 4,
+    "selectionQty": 4,
+    "selectionId": 1583736916
+  },
+  {
+    "selectionCanChangeQty": 5,
+    "selectionPriceValue": 5,
+    "isDefault": 5,
+    "parentProductId": 5,
+    "productId": 5,
+    "selectionPriceType": 5,
+    "optionId": 5,
+    "position": 5,
+    "selectionQty": 5,
+    "selectionId": 1155998451
+  },
+  {
+    "selectionCanChangeQty": 6,
+    "selectionPriceValue": 6,
+    "isDefault": 6,
+    "parentProductId": 6,
+    "productId": 6,
+    "selectionPriceType": 6,
+    "optionId": 6,
+    "position": 6,
+    "selectionQty": 6,
+    "selectionId": 968959857
+  },
+  {
+    "selectionCanChangeQty": 7,
+    "selectionPriceValue": 7,
+    "isDefault": 7,
+    "parentProductId": 7,
+    "productId": 7,
+    "selectionPriceType": 7,
+    "optionId": 7,
+    "position": 7,
+    "selectionQty": 7,
+    "selectionId": 913687574
+  },
+  {
+    "selectionCanChangeQty": 8,
+    "selectionPriceValue": 8,
+    "isDefault": 8,
+    "parentProductId": 8,
+    "productId": 8,
+    "selectionPriceType": 8,
+    "optionId": 8,
+    "position": 8,
+    "selectionQty": 8,
+    "selectionId": 36142683
+  },
+  {
+    "selectionCanChangeQty": 9,
+    "selectionPriceValue": 9,
+    "isDefault": 9,
+    "parentProductId": 9,
+    "productId": 9,
+    "selectionPriceType": 9,
+    "optionId": 9,
+    "position": 9,
+    "selectionQty": 9,
+    "selectionId": 438760851
+  }
+]

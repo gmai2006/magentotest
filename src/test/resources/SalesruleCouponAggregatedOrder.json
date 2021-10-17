@@ -1,0 +1,122 @@
+[
+  {
+    "totalAmount": 0,
+    "couponUses": 0,
+    "discountAmount": 0,
+    "ruleName": "Eada",
+    "subtotalAmount": 0,
+    "orderStatus": "3f17340a-5b45-4769-9328-bce58cf1ee6a",
+    "period": "2021-16-10",
+    "id": 2077331416,
+    "storeId": 104194964,
+    "couponCode": "a8e2ecb0-2806-411e-aa7d-5181f7c6d02d"
+  },
+  {
+    "totalAmount": 1,
+    "couponUses": 1,
+    "discountAmount": 1,
+    "ruleName": "Adina",
+    "subtotalAmount": 1,
+    "orderStatus": "22ccb06a-9361-48ad-ada3-a8ff8bf0403e",
+    "period": "2021-16-10",
+    "id": 1751100127,
+    "storeId": 1753941708,
+    "couponCode": "3dd55f6d-3cc1-4ad6-8566-8d653f7f79be"
+  },
+  {
+    "totalAmount": 2,
+    "couponUses": 2,
+    "discountAmount": 2,
+    "ruleName": "Kellia",
+    "subtotalAmount": 2,
+    "orderStatus": "20c65a8f-3887-4096-89f1-282321a08c53",
+    "period": "2021-16-10",
+    "id": 109468098,
+    "storeId": 1447014133,
+    "couponCode": "06304ab0-145d-4b48-a542-46b07913a45e"
+  },
+  {
+    "totalAmount": 3,
+    "couponUses": 3,
+    "discountAmount": 3,
+    "ruleName": "Tamiko",
+    "subtotalAmount": 3,
+    "orderStatus": "363819be-75f3-4ef9-bb19-614d876eee56",
+    "period": "2021-16-10",
+    "id": 410991480,
+    "storeId": 1901994782,
+    "couponCode": "d2fd6b92-5d04-401d-b6f0-eeffb9480c32"
+  },
+  {
+    "totalAmount": 4,
+    "couponUses": 4,
+    "discountAmount": 4,
+    "ruleName": "Dyann",
+    "subtotalAmount": 4,
+    "orderStatus": "797d8276-f51c-4582-b0ae-96f1103ed821",
+    "period": "2021-16-10",
+    "id": 1764464462,
+    "storeId": 546028902,
+    "couponCode": "bf49f26c-e5e0-424a-9154-dddd4b60d5fd"
+  },
+  {
+    "totalAmount": 5,
+    "couponUses": 5,
+    "discountAmount": 5,
+    "ruleName": "Roxine",
+    "subtotalAmount": 5,
+    "orderStatus": "e46af02b-b3cd-407a-871e-3d09aca0f942",
+    "period": "2021-16-10",
+    "id": 731332317,
+    "storeId": 1013946364,
+    "couponCode": "2e86ea7a-07e8-40b3-981b-9593dbcb6ae4"
+  },
+  {
+    "totalAmount": 6,
+    "couponUses": 6,
+    "discountAmount": 6,
+    "ruleName": "Theadora",
+    "subtotalAmount": 6,
+    "orderStatus": "f6fc9a00-15e7-4b0e-b4d8-7a302944b799",
+    "period": "2021-16-10",
+    "id": 87391354,
+    "storeId": 1511397083,
+    "couponCode": "ff07b0fe-0f30-4ee0-94c2-f9f56cfd8154"
+  },
+  {
+    "totalAmount": 7,
+    "couponUses": 7,
+    "discountAmount": 7,
+    "ruleName": "Misha",
+    "subtotalAmount": 7,
+    "orderStatus": "2a670189-e3db-4725-b35c-05eb4ba03b99",
+    "period": "2021-16-10",
+    "id": 2101688984,
+    "storeId": 1121151137,
+    "couponCode": "666236d3-6b44-4d29-9448-2c8a77a04198"
+  },
+  {
+    "totalAmount": 8,
+    "couponUses": 8,
+    "discountAmount": 8,
+    "ruleName": "Kaylee",
+    "subtotalAmount": 8,
+    "orderStatus": "dbaa738d-db3a-4edc-8f86-e5a9ba786cdc",
+    "period": "2021-16-10",
+    "id": 1316290468,
+    "storeId": 93398455,
+    "couponCode": "774194d1-45a1-460d-b7b9-97e7fd6114fb"
+  },
+  {
+    "totalAmount": 9,
+    "couponUses": 9,
+    "discountAmount": 9,
+    "ruleName": "Garnet",
+    "subtotalAmount": 9,
+    "orderStatus": "cc56fe2c-eab6-49e2-8b26-7a6da7f928eb",
+    "period": "2021-16-10",
+    "id": 24227696,
+    "storeId": 1449778404,
+    "couponCode": "38c40974-f237-4811-8e77-a083b876f200"
+  }
+]

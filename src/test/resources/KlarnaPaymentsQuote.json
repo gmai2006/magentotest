@@ -1,0 +1,102 @@
+[
+  {
+    "authorizationToken": "Lorem ipsum dolor si0",
+    "paymentMethodInfo": "0",
+    "clientToken": "0",
+    "paymentMethods": "Lorem ipsum dolor si0",
+    "sessionId": "Lorem ipsum dolor si0",
+    "isActive": 0,
+    "quoteId": 0,
+    "paymentsQuoteId": 314114559
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si1",
+    "paymentMethodInfo": "1",
+    "clientToken": "1",
+    "paymentMethods": "Lorem ipsum dolor si1",
+    "sessionId": "Lorem ipsum dolor si1",
+    "isActive": 1,
+    "quoteId": 1,
+    "paymentsQuoteId": 1513142235
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si2",
+    "paymentMethodInfo": "2",
+    "clientToken": "2",
+    "paymentMethods": "Lorem ipsum dolor si2",
+    "sessionId": "Lorem ipsum dolor si2",
+    "isActive": 2,
+    "quoteId": 2,
+    "paymentsQuoteId": 1517601454
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si3",
+    "paymentMethodInfo": "3",
+    "clientToken": "3",
+    "paymentMethods": "Lorem ipsum dolor si3",
+    "sessionId": "Lorem ipsum dolor si3",
+    "isActive": 3,
+    "quoteId": 3,
+    "paymentsQuoteId": 1870668295
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si4",
+    "paymentMethodInfo": "4",
+    "clientToken": "4",
+    "paymentMethods": "Lorem ipsum dolor si4",
+    "sessionId": "Lorem ipsum dolor si4",
+    "isActive": 4,
+    "quoteId": 4,
+    "paymentsQuoteId": 1028429095
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si5",
+    "paymentMethodInfo": "5",
+    "clientToken": "5",
+    "paymentMethods": "Lorem ipsum dolor si5",
+    "sessionId": "Lorem ipsum dolor si5",
+    "isActive": 5,
+    "quoteId": 5,
+    "paymentsQuoteId": 1641354993
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si6",
+    "paymentMethodInfo": "6",
+    "clientToken": "6",
+    "paymentMethods": "Lorem ipsum dolor si6",
+    "sessionId": "Lorem ipsum dolor si6",
+    "isActive": 6,
+    "quoteId": 6,
+    "paymentsQuoteId": 219257756
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si7",
+    "paymentMethodInfo": "7",
+    "clientToken": "7",
+    "paymentMethods": "Lorem ipsum dolor si7",
+    "sessionId": "Lorem ipsum dolor si7",
+    "isActive": 7,
+    "quoteId": 7,
+    "paymentsQuoteId": 1433820158
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si8",
+    "paymentMethodInfo": "8",
+    "clientToken": "8",
+    "paymentMethods": "Lorem ipsum dolor si8",
+    "sessionId": "Lorem ipsum dolor si8",
+    "isActive": 8,
+    "quoteId": 8,
+    "paymentsQuoteId": 316347499
+  },
+  {
+    "authorizationToken": "Lorem ipsum dolor si9",
+    "paymentMethodInfo": "9",
+    "clientToken": "9",
+    "paymentMethods": "Lorem ipsum dolor si9",
+    "sessionId": "Lorem ipsum dolor si9",
+    "isActive": 9,
+    "quoteId": 9,
+    "paymentsQuoteId": 741875976
+  }
+]

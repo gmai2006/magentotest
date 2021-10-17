@@ -1,0 +1,112 @@
+[
+  {
+    "createdAt": "1944-10-17T00:08:09.000-0700",
+    "customerId": 0,
+    "storeId": 0,
+    "wishlistImported": 0,
+    "wishlistModified": 0,
+    "wishlistId": 0,
+    "itemCount": 0,
+    "updatedAt": "1987-10-17T00:08:09.000-0700",
+    "id": 1003907803
+  },
+  {
+    "createdAt": "2042-10-17T00:08:14.000-0700",
+    "customerId": 1,
+    "storeId": 1,
+    "wishlistImported": 1,
+    "wishlistModified": 1,
+    "wishlistId": 1,
+    "itemCount": 1,
+    "updatedAt": "2069-10-17T00:08:14.000-0700",
+    "id": 1687371370
+  },
+  {
+    "createdAt": "2012-10-17T00:08:14.000-0700",
+    "customerId": 2,
+    "storeId": 2,
+    "wishlistImported": 2,
+    "wishlistModified": 2,
+    "wishlistId": 2,
+    "itemCount": 2,
+    "updatedAt": "2084-10-17T00:08:14.000-0700",
+    "id": 1221016426
+  },
+  {
+    "createdAt": "1928-10-16T23:08:14.000-0800",
+    "customerId": 3,
+    "storeId": 3,
+    "wishlistImported": 3,
+    "wishlistModified": 3,
+    "wishlistId": 3,
+    "itemCount": 3,
+    "updatedAt": "2083-10-17T00:08:14.000-0700",
+    "id": 1660235123
+  },
+  {
+    "createdAt": "2012-10-17T00:08:14.000-0700",
+    "customerId": 4,
+    "storeId": 4,
+    "wishlistImported": 4,
+    "wishlistModified": 4,
+    "wishlistId": 4,
+    "itemCount": 4,
+    "updatedAt": "2076-10-17T00:08:14.000-0700",
+    "id": 1251378653
+  },
+  {
+    "createdAt": "2028-10-17T00:08:14.000-0700",
+    "customerId": 5,
+    "storeId": 5,
+    "wishlistImported": 5,
+    "wishlistModified": 5,
+    "wishlistId": 5,
+    "itemCount": 5,
+    "updatedAt": "2068-10-17T00:08:14.000-0700",
+    "id": 1981687621
+  },
+  {
+    "createdAt": "2079-10-17T00:08:14.000-0700",
+    "customerId": 6,
+    "storeId": 6,
+    "wishlistImported": 6,
+    "wishlistModified": 6,
+    "wishlistId": 6,
+    "itemCount": 6,
+    "updatedAt": "2032-10-17T00:08:14.000-0700",
+    "id": 1125354450
+  },
+  {
+    "createdAt": "2049-10-17T00:08:14.000-0700",
+    "customerId": 7,
+    "storeId": 7,
+    "wishlistImported": 7,
+    "wishlistModified": 7,
+    "wishlistId": 7,
+    "itemCount": 7,
+    "updatedAt": "2067-10-17T00:08:14.000-0700",
+    "id": 829746153
+  },
+  {
+    "createdAt": "2032-10-17T00:08:14.000-0700",
+    "customerId": 8,
+    "storeId": 8,
+    "wishlistImported": 8,
+    "wishlistModified": 8,
+    "wishlistId": 8,
+    "itemCount": 8,
+    "updatedAt": "1971-10-17T00:08:14.000-0700",
+    "id": 2114466734
+  },
+  {
+    "createdAt": "1945-10-16T23:08:14.000-0800",
+    "customerId": 9,
+    "storeId": 9,
+    "wishlistImported": 9,
+    "wishlistModified": 9,
+    "wishlistId": 9,
+    "itemCount": 9,
+    "updatedAt": "1969-10-17T00:08:14.000-0700",
+    "id": 1252317418
+  }
+]

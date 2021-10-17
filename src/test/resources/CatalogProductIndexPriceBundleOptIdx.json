@@ -1,0 +1,112 @@
+[
+  {
+    "altPrice": 0,
+    "altTierPrice": 0,
+    "minPrice": 0,
+    "maxPrice": 0,
+    "tierPrice": 0,
+    "customerGroupId": 1145749411,
+    "websiteId": 1826299198,
+    "optionId": 202341531,
+    "entityId": 1243023383
+  },
+  {
+    "altPrice": 1,
+    "altTierPrice": 1,
+    "minPrice": 1,
+    "maxPrice": 1,
+    "tierPrice": 1,
+    "customerGroupId": 1444047599,
+    "websiteId": 1007992035,
+    "optionId": 578772266,
+    "entityId": 361160584
+  },
+  {
+    "altPrice": 2,
+    "altTierPrice": 2,
+    "minPrice": 2,
+    "maxPrice": 2,
+    "tierPrice": 2,
+    "customerGroupId": 15797177,
+    "websiteId": 698420382,
+    "optionId": 469165557,
+    "entityId": 431393751
+  },
+  {
+    "altPrice": 3,
+    "altTierPrice": 3,
+    "minPrice": 3,
+    "maxPrice": 3,
+    "tierPrice": 3,
+    "customerGroupId": 937098963,
+    "websiteId": 1837170604,
+    "optionId": 814942125,
+    "entityId": 1269407285
+  },
+  {
+    "altPrice": 4,
+    "altTierPrice": 4,
+    "minPrice": 4,
+    "maxPrice": 4,
+    "tierPrice": 4,
+    "customerGroupId": 689309975,
+    "websiteId": 2124313562,
+    "optionId": 586139375,
+    "entityId": 999813448
+  },
+  {
+    "altPrice": 5,
+    "altTierPrice": 5,
+    "minPrice": 5,
+    "maxPrice": 5,
+    "tierPrice": 5,
+    "customerGroupId": 2129994570,
+    "websiteId": 856455799,
+    "optionId": 392896266,
+    "entityId": 793529327
+  },
+  {
+    "altPrice": 6,
+    "altTierPrice": 6,
+    "minPrice": 6,
+    "maxPrice": 6,
+    "tierPrice": 6,
+    "customerGroupId": 1375471688,
+    "websiteId": 1167891508,
+    "optionId": 1896912285,
+    "entityId": 1996920279
+  },
+  {
+    "altPrice": 7,
+    "altTierPrice": 7,
+    "minPrice": 7,
+    "maxPrice": 7,
+    "tierPrice": 7,
+    "customerGroupId": 1681210320,
+    "websiteId": 1372666147,
+    "optionId": 1568419278,
+    "entityId": 1763410733
+  },
+  {
+    "altPrice": 8,
+    "altTierPrice": 8,
+    "minPrice": 8,
+    "maxPrice": 8,
+    "tierPrice": 8,
+    "customerGroupId": 254112746,
+    "websiteId": 1861134050,
+    "optionId": 455546148,
+    "entityId": 417204589
+  },
+  {
+    "altPrice": 9,
+    "altTierPrice": 9,
+    "minPrice": 9,
+    "maxPrice": 9,
+    "tierPrice": 9,
+    "customerGroupId": 1229713137,
+    "websiteId": 1378143953,
+    "optionId": 605815810,
+    "entityId": 1351749465
+  }
+]

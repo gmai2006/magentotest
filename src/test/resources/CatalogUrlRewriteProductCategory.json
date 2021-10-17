@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 0,
+    "urlRewriteId": 0,
+    "categoryId": 0,
+    "defaultId": "6448e58c-60aa-45c9-8880-6b1fca8bf1ec"
+  },
+  {
+    "productId": 1,
+    "urlRewriteId": 1,
+    "categoryId": 1,
+    "defaultId": "21f77072-9b32-4400-bc29-33efc3385ea5"
+  },
+  {
+    "productId": 2,
+    "urlRewriteId": 2,
+    "categoryId": 2,
+    "defaultId": "94ce38cc-2a92-4078-9c98-cdf1c88dd250"
+  },
+  {
+    "productId": 3,
+    "urlRewriteId": 3,
+    "categoryId": 3,
+    "defaultId": "e3d01403-8d53-489e-81a8-722ae2f8499a"
+  },
+  {
+    "productId": 4,
+    "urlRewriteId": 4,
+    "categoryId": 4,
+    "defaultId": "7b1be563-4d70-4621-9a83-167b66d8742d"
+  },
+  {
+    "productId": 5,
+    "urlRewriteId": 5,
+    "categoryId": 5,
+    "defaultId": "de4f6f48-0ad5-4825-8659-ed84d63ee458"
+  },
+  {
+    "productId": 6,
+    "urlRewriteId": 6,
+    "categoryId": 6,
+    "defaultId": "a0f29f67-277b-4f98-bb11-3e75d30a0521"
+  },
+  {
+    "productId": 7,
+    "urlRewriteId": 7,
+    "categoryId": 7,
+    "defaultId": "a271f256-8543-422d-9bbc-181c299e91e0"
+  },
+  {
+    "productId": 8,
+    "urlRewriteId": 8,
+    "categoryId": 8,
+    "defaultId": "316187d2-1581-472f-9562-c9786d672f02"
+  },
+  {
+    "productId": 9,
+    "urlRewriteId": 9,
+    "categoryId": 9,
+    "defaultId": "9631b8ae-7b11-4937-855c-06d737dccf47"
+  }
+]

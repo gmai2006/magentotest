@@ -1,0 +1,82 @@
+[
+  {
+    "sampleUrl": "Lorem ipsum dolor si0",
+    "productId": 0,
+    "sampleFile": "Lorem ipsum dolor si0",
+    "sortOrder": 0,
+    "sampleType": "Lorem ipsum dolor s0",
+    "sampleId": 27862671
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si1",
+    "productId": 1,
+    "sampleFile": "Lorem ipsum dolor si1",
+    "sortOrder": 1,
+    "sampleType": "Lorem ipsum dolor s1",
+    "sampleId": 1019770404
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si2",
+    "productId": 2,
+    "sampleFile": "Lorem ipsum dolor si2",
+    "sortOrder": 2,
+    "sampleType": "Lorem ipsum dolor s2",
+    "sampleId": 201656911
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si3",
+    "productId": 3,
+    "sampleFile": "Lorem ipsum dolor si3",
+    "sortOrder": 3,
+    "sampleType": "Lorem ipsum dolor s3",
+    "sampleId": 1784214553
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si4",
+    "productId": 4,
+    "sampleFile": "Lorem ipsum dolor si4",
+    "sortOrder": 4,
+    "sampleType": "Lorem ipsum dolor s4",
+    "sampleId": 401428394
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si5",
+    "productId": 5,
+    "sampleFile": "Lorem ipsum dolor si5",
+    "sortOrder": 5,
+    "sampleType": "Lorem ipsum dolor s5",
+    "sampleId": 1340404357
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si6",
+    "productId": 6,
+    "sampleFile": "Lorem ipsum dolor si6",
+    "sortOrder": 6,
+    "sampleType": "Lorem ipsum dolor s6",
+    "sampleId": 946782761
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si7",
+    "productId": 7,
+    "sampleFile": "Lorem ipsum dolor si7",
+    "sortOrder": 7,
+    "sampleType": "Lorem ipsum dolor s7",
+    "sampleId": 133064911
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si8",
+    "productId": 8,
+    "sampleFile": "Lorem ipsum dolor si8",
+    "sortOrder": 8,
+    "sampleType": "Lorem ipsum dolor s8",
+    "sampleId": 887836231
+  },
+  {
+    "sampleUrl": "Lorem ipsum dolor si9",
+    "productId": 9,
+    "sampleFile": "Lorem ipsum dolor si9",
+    "sortOrder": 9,
+    "sampleType": "Lorem ipsum dolor s9",
+    "sampleId": 429420465
+  }
+]
